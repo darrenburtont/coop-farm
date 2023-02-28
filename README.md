@@ -4,7 +4,6 @@ Chicken Farm Data Exercise
 Providing improved packaging with lineage information for each individual bird.
 
 ### Data Schema
- ___
 <details>
     
 ___
@@ -36,7 +35,6 @@ You will probably need more columns than just the above minimum information.
     </details>
     
 ### Generate data
-___
 <details>
 Two weeks after your starting, all records were destroyed after a ransom malware attack scrambled the database filesystem. Despite the farmworkers trying to remember all the chicken's names, it's impossible to tell them apart now.
 
@@ -56,7 +54,7 @@ What can you do to make these records seem as realistic as possible? (have reali
     </details>
     
     ### Name tags for Guided Tours
- ___
+ 
  <details>
 We Give guided tours of the farm and introduce all the chickens to visitors. 
 To make this possible we print tags and attached to each chicken's leg. 
@@ -76,7 +74,6 @@ The Tag includes:
     
     
     ### Bonus
-___
 <details>
 Create a dashboard in Metabase that shows some KPIs for this chicken farm. 
 Please include either a public link or a screenshot.
@@ -111,5 +108,3 @@ https://www.typesofchicken.com/keeping-ancona-chickens/
 #### Hatching Rates
 https://rosehillfarm.ca/2020/04/25/incubating-chickeneggs/#:~:text=Eggs%20typically%20hatch%20at%20a,just%20a%20law%20of%20averages
     </details>
-    
-
