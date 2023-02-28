@@ -82,6 +82,7 @@ Create a dashboard in Metabase that shows some KPIs for this chicken farm.
 Please include either a public link or a screenshot.
     </details>
     
+    
     ### Assumptions
 <details>
 
