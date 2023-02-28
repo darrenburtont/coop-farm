@@ -1,0 +1,10 @@
+COPY chicken_name_tags FROM 'Coop\chicken_name_tags.parquet' (FORMAT 'parquet');
+COPY songs_df FROM 'Coop\songs_df.parquet' (FORMAT 'parquet');
+COPY egg_only_df FROM 'Coop\egg_only_df.parquet' (FORMAT 'parquet');
+COPY chickens_total_df FROM 'Coop\chickens_total_df.parquet' (FORMAT 'parquet');
+COPY int_tags_df FROM 'Coop\int_tags_df.parquet' (FORMAT 'parquet');
+COPY barb_df FROM 'Coop\barb_df.parquet' (FORMAT 'parquet');
+COPY liz_df FROM 'Coop\liz_df.parquet' (FORMAT 'parquet');
+COPY mary_df FROM 'Coop\mary_df.parquet' (FORMAT 'parquet');
+COPY pat_df FROM 'Coop\pat_df.parquet' (FORMAT 'parquet');
+COPY name_tags_full_df FROM 'Coop\name_tags_full_df.parquet' (FORMAT 'parquet');
