@@ -78,33 +78,3 @@ The Tag includes:
 Create a dashboard in Metabase that shows some KPIs for this chicken farm. 
 Please include either a public link or a screenshot.
     </details>
-    
-
-    ### Assumptions
-<details>
-#### Start Date
-On March 11, 2020, the World Health Organization (WHO) declared COVID-19, the disease caused by the SARS-CoV-2, a pandemic. The announcement followed a rising sense of alarm in the preceding months over a new, potentially lethal virus that was swiftly spreading around the world.
-
-#### Hen to Rooster Ratio
-https://www.thehappychickencoop.com/whats-the-perfect-ratio-of-hens-to-roosters/
-
-#### List of Chicken Breeds
-https://www.typesofchicken.com/best-chickens-for-texas-humidity/
-
-https://starmilling.com/poultry-chicken-breeds/#:~:text=There%20are%209%20recognized%20colors,tailed%20Buff%2C%20White%20and%20Columbian.
-
-Breeds for Texas
-Best-egg-laying breed in Texas that doesn’t have the issues with humidity, heat, and fertility yet still lays pretty well, we suggest the Mediterranean sorts:
-
-* Ancona
-* Catalana
-* Egyptian Fayoumi
-* Leghorn
-* Hamburg
-
-#### Ancona Details for Texas
-https://www.typesofchicken.com/keeping-ancona-chickens/
-    
-#### Hatching Rates
-https://rosehillfarm.ca/2020/04/25/incubating-chickeneggs/#:~:text=Eggs%20typically%20hatch%20at%20a,just%20a%20law%20of%20averages
-    </details>
