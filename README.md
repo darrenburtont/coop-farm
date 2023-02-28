@@ -82,10 +82,9 @@ Create a dashboard in Metabase that shows some KPIs for this chicken farm.
 Please include either a public link or a screenshot.
     </details>
     
-    
+
     ### Assumptions
 <details>
-
 #### Start Date
 On March 11, 2020, the World Health Organization (WHO) declared COVID-19, the disease caused by the SARS-CoV-2, a pandemic. The announcement followed a rising sense of alarm in the preceding months over a new, potentially lethal virus that was swiftly spreading around the world.
 
