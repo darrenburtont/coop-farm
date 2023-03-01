@@ -1,1506 +1,1051 @@
 ,Name,Favorite_Song,Mother,Father,GrandMother,GrandFather,I_LOC,Mother_I_LOC,Father_I_LOC,GrandMother_I_LOC,GrandFather_I_LOC,Cousin
-0,JI,Band on the Run,SIGRID,Rowan,Pat,Ralph,C,B,A,B,B,ELKE
-1,ODELL,Urgent,SIGRID,Darius,Pat,Ralph,B,B,B,B,B,THANH
-2,Kameron,Cum On Feel the Noize,SIGRID,Easton,Pat,Ralph,C,B,A,B,B,EDYTHE
-3,KASSIE,Ballroom Blitz,SIGRID,Devin,Pat,Ralph,A,B,A,B,B,JUANA
-4,Alex,Baker Street,SIGRID,Brad,Pat,Ralph,B,B,B,B,B,Drake
-5,YEN,Maxwell's Silver Hammer,SIGRID,Fidel,Pat,Ralph,A,B,B,B,B,Demarcus
-6,JUNG,Chest Fever,SIGRID,Chaz,Pat,Ralph,C,B,A,B,B,Steve
-7,Reuben,Cry For A Shadow,SIGRID,Blaze,Pat,Ralph,B,B,B,B,B,BONG
-8,MELAINE,Turn On Your Love Light,SIGRID,Orlando,Pat,Ralph,A,B,A,B,B,NAKITA
-9,NAKITA,Some Kind of Wonderful,SIGRID,Forrest,Pat,Ralph,B,B,C,B,B,CLARETTA
-10,Louis,I Thank You,SIGRID,Forrest,Pat,Ralph,C,B,C,B,B,TABITHA
-11,EURA,What You Need,SIGRID,Camden,Pat,Ralph,B,B,A,B,B,CHAROLETTE
-12,BREANN,Cherry Bomb,SIGRID,Daryl,Pat,Ralph,C,B,B,B,B,Tobias
-13,Jessie,I'll Fall In Love Again,SIGRID,Daryl,Pat,Ralph,A,B,B,B,B,Alec
-14,Elliot,Renegade,SIGRID,Keon,Pat,Ralph,B,B,C,B,B,Trey
-15,Tre,Midnight Blue,SIGRID,Keon,Pat,Ralph,C,B,C,B,B,Sergio
-16,DELIA,I Can't Quit You Baby,SIGRID,Zane,Pat,Ralph,C,B,A,B,B,PIEDAD
-17,Stone,For Those About To Rock,SIGRID,Agustin,Pat,Ralph,C,B,C,B,B,CORRINNE
-18,ELFRIEDE,Diamond Dogs,SIGRID,Shane,Pat,Ralph,B,B,B,B,B,Shawn
-19,GAYLE,Bad Case Of Lovin' You,SIGRID,Shane,Pat,Ralph,C,B,B,B,B,Rhett
-20,Christopher,HEARD IT IN A LOVE SONG,SIGRID,Deandre,Pat,Ralph,B,B,B,B,B,Cullen
-21,CAREN,Have a Drink On Me,SIGRID,Draven,Pat,Ralph,C,B,A,B,B,GAYNELL
-22,Gerard,Starman,SIGRID,Draven,Pat,Ralph,B,B,A,B,B,Garrison
-23,APOLONIA,Fly,SIGRID,Bradly,Pat,Ralph,B,B,B,B,B,Deontae
-24,Darrin,Lyin' Eyes,SIGRID,Bradly,Pat,Ralph,A,B,B,B,B,Mateo
-25,Leonard,"De Do Do Do, De Da Da Da",SIGRID,Elmer,Pat,Ralph,B,B,C,B,B,Jeremy
-26,JOSETTE,Hold Me,RAYMONDE,Rowan,Barb,Ralph,C,B,A,B,B,Jamil
-27,JOCELYN,The Changeling,RAYMONDE,Camden,Barb,Ralph,B,B,A,B,B,DENISE
-28,RISA,Two Of Us,RAYMONDE,Donavan,Barb,Ralph,C,B,B,B,B,Aden
-29,Misael,Mistral Wind,RAYMONDE,Keyon,Barb,Ralph,B,B,C,B,B,LECIA
-30,LASHELL,Brothers In Arms,RAYMONDE,Keaton,Barb,Ralph,C,B,A,B,B,Braxton
-31,Gaven,I Am the Walrus,RAYMONDE,Santos,Barb,Ralph,A,B,B,B,B,John
-32,Adonis,Jamming,RAYMONDE,Fred,Barb,Ralph,A,B,B,B,B,Brooks
-33,LOUELLA,How You Remind Me,RAYMONDE,Terrance,Barb,Ralph,C,B,B,B,B,KANDIS
-34,KIARA,Maggie May,RAYMONDE,Pierce,Barb,Ralph,A,B,B,B,B,Kirk
-35,Branden,While My Guitar Gently Weeps,RAYMONDE,Evan,Barb,Ralph,A,B,B,B,B,Kavon
-36,MAGARET,This Beat Goes on/Switching to Glide,RAYMONDE,Orion,Barb,Ralph,A,B,C,B,B,MEG
-37,Tariq,Roll On Down The Highway,RAYMONDE,Shea,Barb,Ralph,B,B,C,B,B,MAGARET
-38,Felix,No One to Depend On,RAYMONDE,Shea,Barb,Ralph,B,B,C,B,B,Reilly
-39,Jeremy,Flying High Again,DEANN,Rowan,Pat,Ralph,B,C,A,C,C,ALICIA
-40,Holden,Two Tickets To Paradise,DEANN,Fidel,Pat,Ralph,A,C,B,C,C,Marco
-41,Earl,Long Distance Runaround,DEANN,Fidel,Pat,Ralph,B,C,B,C,C,TABITHA
-42,Vincent,Big Gun,DEANN,Fidel,Pat,Ralph,C,C,B,C,C,FELICIA
-43,ELSY,Something,DEANN,Deandre,Pat,Ralph,B,C,B,C,C,DENISE
-44,Brandan,What Do All The People Know,DEANN,Draven,Pat,Ralph,A,C,A,C,C,JENI
-45,DEADRA,Lucky Man,DEANN,Bradly,Pat,Ralph,C,C,B,C,C,RAQUEL
-46,LEONE,Changes,DEANN,Keyon,Pat,Ralph,A,C,C,C,C,Nathan
-47,LORA,Badlands,DEANN,Keyon,Pat,Ralph,A,C,C,C,C,Nick
-48,ALESHA,Walk Away,DEANN,Carson,Pat,Ralph,A,C,C,C,C,JENNETTE
-49,ULA,Fame,DEANN,Landon,Pat,Ralph,B,C,A,C,C,ILENE
-50,Kendall,Natural Thing,DEANN,Brodie,Pat,Ralph,B,C,B,C,C,CATHERINA
-51,Greyson,Another One Bites the Dust,DEANN,Reynaldo,Pat,Ralph,A,C,B,C,C,Fabian
-52,Ramon,Under Pressure,DEANN,Salvatore,Pat,Ralph,B,C,B,C,C,Kobe
-53,AUBREY,The Ripper,DEANN,Alberto,Pat,Ralph,C,C,A,C,C,JUANA
-54,BELLE,Follow You Follow Me,DEANN,Ronaldo,Pat,Ralph,C,C,A,C,C,Drake
-55,KERRIE,Edge of Seventeen,DEANN,Tyrese,Pat,Ralph,C,C,B,C,C,Dandre
-56,JEN,Listen To Your Heart,DEANN,Ayden,Pat,Ralph,A,C,A,C,C,Marcus
-57,VERONIQUE,GIMME SOME LOVIN',ELIZA,Rowan,Mary,Ralph,B,C,A,C,C,Jayson
-58,ARLEAN,Top Jimmy,ELIZA,Darius,Mary,Ralph,C,C,B,C,C,GWENN
-59,Kory,Miami 2017 (Seen The Lights Go Out On Broadway) (live 1,ELIZA,Easton,Mary,Ralph,B,C,A,C,C,Rodney
-60,KAREN,18 And Life,ELIZA,Forrest,Mary,Ralph,A,C,C,C,C,Ronnie
-61,ROMANA,Cherry Pie,ELIZA,Shane,Mary,Ralph,B,C,B,C,C,Fernando
-62,Braeden,(You Gotta) Fight for Your Right (To Party),ELIZA,Bradly,Mary,Ralph,C,C,B,C,C,FANNIE
-63,Cameron,Walk On The Wild Side,ELIZA,Keaton,Mary,Ralph,B,C,A,C,C,JOSE
-64,LETTY,Midnight Blue,ELIZA,Santos,Mary,Ralph,B,C,B,C,C,Peter
-65,Malcolm,Breakdown,ELIZA,Santos,Mary,Ralph,A,C,B,C,C,Jovani
-66,Cornelius,Hush,ELIZA,Terrance,Mary,Ralph,A,C,B,C,C,Ahmed
-67,ELLEN,Right Down the Line,ELIZA,Evan,Mary,Ralph,A,C,B,C,C,Rashawn
-68,Will,Ziggy Stardust,ELIZA,Orion,Mary,Ralph,C,C,C,C,C,Javonte
-69,Casey,19th Nervous Breakdown,ELIZA,Shea,Mary,Ralph,A,C,C,C,C,ANNETTA
-70,Milton,No Sugar Tonight / New Mother Nature,ELIZA,Carson,Mary,Ralph,C,C,C,C,C,LAKENYA
-71,JALEESA,Under the Bridge,ELIZA,Adonis,Mary,Ralph,A,C,B,C,C,Marc
-72,CORDIA,One Love,ELIZA,Maxwell,Mary,Ralph,C,C,B,C,C,Cortez
-73,Jamarcus,TALK OF THE TOWN,ELIZA,Alberto,Mary,Ralph,C,C,A,C,C,ALBERTINE
-74,Kade,Sweet Home Alabama,ELIZA,Tariq,Mary,Ralph,B,C,B,C,C,CHRISTINIA
-75,Alden,Sweet Jane (Live),ELIZA,Owen,Mary,Ralph,B,C,A,C,C,Santiago
-76,JAMEY,Analog Man,ELIZA,Tyrese,Mary,Ralph,B,C,B,C,C,LUISA
-77,Nathan,Nothing Else Matters,ALAINE,Rowan,Barb,Ralph,A,C,A,C,C,WILLIE
-78,Bailey,House Of Fire,ALAINE,Darius,Barb,Ralph,A,C,B,C,C,Nathen
-79,ASHLYN,Big City Nights,ALAINE,Brad,Barb,Ralph,A,C,B,C,C,Bailey
-80,BETH,Ain't Even Done With the Night,ALAINE,Daryl,Barb,Ralph,B,C,B,C,C,Brooks
-81,NICHELLE,Listen To The Music,ALAINE,Agustin,Barb,Ralph,C,C,C,C,C,CHRYSTAL
-82,SHAREE,Dog Eat Dog,ALAINE,Shane,Barb,Ralph,A,C,B,C,C,MARYA
-83,Edgar,Jump into the Fire,ALAINE,Deandre,Barb,Ralph,C,C,B,C,C,LETISHA
-84,Ray,South California Purples,ALAINE,Evan,Barb,Ralph,A,C,B,C,C,LOUELLA
-85,CHRISTINE,Centerfold,ALAINE,Cruz,Barb,Ralph,C,C,B,C,C,PATSY
-86,Matteo,Carry On Wayward Son,ALAINE,Cruz,Barb,Ralph,A,C,B,C,C,Nikhil
-87,DEBORAH,Strawberry Fields Forever,ALAINE,Jaren,Barb,Ralph,B,C,C,C,C,HARRIETT
-88,SHALA,Centerfold,ALAINE,Jaren,Barb,Ralph,C,C,C,C,C,Luke
-89,Arturo,After Midnight,ALAINE,Landon,Barb,Ralph,C,C,A,C,C,Miles
-90,Keegan,Rock On,ALAINE,Brodie,Barb,Ralph,C,C,B,C,C,INGER
-91,Saul,Show Don't Tell,ALAINE,Griffin,Barb,Ralph,C,C,B,C,C,Hassan
-92,Joan,Tie Your Mother Down,ALAINE,Griffin,Barb,Ralph,C,C,B,C,C,CELESTA
-93,Austin,What If I Came Knocking,ALAINE,Jayce,Barb,Ralph,A,C,A,C,C,Alek
-94,Rudy,Misunderstanding,ALAINE,Rohan,Barb,Ralph,C,C,C,C,C,JONELL
-95,Fernando,Bad Moon Rising,LEIDA,Rowan,Mary,Ralph,A,C,A,C,C,KACIE
-96,JONE,DANIEL,LEIDA,Brad,Mary,Ralph,B,C,B,C,C,LEE
-97,Brandyn,Ten Years Gone,LEIDA,Brad,Mary,Ralph,A,C,B,C,C,Stephan
-98,Dean,GIRL,LEIDA,Chaz,Mary,Ralph,A,C,A,C,C,Marquis
-99,Nick,Doom And Gloom,LEIDA,Blaze,Mary,Ralph,C,C,B,C,C,Oscar
-100,Ivan,Call Me the Breeze,LEIDA,Forrest,Mary,Ralph,C,C,C,C,C,CATRINA
-101,JACQUIE,Like a Rolling Stone,LEIDA,Camden,Mary,Ralph,B,C,A,C,C,SHAWNEE
-102,LORIA,Pulling Mussels,LEIDA,Camden,Mary,Ralph,A,C,A,C,C,Gordon
-103,Marquis,Goodbye To Romance,LEIDA,Keon,Mary,Ralph,A,C,C,C,C,Marquis
-104,MABELLE,Walk On The Wild Side,LEIDA,Zane,Mary,Ralph,B,C,A,C,C,SHAWNEE
-105,Paxton,Roadrunner,LEIDA,Shane,Mary,Ralph,B,C,B,C,C,Nathen
-106,Ronnie,In The Mood,LEIDA,Keaton,Mary,Ralph,B,C,A,C,C,Tyreek
-107,Chris,T.N.T.,LEIDA,Adonis,Mary,Ralph,C,C,B,C,C,JIMMIE
-108,ALMA,Illegal Smile,LEIDA,Reynaldo,Mary,Ralph,A,C,B,C,C,Alden
-109,Xavier,The Waiting,LEIDA,Shea,Mary,Ralph,A,C,C,C,C,JADA
-110,CASSEY,Europa,LEIDA,Lawson,Mary,Ralph,A,C,A,C,C,Nathan
-111,Hugo,Into The Mystic,LEIDA,Issac,Mary,Ralph,A,C,A,C,C,Dominik
-112,LATASHIA,Take Me Home Tonight,LEIDA,Tariq,Mary,Ralph,B,C,B,C,C,LORNA
-113,Giancarlo,London Calling,LEIDA,Owen,Mary,Ralph,B,C,A,C,C,LAWRENCE
-114,IRINA,Joe's Garage,LEIDA,Tyrese,Mary,Ralph,C,C,B,C,C,Raphael
-115,Angelo,I'm So Glad,MITSUKO,Rowan,Mary,Ralph,C,A,A,A,A,KACIE
-116,Brice,Your're Sixteen,MITSUKO,Darius,Mary,Ralph,A,A,B,A,A,KELLI
-117,CATHY,"Silver, Blue And Gold",MITSUKO,Daryl,Mary,Ralph,B,A,B,A,A,Shannon
-118,Chaim,You Better Run,MITSUKO,Daryl,Mary,Ralph,B,A,B,A,A,Darrin
-119,Xzavier,Fly By Night,MITSUKO,Daryl,Mary,Ralph,B,A,B,A,A,FLORIDA
-120,Blake,Hot for Teacher,MITSUKO,Daryl,Mary,Ralph,C,A,B,A,A,Bryson
-121,Jaylen,Dancing In the Street,MITSUKO,Keon,Mary,Ralph,A,A,C,A,A,JENIFFER
-122,Clarence,Look Into The Future,MITSUKO,Shane,Mary,Ralph,A,A,B,A,A,ESTHER
-123,RICHARD,I Don't Know,MITSUKO,Deandre,Mary,Ralph,C,A,B,A,A,SHENIKA
-124,FANNIE,My Sweet Lord,MITSUKO,Santos,Mary,Ralph,A,A,B,A,A,Fernando
-125,RIKKI,Down To The Waterline,MITSUKO,Fred,Mary,Ralph,B,A,B,A,A,TRISTA
-126,JEANETTA,Brothers In Arms,MITSUKO,Evan,Mary,Ralph,B,A,B,A,A,RIKKI
-127,Reynaldo,Uncle John's Band,MITSUKO,Evan,Mary,Ralph,C,A,B,A,A,VIOLETTE
-128,Rogelio,Rock Steady,MITSUKO,Cruz,Mary,Ralph,C,A,B,A,A,Stephan
-129,Freddy,The Load-out/stay,MITSUKO,Ronaldo,Mary,Ralph,B,A,C,A,A,LUISA
-130,JOHANA,Voodoo Child (Slight Return),MITSUKO,Ronaldo,Mary,Ralph,B,A,A,A,A,YOLANDA
-131,Misael,On the Dark Side,MITSUKO,Shea,Mary,Ralph,A,A,C,A,A,Oscar
-132,Allan,Say You Love Me,MITSUKO,Issac,Mary,Ralph,A,A,A,A,A,Garrett
-133,Jeffrey,Something's Happening/,MITSUKO,Issac,Mary,Ralph,A,A,A,A,A,TAI
-134,LEDA,Sara,MITSUKO,Ignacio,Mary,Ralph,A,A,C,A,A,Oscar
-135,JOSE,Live and Let Die,MITSUKO,Owen,Mary,Ralph,A,A,A,A,A,Drake
-136,Nathanael,Wild Horses,MITSUKO,Owen,Mary,Ralph,C,A,A,A,A,TANA
-137,LORNA,Bonzo's Montreaux,MITSUKO,Jorden,Mary,Ralph,A,A,B,A,A,DONG
-138,Branden,"Blue Morning, Blue Day",MITSUKO,Jorden,Mary,Ralph,B,A,B,A,A,Nicholas
-139,Quintin,Redneck Friend,MICHA,Rowan,Mary,Ralph,C,A,A,A,A,JOSE
-140,Abram,Pretending,MICHA,Devin,Mary,Ralph,C,A,A,A,A,MAKEDA
-141,DEVORAH,Dirty Work,MICHA,Blaze,Mary,Ralph,C,A,B,A,A,MACKENZIE
-142,Bailey,Twist and Shout,MICHA,Blaze,Mary,Ralph,B,A,B,A,A,Cortez
-143,Chase,Fool In the Rain,MICHA,Blaze,Mary,Ralph,B,A,B,A,A,Conor
-144,Phoenix,Take the Money and Run,MICHA,Keon,Mary,Ralph,B,A,C,A,A,Chaim
-145,ALICA,Celebration Day,MICHA,Agustin,Mary,Ralph,B,A,C,A,A,EULAH
-146,Oliver,I'm a Man,MICHA,Bradly,Mary,Ralph,C,A,B,A,A,KAILA
-147,Brandan,Friends,MICHA,Keyon,Mary,Ralph,C,A,C,A,A,SCARLET
-148,Darryl,Since I've Been Loving You,MICHA,Keaton,Mary,Ralph,B,A,A,A,A,TAMEIKA
-149,Kyler,Dude (Looks Like a Lady),MICHA,Griffin,Mary,Ralph,C,A,B,A,A,CLARENCE
-150,ZELDA,Saturday In the Park,MICHA,Ronaldo,Mary,Ralph,A,A,C,A,A,Samson
-151,Emerson,Eight Days A Week,MICHA,Lawson,Mary,Ralph,B,A,A,A,A,JALEESA
-152,CHRISTINIA,Shot Down In Flames,MICHA,Jayce,Mary,Ralph,C,A,A,A,A,Royce
-153,JERRICA,Green Grass & High Tides,MICHA,Ayden,Mary,Ralph,A,A,A,A,A,ODETTE
-154,DELFINA,Rockin' In the Free World,MICHA,Micheal,Mary,Ralph,B,A,A,A,A,LYDIA
-155,GWENN,Centerfield,MICHA,Micheal,Mary,Ralph,A,A,A,A,A,TAI
-156,MARCENE,Heartbreaker/Living Loving Maid (She's Just A Woman),DIANNE,Rowan,Pat,Ralph,A,A,A,A,A,Royce
-157,KORI,"One Bourbon, One Scotch, One Beer",DIANNE,Fidel,Pat,Ralph,B,A,B,A,A,CLAUDETTE
-158,Alex,Let's Ride,DIANNE,Chaz,Pat,Ralph,B,A,A,A,A,Alden
-159,Rodolfo,Turn On Your Lovelight,DIANNE,Blaze,Pat,Ralph,A,A,B,A,A,ROSALINE
-160,Marcelo,Small Town,DIANNE,Zane,Pat,Ralph,C,A,A,A,A,Drake
-161,Gaven,Good Vibrations,DIANNE,Zane,Pat,Ralph,C,A,A,A,A,Dayton
-162,CORRIE,Monterey,DIANNE,Shane,Pat,Ralph,B,A,B,A,A,ALICIA
-163,Marcus,Tweeter and the Monkey Man,DIANNE,Draven,Pat,Ralph,A,A,A,A,A,MINNIE
-164,ROSALEE,Arrested For Driving While Blind,DIANNE,Elmer,Pat,Ralph,A,A,C,A,A,ELISE
-165,LINA,Eye In the Sky,DIANNE,Fred,Pat,Ralph,A,A,B,A,A,LISSA
-166,Kolton,"Girls, Girls, Girls",DIANNE,Fred,Pat,Ralph,B,A,B,A,A,Aldo
-167,LUCIE,Turn On Your Lovelight,DIANNE,Pierce,Pat,Ralph,A,A,B,A,A,Dallas
-168,Fabian,The Cisco Kid,DIANNE,Evan,Pat,Ralph,B,A,B,A,A,Nathan
-169,Rhett,Rock Me Tonight,DIANNE,Evan,Pat,Ralph,B,A,B,A,A,ULA
-170,NADENE,Stay,DIANNE,Carson,Pat,Ralph,A,A,C,A,A,Bryan
-171,MAHALIA,Jesus Just Left Chicago,DIANNE,Adonis,Pat,Ralph,C,A,B,A,A,Reece
-172,Sergio,Thorn In My Pride,DIANNE,Adonis,Pat,Ralph,A,A,B,A,A,XOCHITL
-173,MILLIE,Crossfire,DIANNE,Mike,Pat,Ralph,C,A,B,A,A,FLORETTA
-174,VIRGEN,I Still Haven't Found What I'm Looking For,DIANNE,Seth,Pat,Ralph,C,A,C,A,A,Syed
-175,Edgar,Jumpin' Jack Flash,DIANNE,Seth,Pat,Ralph,C,A,C,A,A,Darrin
-176,ESTHER,(Don't Fear) The Reaper,DIANNE,Brodie,Pat,Ralph,A,A,B,A,A,MARINDA
-177,Deontae,Angel Of Harlem,DIANNE,Brodie,Pat,Ralph,C,A,B,A,A,CAREN
-178,SHANTA,The Other Side,DIANNE,Gunnar,Pat,Ralph,B,A,C,A,A,Infant
-179,Orion,Jet Airliner,DIANNE,Gunnar,Pat,Ralph,A,A,C,A,A,NAKITA
-180,DEBI,America,DIANNE,Alberto,Pat,Ralph,B,A,A,A,A,LUCIE
-181,CANDANCE,Dirty Water,DIANNE,Ignacio,Pat,Ralph,C,A,C,A,A,KIM
-182,Trace,America,DIANNE,Ayden,Pat,Ralph,C,A,A,A,A,Manuel
-183,FLAVIA,You Belong to the City,DAYSI,Rowan,Barb,Ralph,A,A,A,A,A,Cayden
-184,Perry,No Time,DAYSI,Darius,Barb,Ralph,A,A,B,A,A,CINDA
-185,Freddie,Cherry Bomb,DAYSI,Brad,Barb,Ralph,A,A,B,A,A,LUCI
-186,River,Rikki Don't Lose That Number,DAYSI,Fidel,Barb,Ralph,C,A,B,A,A,CLAUDE
-187,LAVELLE,"Ob-la-di, Ob-la-da",DAYSI,Daryl,Barb,Ralph,C,A,B,A,A,Braxton
-188,ROXANNE,Black,DAYSI,Zane,Barb,Ralph,A,A,A,A,A,ADRIEN
-189,BETTYANN,The Legend Of Wooley Swamp,DAYSI,Shane,Barb,Ralph,C,A,B,A,A,BABETTE
-190,Trey,Synchronicity II,DAYSI,Keaton,Barb,Ralph,C,A,A,A,A,CIRA
-191,Warren,With A Little Help From My Friends,DAYSI,Carson,Barb,Ralph,A,A,C,A,A,ANTHONY
-192,DANIELL,Send Her My Love,DAYSI,Camren,Barb,Ralph,C,A,C,A,A,Nikolas
-193,GEARLDINE,Smooth,DAYSI,Quentin,Barb,Ralph,C,A,C,A,A,WINNIE
-194,Nathen,Rock and Roll,DAYSI,Quentin,Barb,Ralph,B,A,C,A,A,NICHOLE
-195,EARLEAN,Day Tripper,DAYSI,Gunnar,Barb,Ralph,C,A,C,A,A,Nathen
-196,Irvin,The Other Side,DAYSI,Griffin,Barb,Ralph,A,A,B,A,A,MEG
-197,LECIA,No One to Run With,DAYSI,Maxwell,Barb,Ralph,C,A,B,A,A,Lamar
-198,LATESHA,The Long And Winding Road,DAYSI,Daquan,Barb,Ralph,B,A,C,A,A,Rashad
-199,Charles,Slow Ride,DAYSI,Daquan,Barb,Ralph,A,A,C,A,A,Logan
-200,Lamar,Ain't Even Done With the Night,DAYSI,Tariq,Barb,Ralph,B,A,B,A,A,DELILA
-201,Isaac,Touch Too Much,DAYSI,Ignacio,Barb,Ralph,A,A,C,A,A,Nikhil
-202,JOLYNN,Screaming In The Night,DAYSI,Gustavo,Barb,Ralph,A,A,B,A,A,Leonel
-203,THAO,Won't Get Fooled Again,DAYSI,Tyrese,Barb,Ralph,A,A,B,A,A,Alek
-204,Blaine,For What It's Worth,DAYSI,Tyrese,Barb,Ralph,B,A,B,A,A,Ezra
-205,Pablo,Almost Hear You Sigh,DAYSI,Jorden,Barb,Ralph,C,A,B,A,A,Khalil
-206,ELLEN,Under Pressure,DAYSI,Micheal,Barb,Ralph,A,A,A,A,A,Maurice
-207,Baby,Bang the Drum All Day,DAYSI,Micheal,Barb,Ralph,B,A,A,A,A,KRISTA
-208,Roderick,Two Princes,DAYSI,Micheal,Barb,Ralph,A,A,A,A,A,Ray
-209,CARMA,Let's Get the Show on the Road,DAYSI,Ryder,Barb,Ralph,C,A,C,A,A,Arturo
-210,Vicente,It Can Happen,DAYSI,Ryder,Barb,Ralph,B,A,C,A,A,MIA
-211,LORELEI,Hold The Line,DANELLE,Rowan,Barb,Ralph,C,A,A,A,A,Nikolas
-212,LEA,Mrs. Robinson,DANELLE,Devin,Barb,Ralph,C,A,A,A,A,Salvador
-213,CLORINDA,You Ain't Seen Nothin' Yet,DANELLE,Orlando,Barb,Ralph,A,A,A,A,A,Jacob
-214,Amir,All My Love,DANELLE,Orlando,Barb,Ralph,C,A,A,A,A,WANDA
-215,DONNETTA,Tenth Avenue Freeze-Out,DANELLE,Forrest,Barb,Ralph,C,A,C,A,A,Trevor
-216,Jared,Love Hurts,DANELLE,Daryl,Barb,Ralph,B,A,B,A,A,Max
-217,Kurtis,Train In Vain,DANELLE,Keon,Barb,Ralph,A,A,C,A,A,Kavon
-218,Salvador,Loving You Sunday Morning,DANELLE,Fred,Barb,Ralph,A,A,B,A,A,BILLIE
-219,Daniel,Whammer Jammer,DANELLE,Pierce,Barb,Ralph,A,A,B,A,A,Jaeden
-220,LIEN,Hemorrhage,DANELLE,Evan,Barb,Ralph,C,A,B,A,A,River
-221,Lewis,Take the Long Way Home,DANELLE,Carson,Barb,Ralph,B,A,C,A,A,Felix
-222,CUC,Break On Through,DANELLE,Maxwell,Barb,Ralph,B,A,B,A,A,MARGURITE
-223,Isai,Space Cowboy,DANELLE,Maxwell,Barb,Ralph,A,A,B,A,A,MARYANNE
-224,JOHNSIE,You Can Call Me Al,DANELLE,Ronaldo,Barb,Ralph,C,A,C,A,A,Karl
-225,BOBBIE,Feels Like the First Time,DANELLE,Lawson,Barb,Ralph,A,A,A,A,A,Glen
-226,Alek,Peace Frog,DANELLE,Issac,Barb,Ralph,A,A,A,A,A,Max
-227,Layne,Bang Your Head,DANELLE,Brandyn,Barb,Ralph,B,A,C,A,A,Neil
-228,Jamel,Brass In Pocket,DANELLE,Ignacio,Barb,Ralph,C,A,C,A,A,Freddie
-229,CORALIE,Lonely Ol' Night,DANELLE,Ayden,Barb,Ralph,B,A,A,A,A,FRANCES
-230,Layne,Roll Over Beethoven,DANELLE,Micheal,Barb,Ralph,C,A,A,A,A,FATIMAH
-231,Brant,The First Cut Is The Deepest,ALENA,Rowan,Pat,Ralph,C,C,A,C,C,Keith
-232,HELGA,I Wouldn't Want to Be Like You,ALENA,Darius,Pat,Ralph,C,C,B,C,C,KERRIE
-233,Jeremy,Southern Cross,ALENA,Easton,Pat,Ralph,C,C,A,C,C,EURA
-234,CELINA,All You Need Is Love,ALENA,Brad,Pat,Ralph,C,C,B,C,C,JUSTINE
-235,Cooper,Wild Horses,ALENA,Chaz,Pat,Ralph,C,C,A,C,C,Jamie
-236,KYLE,Jackie Wilson Said,ALENA,Shane,Pat,Ralph,C,C,B,C,C,Rohan
-237,Derick,Love Song,ALENA,Bradly,Pat,Ralph,B,C,B,C,C,Elliot
-238,CLARIBEL,Bad Motor Scooter,ALENA,Landon,Pat,Ralph,A,C,A,C,C,NUMBERS
-239,GERRI,Summertime,ALENA,Adonis,Pat,Ralph,B,C,B,C,C,BRITNI
-240,Nathan,Raise Your Hands,ALENA,Mike,Pat,Ralph,A,C,B,C,C,Antwan
-241,RAQUEL,Road To Nowhere,ALENA,Quentin,Pat,Ralph,C,C,C,C,C,Tre
-242,KENIA,I'm No Angel,ALENA,Seth,Pat,Ralph,A,C,C,C,C,ROSALINE
-243,DENEEN,Sweet Emotion,ALENA,Reynaldo,Pat,Ralph,C,C,B,C,C,Tobias
-244,DOMINGA,Wishing Well,ALENA,Maxwell,Pat,Ralph,A,C,B,C,C,DEMETRIUS
-245,Lamont,American Pie,ALENA,Jayce,Pat,Ralph,B,C,A,C,C,LIEN
-246,KATHERYN,CAN'T GET IT OUT OF MY HEAD,ALENA,Gustavo,Pat,Ralph,B,C,B,C,C,Emmanuel
-247,FLORETTA,Houseparty,ALENA,Tyrese,Pat,Ralph,B,C,B,C,C,MITSUE
-248,MERLENE,Sunspot Baby,ALENA,Tyrese,Pat,Ralph,A,C,B,C,C,AUBREY
-249,Christian,No One to Depend On,ALENA,Jorden,Pat,Ralph,C,C,B,C,C,NAKITA
-250,VERNIA,Jack & Diane,KAYLENE,Rowan,Barb,Ralph,A,C,A,C,C,Brennon
-251,NICHOLE,Perfect Strangers,KAYLENE,Deandre,Barb,Ralph,C,C,B,C,C,Guillermo
-252,KENDAL,Swingtown,KAYLENE,Draven,Barb,Ralph,A,C,A,C,C,ALLEEN
-253,CLEORA,Delaware Slide,KAYLENE,Elmer,Barb,Ralph,B,C,C,C,C,MEG
-254,DEEANNA,Back Off Boogaloo,KAYLENE,Donavan,Barb,Ralph,A,C,B,C,C,Zachariah
-255,Elliot,Semi-Charmed Life,KAYLENE,Terrance,Barb,Ralph,B,C,B,C,C,WINNIE
-256,Keagan,Almost Hear You Sigh,KAYLENE,Evan,Barb,Ralph,C,C,B,C,C,KAZUKO
-257,BRITTANIE,Give a Little Bit,KAYLENE,Camren,Barb,Ralph,C,C,C,C,C,Conrad
-258,VERDA,Take the Long Way Home,KAYLENE,Camren,Barb,Ralph,C,C,C,C,C,Alonso
-259,Garett,Venus and Mars/Rock Show,KAYLENE,Camren,Barb,Ralph,B,C,C,C,C,Alden
-260,TEQUILA,You Can Leave Your Hat On (Live),KAYLENE,Maxwell,Barb,Ralph,C,C,B,C,C,Conor
-261,Jackson,Back Off Boogaloo,KAYLENE,Maxwell,Barb,Ralph,A,C,B,C,C,Giancarlo
-262,Tyree,Big Empty,KAYLENE,Shea,Barb,Ralph,C,C,C,C,C,DALENE
-263,Jordy,I'm No Angel,KAYLENE,Lawson,Barb,Ralph,A,C,A,C,C,Kameron
-264,GEORGEANN,So Lonely,KAYLENE,Issac,Barb,Ralph,B,C,A,C,C,JASON
-265,Hunter,"Train, Train",KAYLENE,Tariq,Barb,Ralph,C,C,B,C,C,Keanu
-266,EULALIA,Just Like A Woman,KAYLENE,Ignacio,Barb,Ralph,B,C,C,C,C,MILLICENT
-267,EMILIA,Proud Mary,KAYLENE,Jorden,Barb,Ralph,A,C,B,C,C,Tomas
-268,Kane,Send Her My Love,CLARITA,Rowan,Pat,Ralph,B,B,A,B,B,Darryl
-269,Shawn,Manic Depression,CLARITA,Rowan,Pat,Ralph,C,B,A,B,B,Antwan
-270,Antwan,We've Got Tonite,CLARITA,Darius,Pat,Ralph,B,B,B,B,B,Daryl
-271,Jamie,The Lamb Lies Down On Broadway,CLARITA,Daryl,Pat,Ralph,B,B,B,B,B,GAYNELL
-272,Rohan,Looks That Kill,CLARITA,Zane,Pat,Ralph,A,B,A,B,B,LORELEI
-273,SILVANA,Again Tonight,CLARITA,Agustin,Pat,Ralph,A,B,C,B,B,Kameron
-274,KIM,Running On Empty,CLARITA,Elmer,Pat,Ralph,C,B,C,B,B,BLOSSOM
-275,MADELAINE,Working Man,CLARITA,Donavan,Pat,Ralph,A,B,B,B,B,Chris
-276,CRYSTA,White Rabbit,CLARITA,Donavan,Pat,Ralph,C,B,B,B,B,Kobe
-277,MILLY,Strike up the Band,CLARITA,Fred,Pat,Ralph,A,B,B,B,B,Vincent
-278,BRITANY,Breathe,CLARITA,Pierce,Pat,Ralph,A,B,B,B,B,GAYLE
-279,EMELY,No One Like You,CLARITA,Pierce,Pat,Ralph,B,B,B,B,B,Devyn
-280,NANA,Run Through the Jungle,CLARITA,Shea,Pat,Ralph,C,B,C,B,B,CRYSTA
-281,Emmanuel,Rock And Roll Party In The Streets,CLARITA,Shea,Pat,Ralph,A,B,C,B,B,JENNETTE
-282,Infant,Nothin' But A Good Time,CLARITA,Shea,Pat,Ralph,A,B,C,B,B,Orion
-283,ROSALINE,"Careful With That Axe, Eugene",CLARITA,Salvatore,Pat,Ralph,B,B,B,B,B,Leonard
-284,NUMBERS,I Don't Want To Know,CLARITA,Maxwell,Pat,Ralph,B,B,B,B,B,ILENE
-285,LOVE,Jump,CLARITA,Daquan,Pat,Ralph,B,B,C,B,B,Gunner
-286,ELVINA,When I'm 64,CLARITA,Ayden,Pat,Ralph,B,B,A,B,B,ISABELLA
-287,Anton,Message In A Bottle,CLARITA,Jorden,Pat,Ralph,A,B,B,B,B,Orion
-288,KARINE,Starrider,CLARITA,Rohan,Pat,Ralph,C,B,C,B,B,Syed
-289,CAMILLE,Cradle of Love,KERI,Rowan,Mary,Ralph,A,A,A,A,A,Jaylan
-290,Jayson,You Give Love A Bad Name,KERI,Devin,Mary,Ralph,B,A,A,A,A,Kenneth
-291,Jett,Close My Eyes Forever,KERI,Forrest,Mary,Ralph,B,A,C,A,A,Ramon
-292,ELISSA,Since I've Been Loving You,KERI,Zane,Mary,Ralph,A,A,A,A,A,ONITA
-293,ANNIS,Who Can It Be Now?,KERI,Deandre,Mary,Ralph,A,A,B,A,A,TAMRA
-294,Noe,I Just Want To Make Love To You,KERI,Bradly,Mary,Ralph,B,A,B,A,A,Quincy
-295,Garrett,The Journey/It's Easy,KERI,Fred,Mary,Ralph,B,A,B,A,A,CHINA
-296,Paris,Too Many People,KERI,Fred,Mary,Ralph,B,A,B,A,A,LEDA
-297,KENYETTA,Santa Monica,KERI,Camren,Mary,Ralph,B,A,C,A,A,Mark
-298,Ari,It's Still Rock And Roll To Me,KERI,Brodie,Mary,Ralph,A,A,B,A,A,Javonte
-299,TOMOKO,Loving You Sunday Morning,KERI,Ronaldo,Mary,Ralph,A,A,C,A,A,GIDGET
-300,DENESE,Woman,KERI,Ronaldo,Mary,Ralph,C,A,A,A,A,MARIBETH
-301,SHAUNTA,I Heard It Through the Grapevine,KERI,Shea,Mary,Ralph,A,A,C,A,A,Jeffrey
-302,Isaac,Dancing In the Street,KERI,Ignacio,Mary,Ralph,A,A,C,A,A,GWEN
-303,TANGELA,Just A Gigolo / I Ain't Got Nobody,KERI,Jorden,Mary,Ralph,B,A,B,A,A,LUCRECIA
-304,Travis,Back Off Boogaloo,KERI,Jorden,Mary,Ralph,A,A,B,A,A,DORTHY
-305,Andy,Funk #49,KERI,Rohan,Mary,Ralph,C,A,C,A,A,SHENIKA
-306,KLARA,Jailbreak,LISBETH,Rowan,Mary,Ralph,C,B,A,B,B,Ricardo
-307,Keanu,Long Live Rock,LISBETH,Rowan,Mary,Ralph,A,B,A,B,B,Fernando
-308,THALIA,Purple Haze,LISBETH,Darius,Mary,Ralph,B,B,B,B,B,Blake
-309,Justyn,Cuts Like a Knife,LISBETH,Blaze,Mary,Ralph,A,B,B,B,B,Duncan
-310,STEFANY,Gold On The Ceiling,LISBETH,Orlando,Mary,Ralph,B,B,A,B,B,Allan
-311,RUTH,Free Fallin',LISBETH,Terrance,Mary,Ralph,B,B,B,B,B,SHARILYN
-312,Chance,Harmony,LISBETH,Terrance,Mary,Ralph,B,B,B,B,B,KLARA
-313,MARCELLA,Every Picture Tells A Story,LISBETH,Orion,Mary,Ralph,C,B,C,B,B,Angel
-314,Hector,Fm {no Static At All},LISBETH,Orion,Mary,Ralph,C,B,C,B,B,Kennedy
-315,Rasheed,Tuesday's Gone,LISBETH,Carson,Mary,Ralph,C,B,C,B,B,Milton
-316,SHARILYN,Words As Weapons,LISBETH,Landon,Mary,Ralph,A,B,A,B,B,Trevion
-317,IDELLA,Heavy Metal,LISBETH,Landon,Mary,Ralph,C,B,A,B,B,DARCEY
-318,Sincere,A Man I'll Never Be,LISBETH,Landon,Mary,Ralph,C,B,A,B,B,RUTH
-319,LAWRENCE,Wango Tango,LISBETH,Adonis,Mary,Ralph,B,B,B,B,B,Jaeden
-320,Damien,Fight The Good Fight,LISBETH,Mike,Mary,Ralph,B,B,B,B,B,Xzavier
-321,VIOLETTE,New Girl Now,LISBETH,Brodie,Mary,Ralph,C,B,B,B,B,NGA
-322,MAFALDA,Breaking the Girl,LISBETH,Brodie,Mary,Ralph,B,B,B,B,B,Cortez
-323,ARNETTA,Top of the World,LISBETH,Salvatore,Mary,Ralph,B,B,B,B,B,MAKEDA
-324,Rhett,Day Tripper,LISBETH,Ronaldo,Mary,Ralph,A,B,C,B,B,DARCEY
-325,KACIE,All Along the Watchtower,LISBETH,Alberto,Mary,Ralph,B,B,A,B,B,MAYOLA
-326,ROSIE,Under Pressure,LISBETH,Gustavo,Mary,Ralph,C,B,B,B,B,Korbin
-327,LAURALEE,Jailbreak,LISBETH,Tyrese,Mary,Ralph,B,B,B,B,B,Chase
-328,Rodney,Enter Sandman,LISBETH,Tyrese,Mary,Ralph,C,B,B,B,B,Cortez
-329,KAILA,Beautiful Day,LISBETH,Rohan,Mary,Ralph,A,B,C,B,B,Hugo
-330,MERRIE,It's A Long Way To The Top,ASIA,Rowan,Liz,Ralph,B,B,A,B,B,BREANA
-331,Marlon,Monterey,ASIA,Blaze,Liz,Ralph,C,B,B,B,B,NEREIDA
-332,Adam,Freeway Jam,ASIA,Camden,Liz,Ralph,B,B,A,B,B,Easton
-333,SHANAE,Love In An Elevator,ASIA,Agustin,Liz,Ralph,A,B,C,B,B,Elian
-334,Jacob,Who Are You,ASIA,Agustin,Liz,Ralph,C,B,C,B,B,Rowan
-335,Robert,A Day In The Life,ASIA,Draven,Liz,Ralph,B,B,A,B,B,MIRNA
-336,KASEY,Back Off Boogaloo,ASIA,Bradly,Liz,Ralph,C,B,B,B,B,SOON
-337,DONITA,"Hey Hey, My My",ASIA,Donavan,Liz,Ralph,C,B,B,B,B,Javonte
-338,CORRINA,Higher Love,ASIA,Santos,Liz,Ralph,B,B,B,B,B,MARDELL
-339,YUETTE,Someday (Single Mix),ASIA,Orion,Liz,Ralph,A,B,C,B,B,WENONA
-340,Alonzo,Fame,ASIA,Carson,Liz,Ralph,A,B,C,B,B,MILDRED
-341,Alexzander,Mr. Jones,ASIA,Cruz,Liz,Ralph,A,B,B,B,B,BIRGIT
-342,ALANE,Heart of Gold,ASIA,Adonis,Liz,Ralph,B,B,B,B,B,Justyn
-343,Keith,Wango Tango,ASIA,Camren,Liz,Ralph,A,B,C,B,B,Rickey
-344,ADA,Have You Ever Loved a Woman,ASIA,Quentin,Liz,Ralph,B,B,C,B,B,Easton
-345,Noah,Rocky Mountain Way,ASIA,Ronaldo,Liz,Ralph,B,B,A,B,B,NEREIDA
-346,Malik,Fire On High,ASIA,Shea,Liz,Ralph,A,B,C,B,B,ADRIENNE
-347,ASIA,Hey You,ASIA,Jorden,Liz,Ralph,C,B,B,B,B,Robert
-348,MILDRED,Blue On Black,KARIMA,Rowan,Liz,Ralph,A,B,A,B,B,Adam
-349,MAUDE,Monkey Wrench,KARIMA,Rowan,Liz,Ralph,C,B,A,B,B,Ernesto
-350,Khalid,Uncle Albert/Admiral Halsey,KARIMA,Darius,Liz,Ralph,A,B,B,B,B,Danny
-351,CANDANCE,Long Distance Runaround,KARIMA,Devin,Liz,Ralph,C,B,A,B,B,Bruno
-352,ABBIE,Beth,KARIMA,Fidel,Liz,Ralph,B,B,B,B,B,KAMILAH
-353,Jaxon,Kentucky Woman,KARIMA,Chaz,Liz,Ralph,A,B,A,B,B,Rickey
-354,Jarred,Good Friday,KARIMA,Daryl,Liz,Ralph,B,B,B,B,B,THEODORA
-355,Dangelo,One Of These Days,KARIMA,Zane,Liz,Ralph,B,B,A,B,B,ERNESTINA
-356,Easton,Feeling That Way,KARIMA,Deandre,Liz,Ralph,C,B,B,B,B,Nico
-357,ANETTE,All the Young Dudes,KARIMA,Keaton,Liz,Ralph,C,B,A,B,B,LAHOMA
-358,Tristan,Hey You,KARIMA,Terrance,Liz,Ralph,B,B,B,B,B,Skylar
-359,Aldo,Wild Horses,KARIMA,Pierce,Liz,Ralph,B,B,B,B,B,SHANAE
-360,TAINA,Going to California,KARIMA,Evan,Liz,Ralph,B,B,B,B,B,EUGENA
-361,Axel,Give a Little Bit,KARIMA,Brodie,Liz,Ralph,A,B,B,B,B,Easton
-362,WENONA,She Don't Know Me,KARIMA,Lawson,Liz,Ralph,C,B,A,B,B,ANNABELLE
-363,Nico,Red Rain,KARIMA,Lawson,Liz,Ralph,A,B,A,B,B,CANDANCE
-364,Damian,The Other Side,KARIMA,Issac,Liz,Ralph,C,B,A,B,B,Marlon
-365,Tanner,Have You Ever Seen the Rain?,KARIMA,Jayce,Liz,Ralph,A,B,A,B,B,CYNDI
-366,Eddie,I Wouldn't Want to Be Like You,KARIMA,Ayden,Liz,Ralph,C,B,A,B,B,Dallas
-367,Jamie,Jessica,KARIMA,Kamren,Liz,Ralph,C,B,A,B,B,KATHERN
-368,JOLYN,Romeo And Juliet,GEORGANN,Rowan,Barb,Ralph,C,C,A,C,C,CHANTAY
-369,DALENE,Hey You,GEORGANN,Brad,Barb,Ralph,C,C,B,C,C,RAYMONDE
-370,KAZUKO,Captain Jack,GEORGANN,Forrest,Barb,Ralph,B,C,C,C,C,ARMANDA
-371,Ali,The Cisco Kid,GEORGANN,Camden,Barb,Ralph,A,C,A,C,C,NICHOLE
-372,Dandre,Shout at the Devil,GEORGANN,Shane,Barb,Ralph,C,C,B,C,C,TRUDIE
-373,JONELL,Rio,GEORGANN,Donavan,Barb,Ralph,C,C,B,C,C,CAMILLA
-374,Miguel,30 Days In the Hole,GEORGANN,Terrance,Barb,Ralph,B,C,B,C,C,Alden
-375,Aiden,Imagine,GEORGANN,Evan,Barb,Ralph,B,C,B,C,C,JOSETTE
-376,DOTTY,Fight The Good Fight,GEORGANN,Mike,Barb,Ralph,C,C,B,C,C,MINH
-377,TIFFANIE,Run to You,GEORGANN,Camren,Barb,Ralph,B,C,C,C,C,Herbert
-378,Giancarlo,Sex Type Thing,GEORGANN,Alberto,Barb,Ralph,C,C,A,C,C,Terry
-379,CANDIE,Nobody's Fault But Mine,GEORGANN,Ronaldo,Barb,Ralph,C,C,A,C,C,Jamil
-380,BETSY,Love Walks In,GEORGANN,Daquan,Barb,Ralph,A,C,C,C,C,GWYN
-381,Victor,Tube Snake Boogie,GEORGANN,Daquan,Barb,Ralph,C,C,C,C,C,FLAVIA
-382,Glen,We're an American Band,GEORGANN,Tariq,Barb,Ralph,C,C,B,C,C,Conor
-383,Bronson,Burn,GEORGANN,Owen,Barb,Ralph,A,C,A,C,C,VERNIA
-384,Skyler,All Night Long,GEORGANN,Jorden,Barb,Ralph,C,C,B,C,C,MARGURITE
-385,MIGUELINA,One Thing Leads To Another,GEORGANN,Rohan,Barb,Ralph,A,C,C,C,C,FATIMA
-386,Allan,Brown Sugar,GEORGANN,Rohan,Barb,Ralph,C,C,C,C,C,CHANTAY
-387,MINH,Only the Young,LATRINA,Rowan,Barb,Ralph,A,A,A,A,A,Tariq
-388,NELLY,My Hero,LATRINA,Devin,Barb,Ralph,C,A,A,A,A,JESSI
-389,Leonel,Pulling Mussels,LATRINA,Chaz,Barb,Ralph,B,A,A,A,A,Cory
-390,Willie,There's No Way Out Of Here,LATRINA,Orlando,Barb,Ralph,B,A,A,A,A,Terry
-391,MYRNA,South California Purples,LATRINA,Forrest,Barb,Ralph,C,A,C,A,A,Felix
-392,Aiden,I Still Haven't Found What I'm Looking For,LATRINA,Forrest,Barb,Ralph,B,A,C,A,A,Corey
-393,AISHA,Fly Like an Eagle,LATRINA,Daryl,Barb,Ralph,C,A,B,A,A,Felix
-394,Terry,From Me To You,LATRINA,Keon,Barb,Ralph,A,A,C,A,A,LORAINE
-395,Vincent,The Stroke,LATRINA,Bradly,Barb,Ralph,C,A,B,A,A,MALIA
-396,Nathanael,Me and Bobby McGee,LATRINA,Donavan,Barb,Ralph,C,A,B,A,A,Saul
-397,JENNY,Never Going Back Again,LATRINA,Keaton,Barb,Ralph,C,A,A,A,A,Jason
-398,SHERILYN,You Really Got Me,LATRINA,Pierce,Barb,Ralph,C,A,B,A,A,Willie
-399,TWANA,Reason to Believe,LATRINA,Evan,Barb,Ralph,A,A,B,A,A,Edgar
-400,Theodore,I Won't Back Down,LATRINA,Shea,Barb,Ralph,C,A,C,A,A,FATIMAH
-401,Jairo,Keep On Loving You,LATRINA,Landon,Barb,Ralph,B,A,A,A,A,LORELEI
-402,GRAZYNA,World Turning,LATRINA,Mike,Barb,Ralph,A,A,B,A,A,Zachariah
-403,CLEOTILDE,By the Way,LATRINA,Brodie,Barb,Ralph,C,A,B,A,A,Brock
-404,BETHANY,In My Dreams,LATRINA,Ronaldo,Barb,Ralph,A,A,A,A,A,NOELLA
-405,Adrian,Self Esteem,LATRINA,Ronaldo,Barb,Ralph,C,A,A,A,A,River
-406,Mathew,Big Gun,LATRINA,Shea,Barb,Ralph,B,A,C,A,A,CHRYSTAL
-407,ALLEEN,Wishing Well,LATRINA,Issac,Barb,Ralph,C,A,A,A,A,KYLE
-408,ADRIEN,Nothin' at All,LATRINA,Owen,Barb,Ralph,C,A,A,A,A,PATSY
-409,Kasey,Bell Bottom Blues,LATRINA,Tyrese,Barb,Ralph,A,A,B,A,A,NORMAN
-410,KIRSTIN,What It's Like,LATRINA,Rohan,Barb,Ralph,C,A,C,A,A,ISABEL
-411,Brock,Jesus Is Just Alright,NAKISHA,Rowan,Barb,Ralph,A,B,A,B,B,Rashad
-412,EVELYNE,You Can't Always Get What You Want,NAKISHA,Darius,Barb,Ralph,C,B,B,B,B,KANDIS
-413,Maurice,Sex and Candy,NAKISHA,Darius,Barb,Ralph,C,B,B,B,B,Ulises
-414,Markus,Bound for the Floor,NAKISHA,Devin,Barb,Ralph,C,B,A,B,B,Isai
-415,MALIA,Sirens,NAKISHA,Chaz,Barb,Ralph,A,B,A,B,B,HILDA
-416,SHELLIE,Enter Sandman,NAKISHA,Orlando,Barb,Ralph,A,B,A,B,B,Deangelo
-417,ELIZBETH,Candle in the Wind,NAKISHA,Orlando,Barb,Ralph,A,B,A,B,B,Ali
-418,Manuel,The Unforgiven,NAKISHA,Daryl,Barb,Ralph,A,B,B,B,B,Trevion
-419,CHRISTENA,Reelin' in the Years,NAKISHA,Zane,Barb,Ralph,B,B,A,B,B,Conrad
-420,Turner,With a Little Help From My Friends,NAKISHA,Draven,Barb,Ralph,B,B,A,B,B,MIA
-421,MERI,Thunder Road,NAKISHA,Evan,Barb,Ralph,C,B,B,B,B,GEORGINA
-422,Name,Turn Up The Music  1977,NAKISHA,Evan,Barb,Ralph,A,B,B,B,B,CIRA
-423,TRESA,Living In The Past,NAKISHA,Landon,Barb,Ralph,B,B,A,B,B,ESTRELLA
-424,MILLICENT,Havin' A Party,NAKISHA,Landon,Barb,Ralph,B,B,A,B,B,Donte
-425,CECILE,Dreams I'll Never See,NAKISHA,Adonis,Barb,Ralph,B,B,B,B,B,Izaiah
-426,MARGURITE,China Girl,NAKISHA,Adonis,Barb,Ralph,B,B,B,B,B,Karl
-427,PRISCILA,Little Wing,NAKISHA,Seth,Barb,Ralph,B,B,C,B,B,HIEN
-428,ANNITA,You Ain't Seen Nothin' Yet,NAKISHA,Reynaldo,Barb,Ralph,C,B,B,B,B,UTE
-429,MARIAN,The Man Who Sold the World,NAKISHA,Salvatore,Barb,Ralph,B,B,B,B,B,Joan
-430,GWYN,No Leaf Clover,NAKISHA,Alberto,Barb,Ralph,A,B,A,B,B,CARLETTA
-431,Lawrence,Crossfire,NAKISHA,Jayce,Barb,Ralph,C,B,A,B,B,MALLIE
-432,NORMAN,Another One Bites the Dust,NAKISHA,Ignacio,Barb,Ralph,B,B,C,B,B,Conner
-433,Giancarlo,Time Stand Still (live),NAKISHA,Owen,Barb,Ralph,B,B,A,B,B,Tomas
-434,Javier,Two Of Us,NAKISHA,Ayden,Barb,Ralph,C,B,A,B,B,CARMEN
-435,TISH,Cult Of Personality,NAKISHA,Kamren,Barb,Ralph,A,B,A,B,B,LEA
-436,Conor,Itchycoo Park,TRUDIE,Rowan,Mary,Ralph,B,B,A,B,B,Johnathan
-437,Santiago,World Turning,TRUDIE,Devin,Mary,Ralph,C,B,A,B,B,VENNIE
-438,SHENIKA,Friday on My Mind,TRUDIE,Orlando,Mary,Ralph,B,B,A,B,B,SAMARA
-439,HAYLEY,Mind Games,TRUDIE,Orlando,Mary,Ralph,B,B,A,B,B,Cameron
-440,LORRETTA,She's a Runner,TRUDIE,Camden,Mary,Ralph,C,B,A,B,B,TANA
-441,THRESA,Man On the Moon,TRUDIE,Zane,Mary,Ralph,C,B,A,B,B,Milton
-442,Randy,Custard Pie,TRUDIE,Deandre,Mary,Ralph,B,B,B,B,B,Kennedy
-443,FELICIA,I'll Fall In Love Again,TRUDIE,Bradly,Mary,Ralph,C,B,B,B,B,Reuben
-444,Tanner,Don't Ask Me Why,TRUDIE,Pierce,Mary,Ralph,C,B,B,B,B,IDELLA
-445,SEASON,Crazy Train,TRUDIE,Evan,Mary,Ralph,C,B,B,B,B,ZELDA
-446,Kenneth,Like a Rolling Stone,TRUDIE,Carson,Mary,Ralph,A,B,C,B,B,Kyler
-447,KIT,Highway Song,TRUDIE,Quentin,Mary,Ralph,A,B,C,B,B,Ronnie
-448,GAYLA,Gimme Three Steps,TRUDIE,Salvatore,Mary,Ralph,C,B,B,B,B,Braxton
-449,Eric,I'm Leaving,TRUDIE,Salvatore,Mary,Ralph,A,B,B,B,B,Marquis
-450,Reuben,It's All I Can Do,TRUDIE,Gunnar,Mary,Ralph,C,B,C,B,B,Alvin
-451,Brayan,Seven Bridges Road,TRUDIE,Griffin,Mary,Ralph,A,B,B,B,B,Rogelio
-452,SHAWNEE,Nothing Else Matters,TRUDIE,Daquan,Mary,Ralph,A,B,C,B,B,TAMRA
-453,Duncan,Let It Be,TRUDIE,Brandyn,Mary,Ralph,A,B,C,B,B,JERRICA
-454,Jarrett,ANOTHER TRICKY DAY,TRUDIE,Jorden,Mary,Ralph,A,B,B,B,B,Travis
-455,Simon,Cocaine,TRUDIE,Rohan,Mary,Ralph,C,B,C,B,B,HYON
-456,Deondre,Romeo And Juliet,TRUDIE,Kamren,Mary,Ralph,A,B,A,B,B,Kamron
-457,Holden,The Kid Is Hot Tonite,KIYOKO,Rowan,Pat,Ralph,A,B,A,B,B,Antwan
-458,MARVEL,Learn To Fly,KIYOKO,Easton,Pat,Ralph,B,B,A,B,B,Gage
-459,XOCHITL,Piece of My Heart,KIYOKO,Brad,Pat,Ralph,B,B,B,B,B,Steve
-460,Gunnar,Livin' On The Edge,KIYOKO,Brad,Pat,Ralph,C,B,B,B,B,BRIDGETTE
-461,BLOSSOM,Twentieth Century Fox,KIYOKO,Fidel,Pat,Ralph,A,B,B,B,B,PAULENE
-462,Reid,Don't Bring Me Down,KIYOKO,Agustin,Pat,Ralph,B,B,C,B,B,Kayden
-463,THANH,Juke Box Hero,KIYOKO,Shane,Pat,Ralph,C,B,B,B,B,Trace
-464,Kameron,PLAY THAT FUNKY MUSIC,KIYOKO,Deandre,Pat,Ralph,B,B,B,B,B,CATHERINA
-465,DIGNA,Livin' On The Edge,KIYOKO,Terrance,Pat,Ralph,C,B,B,B,B,Kamren
-466,ELOUISE,Three Lock Box,KIYOKO,Orion,Pat,Ralph,C,B,C,B,B,Manuel
-467,PHYLIS,Give It To Me,KIYOKO,Shea,Pat,Ralph,A,B,C,B,B,PAULENE
-468,Deontae,I CAN'T EXPLAIN,KIYOKO,Cruz,Pat,Ralph,B,B,B,B,B,GINETTE
-469,MELINDA,I Can't Quit You Baby,KIYOKO,Jaren,Pat,Ralph,A,B,C,B,B,EVETTE
-470,DONNETTA,A Woman In Love,KIYOKO,Adonis,Pat,Ralph,A,B,B,B,B,DONNETTA
-471,Reece,Willie and the Hand Jive,KIYOKO,Adonis,Pat,Ralph,B,B,B,B,B,Eliseo
-472,LIEN,Changes,KIYOKO,Quentin,Pat,Ralph,A,B,C,B,B,Estevan
-473,Alec,Bloody Well Right,KIYOKO,Quentin,Pat,Ralph,B,B,C,B,B,MILLY
-474,Paul,Kodachrome,KIYOKO,Brodie,Pat,Ralph,A,B,B,B,B,SHEILA
-475,CLAUDETTE,Levon,KIYOKO,Griffin,Pat,Ralph,B,B,B,B,B,JUNKO
-476,ROXANE,YOUR MOTHER SHOULD KNOW,KIYOKO,Shea,Pat,Ralph,C,B,C,B,B,Steve
-477,TARSHA,TV Dinners,KIYOKO,Lawson,Pat,Ralph,A,B,A,B,B,Dayton
-478,BONG,For Your Life,KIYOKO,Tariq,Pat,Ralph,C,B,B,B,B,LANELL
-479,CYNDY,Free Me,KIYOKO,Ignacio,Pat,Ralph,C,B,C,B,B,Silas
-480,MITSUE,ANGELOS,KIYOKO,Tyrese,Pat,Ralph,B,B,B,B,B,Darrius
-481,Destin,Shooting Star,KIYOKO,Ayden,Pat,Ralph,C,B,A,B,B,KIM
-482,GLENNIE,(Oh) Pretty Woman,KIYOKO,Micheal,Pat,Ralph,B,B,A,B,B,Mateo
-483,Rhett,Like a Rolling Stone,SUSANN,Rowan,Pat,Ralph,B,B,A,B,B,ELODIA
-484,EVETTE,Wayside,SUSANN,Easton,Pat,Ralph,B,B,A,B,B,LEONE
-485,LATIA,Midnight Rider,SUSANN,Easton,Pat,Ralph,A,B,A,B,B,MELAINE
-486,Kendall,Fantasy,SUSANN,Brad,Pat,Ralph,A,B,B,B,B,JUNKO
-487,Jacob,Time,SUSANN,Orlando,Pat,Ralph,B,B,A,B,B,EDYTHE
-488,MITZIE,45,SUSANN,Keon,Pat,Ralph,C,B,C,B,B,Terrell
-489,ALEEN,House Of The Rising Sun,SUSANN,Zane,Pat,Ralph,A,B,A,B,B,BERYL
-490,ELODIA,All Right Now,SUSANN,Agustin,Pat,Ralph,C,B,C,B,B,Gunner
-491,Terrell,Brickyard Road,SUSANN,Shane,Pat,Ralph,A,B,B,B,B,Zane
-492,Deandre,Bungle In The Jungle,SUSANN,Bradly,Pat,Ralph,A,B,B,B,B,Fabian
-493,Cristopher,Where Have All the Good Times Gone!,SUSANN,Keaton,Pat,Ralph,C,B,A,B,B,Rodolfo
-494,Micah,Life Is a Highway,SUSANN,Fred,Pat,Ralph,A,B,B,B,B,VIRGEN
-495,ELISA,Let 'Em In,SUSANN,Carson,Pat,Ralph,A,B,C,B,B,LATIA
-496,Daryl,Beginnings,SUSANN,Quentin,Pat,Ralph,C,B,C,B,B,Gino
-497,Aric,Last Child,SUSANN,Brodie,Pat,Ralph,A,B,B,B,B,GAYLE
-498,RAYMOND,Rock Steady,SUSANN,Salvatore,Pat,Ralph,B,B,B,B,B,Steve
-499,Grady,My Generation,SUSANN,Brandyn,Pat,Ralph,B,B,C,B,B,PAULENE
-500,ILENE,Born to Be Wild,SUSANN,Tyrese,Pat,Ralph,A,B,B,B,B,Steve
-501,Perry,Free Ride,ERMA,Rowan,Mary,Ralph,B,A,A,A,A,Darrin
-502,Rick,Ballroom Blitz,ERMA,Easton,Mary,Ralph,C,A,A,A,A,MIRTA
-503,Lorenzo,I Melt With You,ERMA,Brad,Mary,Ralph,C,A,B,A,A,Aaron
-504,Jordon,Thunderstruck,ERMA,Forrest,Mary,Ralph,C,A,C,A,A,Travis
-505,Jayden,Street Of Dreams,ERMA,Camden,Mary,Ralph,C,A,A,A,A,Shannon
-506,RAE,I Can't Tell You Why,ERMA,Landon,Mary,Ralph,B,A,A,A,A,MINDA
-507,Ramon,Land Of Confusion,ERMA,Quentin,Mary,Ralph,A,A,C,A,A,Oscar
-508,CARLOTTA,Bringin' On The Heartbreak,ERMA,Salvatore,Mary,Ralph,C,A,B,A,A,Jamarcus
-509,MIRTA,Juke Box Hero,ERMA,Gunnar,Mary,Ralph,B,A,C,A,A,MIRTA
-510,Quincy,Cliffs Of Dover,ERMA,Daquan,Mary,Ralph,A,A,C,A,A,TAWNYA
-511,TRISTA,Down On the Corner,ERMA,Issac,Mary,Ralph,A,A,A,A,A,MABLE
-512,Rory,BALLAD OF JOHN AND YOKO,ERMA,Ayden,Mary,Ralph,C,A,A,A,A,GERTRUDIS
-513,Jett,AFRICA,ERMA,Kamren,Mary,Ralph,C,A,A,A,A,Courtney
-514,ALVINA,Lonely Is the Night,ERMA,Ryder,Mary,Ralph,A,A,C,A,A,ALBERTINE
-515,Jaeden,Get A Haircut,LESIA,Rowan,Mary,Ralph,B,A,A,A,A,Cameron
-516,LORINA,Pink Houses,LESIA,Darius,Mary,Ralph,A,A,B,A,A,JEWEL
-517,Colin,The Story In Your Eyes,LESIA,Easton,Mary,Ralph,B,A,A,A,A,LAURALEE
-518,ELA,A Hard Day's Night,LESIA,Blaze,Mary,Ralph,A,A,B,A,A,Dominik
-519,SHAWANDA,Long Cool Woman,LESIA,Keon,Mary,Ralph,C,A,C,A,A,VENNIE
-520,Aaron,Maggot Brain,LESIA,Shane,Mary,Ralph,A,A,B,A,A,Paxton
-521,SHANITA,Cat's In The Cradle,LESIA,Draven,Mary,Ralph,C,A,A,A,A,Kory
-522,Raphael,I Melt With You,LESIA,Pierce,Mary,Ralph,B,A,B,A,A,YOLANDA
-523,Kameron,Free Me,LESIA,Mike,Mary,Ralph,B,A,B,A,A,Nick
-524,MAXIMINA,Mr. Crowley,LESIA,Salvatore,Mary,Ralph,C,A,B,A,A,SHAWANDA
-525,ETHYL,And She Was,LESIA,Griffin,Mary,Ralph,A,A,B,A,A,CARMINA
-526,Bradley,Rooster,LESIA,Griffin,Mary,Ralph,A,A,B,A,A,ROMANA
-527,Royce,Ten Years Gone,LESIA,Shea,Mary,Ralph,A,A,C,A,A,SCARLET
-528,Zechariah,Find Your Way Back,LESIA,Issac,Mary,Ralph,A,A,A,A,A,Trenton
-529,SOPHIE,Dreamer,LESIA,Ignacio,Mary,Ralph,C,A,C,A,A,RANDY
-530,MABLE,Mother's Little Helper,LESIA,Owen,Mary,Ralph,C,A,A,A,A,MARLA
-531,Gideon,Intruder/ Pretty Woman,LESIA,Tyrese,Mary,Ralph,B,A,B,A,A,MARISHA
-532,Israel,Everybody Wants to Rule the World,LESIA,Ayden,Mary,Ralph,B,A,A,A,A,Keanu
-533,Chance,Ridin' the Storm Out,LESIA,Jorden,Mary,Ralph,A,A,B,A,A,VILMA
-534,DOLLY,Gold On The Ceiling,LESIA,Ryder,Mary,Ralph,B,A,C,A,A,THALIA
-535,KARMEN,Mysterious Ways,LESIA,Ryder,Mary,Ralph,C,A,C,A,A,ALVINA
-536,Brooks,True Fine Love,CHARLOTT,Darius,Barb,Ralph,A,B,B,B,B,Jared
-537,RHONDA,Beautiful Girls,CHARLOTT,Brad,Barb,Ralph,C,B,B,B,B,Lawson
-538,Payton,Cult Of Personality,CHARLOTT,Camden,Barb,Ralph,B,B,A,B,B,Victor
-539,Addison,Coming Home,CHARLOTT,Keon,Barb,Ralph,A,B,C,B,B,Trevion
-540,Keshaun,Midnight Rambler,CHARLOTT,Agustin,Barb,Ralph,B,B,C,B,B,Willie
-541,VENESSA,Christeen Sixteen,CHARLOTT,Deandre,Barb,Ralph,C,B,B,B,B,BETSY
-542,JAMEY,Space Truckin',CHARLOTT,Donavan,Barb,Ralph,C,B,B,B,B,ARICA
-543,Aldo,Love Song,CHARLOTT,Fred,Barb,Ralph,A,B,B,B,B,Alden
-544,Zachery,Another Brick In The Wall,CHARLOTT,Fred,Barb,Ralph,A,B,B,B,B,ETTA
-545,Bryson,Heartbreaker,CHARLOTT,Evan,Barb,Ralph,C,B,B,B,B,GEORGINA
-546,German,Gypsy,CHARLOTT,Orion,Barb,Ralph,A,B,C,B,B,Alek
-547,MEAGAN,D'Yer Mak'er,CHARLOTT,Shea,Barb,Ralph,A,B,C,B,B,EVELYNE
-548,LORAINE,Learning to Fly,CHARLOTT,Carson,Barb,Ralph,B,B,C,B,B,Neil
-549,Conrad,Entre Nous,CHARLOTT,Jaren,Barb,Ralph,A,B,C,B,B,KENDRA
-550,Alek,China Grove,CHARLOTT,Brodie,Barb,Ralph,B,B,B,B,B,CECILE
-551,GEMMA,Subterranean Homesick Blues,CHARLOTT,Salvatore,Barb,Ralph,C,B,B,B,B,LAVINIA
-552,WANDA,Empty Spaces,CHARLOTT,Maxwell,Barb,Ralph,A,B,B,B,B,SIXTA
-553,Bradly,Stone In Love,CHARLOTT,Alberto,Barb,Ralph,C,B,A,B,B,Neil
-554,SIXTA,Take the Money and Run,CHARLOTT,Lawson,Barb,Ralph,C,B,A,B,B,DONNETTA
-555,Antony,Dirty Deeds Done Dirt Cheap,CHARLOTT,Gustavo,Barb,Ralph,A,B,B,B,B,Tomas
-556,TEENA,Got To Get You Into My Life,CHARLOTT,Kamren,Barb,Ralph,A,B,A,B,B,Addison
-557,Kareem,Casey Jones,CHARLOTT,Micheal,Barb,Ralph,A,B,A,B,B,Glen
-558,ETTA,Riders On The Storm,CHARLOTT,Ryder,Barb,Ralph,B,B,C,B,B,RUTHANN
-559,GEORGETTE,What It's Like,PORSHA,Darius,Liz,Ralph,A,A,B,A,A,ROSARIO
-560,Javonte,Jungle Love,PORSHA,Devin,Liz,Ralph,C,A,A,A,A,Riley
-561,IGNACIA,Time,PORSHA,Brad,Liz,Ralph,C,A,B,A,A,Dallas
-562,DOTTY,Frenchette,PORSHA,Brad,Liz,Ralph,B,A,B,A,A,Brenton
-563,ANNABELLE,New Girl Now,PORSHA,Camden,Liz,Ralph,C,A,A,A,A,MAUDE
-564,THEODORA,Authority Song,PORSHA,Agustin,Liz,Ralph,C,A,C,A,A,YUETTE
-565,ODELIA,Are You Gonna Be My Girl,PORSHA,Shane,Liz,Ralph,B,A,B,A,A,Felix
-566,Andy,After Midnight,PORSHA,Deandre,Liz,Ralph,A,A,B,A,A,ERMELINDA
-567,Darren,Knockin' On Heaven's Door,PORSHA,Bradly,Liz,Ralph,C,A,B,A,A,Morgan
-568,KAMILAH,Get Off Of My Cloud,PORSHA,Elmer,Liz,Ralph,B,A,C,A,A,ROSARIO
-569,Brenton,Subdivisions,PORSHA,Keaton,Liz,Ralph,C,A,A,A,A,LAHOMA
-570,Moshe,Love Is Like Oxygen,PORSHA,Pierce,Liz,Ralph,C,A,B,A,A,Gerald
-571,Rowan,Flying High Again,PORSHA,Orion,Liz,Ralph,B,A,C,A,A,DEEANN
-572,Jerome,Low Rider,PORSHA,Landon,Liz,Ralph,C,A,A,A,A,Jeremy
-573,Bruno,Soulshine,PORSHA,Seth,Liz,Ralph,C,A,C,A,A,Malik
-574,Guy,Plush,PORSHA,Reynaldo,Liz,Ralph,C,A,B,A,A,Andy
-575,Elvis,Way Cool Jr.,PORSHA,Gunnar,Liz,Ralph,A,A,C,A,A,Jacob
-576,SHANDRA,Sunset Grill,PORSHA,Alberto,Liz,Ralph,A,A,A,A,A,Axel
-577,ADRIENNE,In The City,PORSHA,Issac,Liz,Ralph,C,A,A,A,A,Malik
-578,Kendrick,Shadows Of The Night,PORSHA,Ignacio,Liz,Ralph,B,A,C,A,A,Jacob
-579,ROSARIO,Until It Sleeps,PORSHA,Jorden,Liz,Ralph,A,A,B,A,A,Davin
-580,SHEILA,Knockin' On Heaven's Door,TWANDA,Darius,Pat,Ralph,A,C,B,C,C,CLARETTA
-581,Timothy,Over the Mountain,TWANDA,Chaz,Pat,Ralph,A,C,A,C,C,MARINDA
-582,SALENA,Let It Rain,TWANDA,Camden,Pat,Ralph,C,C,A,C,C,LEONIA
-583,Darrin,No One to Depend On,TWANDA,Zane,Pat,Ralph,C,C,A,C,C,LYNNETTE
-584,Asa,Right Place Wrong Time,TWANDA,Shane,Pat,Ralph,B,C,B,C,C,Anton
-585,Karson,Sweet Emotion,TWANDA,Bradly,Pat,Ralph,C,C,B,C,C,Shannon
-586,Cullen,American Dream Plan B,TWANDA,Adonis,Pat,Ralph,A,C,B,C,C,JUSTINE
-587,Eliseo,Long Train Runnin',TWANDA,Quentin,Pat,Ralph,C,C,C,C,C,Kameron
-588,LEONIA,Magic Bus,TWANDA,Brodie,Pat,Ralph,B,C,B,C,C,Dayton
-589,Vicente,Sara,TWANDA,Salvatore,Pat,Ralph,C,C,B,C,C,BLOSSOM
-590,Jessie,The Sounds Of Silence,TWANDA,Griffin,Pat,Ralph,B,C,B,C,C,LISSA
-591,DOVIE,Somebody Get Me A Doctor,TWANDA,Maxwell,Pat,Ralph,B,C,B,C,C,KYLE
-592,Bret,Friends Of Mine,TWANDA,Brandyn,Pat,Ralph,C,C,C,C,C,Jarvis
-593,Harry,The Unforgiven,TWANDA,Tariq,Pat,Ralph,B,C,B,C,C,CLARETTA
-594,Scott,Slide It In,TWANDA,Tariq,Pat,Ralph,B,C,B,C,C,Deontae
-595,JUANA,Jack & Diane,TWANDA,Ignacio,Pat,Ralph,B,C,C,C,C,Nash
-596,LAVONNE,Let Me Roll It,DONALD,Darius,Pat,Ralph,B,A,B,A,A,KARINE
-597,Anton,Take the Money and Run,DONALD,Easton,Pat,Ralph,A,A,A,A,A,Jefferson
-598,CHAROLETTE,Loser,DONALD,Devin,Pat,Ralph,B,A,A,A,A,Coby
-599,Tobias,What I Got,DONALD,Orlando,Pat,Ralph,C,A,A,A,A,Jeremy
-600,ELAYNE,Train Kept A-Rollin',DONALD,Keon,Pat,Ralph,A,A,C,A,A,Karson
-601,Quinten,Jean Genie,DONALD,Keon,Pat,Ralph,A,A,C,A,A,GAYNELL
-602,DAYLE,Girls Got Rhythm,DONALD,Agustin,Pat,Ralph,A,A,C,A,A,Anton
-603,Eddie,Moon Rider,DONALD,Deandre,Pat,Ralph,B,A,B,A,A,MARCENE
-604,SHAUNTE,Monkey Wrench,DONALD,Keaton,Pat,Ralph,A,A,A,A,A,ULA
-605,Pablo,Sweet Hitch Hiker,DONALD,Shea,Pat,Ralph,B,A,C,A,A,Estevan
-606,Steve,Summer Of '69,DONALD,Cruz,Pat,Ralph,A,A,B,A,A,ELISA
-607,DELOISE,Darlene,DONALD,Jaren,Pat,Ralph,A,A,C,A,A,NADENE
-608,EARLEAN,Don't Let Me Down,DONALD,Landon,Pat,Ralph,B,A,A,A,A,GAYLE
-609,Julien,Tell Me What You Want,DONALD,Mike,Pat,Ralph,A,A,B,A,A,Kameron
-610,CATHERINA,What Do All The People Know,DONALD,Camren,Pat,Ralph,C,A,C,A,A,Chris
-611,IESHA,Rough Boys,DONALD,Seth,Pat,Ralph,C,A,C,A,A,CLARETTA
-612,Winston,Lights,DONALD,Reynaldo,Pat,Ralph,C,A,B,A,A,BLOSSOM
-613,JEWEL,Fell On Black Days,DONALD,Salvatore,Pat,Ralph,B,A,B,A,A,Cole
-614,Ian,You Belong to the City,DONALD,Griffin,Pat,Ralph,A,A,B,A,A,DOMINGA
-615,OZIE,Day Tripper,DONALD,Maxwell,Pat,Ralph,B,A,B,A,A,KYOKO
-616,Silas,Shanty,DONALD,Alberto,Pat,Ralph,C,A,A,A,A,Gaven
-617,JENNETTE,Back Off Boogaloo,DONALD,Shea,Pat,Ralph,A,A,C,A,A,ULA
-618,SYLVIA,WAR,DONALD,Tariq,Pat,Ralph,A,A,B,A,A,ARACELY
-619,Oscar,Fly Like an Eagle,DONALD,Ignacio,Pat,Ralph,A,A,C,A,A,River
-620,CHRISTINE,Back On The Road Again,DONALD,Rohan,Pat,Ralph,B,A,C,A,A,Ari
-621,DONYA,Who Made Who,DONALD,Kamren,Pat,Ralph,C,A,A,A,A,QUYEN
-622,MELODY,Don't Ask Me Why,KORTNEY,Darius,Barb,Ralph,B,A,B,A,A,Axel
-623,KANDIS,With a Little Help From My Friends,KORTNEY,Darius,Barb,Ralph,C,A,B,A,A,Alden
-624,JUNKO,Rock And Roll Never Forgets,KORTNEY,Blaze,Barb,Ralph,C,A,B,A,A,KAYLENE
-625,SHANTELLE,We're Not Gonna Take It,KORTNEY,Daryl,Barb,Ralph,C,A,B,A,A,CONTESSA
-626,Paris,The Logical Song,KORTNEY,Daryl,Barb,Ralph,B,A,B,A,A,SHASTA
-627,Zachariah,Have a Drink On Me,KORTNEY,Keon,Barb,Ralph,A,A,C,A,A,Dexter
-628,FELISHA,Boom Boom/,KORTNEY,Zane,Barb,Ralph,A,A,A,A,A,Beau
-629,Trever,Roundabout,KORTNEY,Deandre,Barb,Ralph,A,A,B,A,A,ASHLYN
-630,Maxwell,Jesus Just Left Chicago,KORTNEY,Deandre,Barb,Ralph,A,A,B,A,A,CHARA
-631,Daryl,Twist and Shout,KORTNEY,Bradly,Barb,Ralph,B,A,B,A,A,Edgar
-632,LINDA,I Just Want To Make Love To You,KORTNEY,Santos,Barb,Ralph,C,A,B,A,A,CLARETTA
-633,Micah,A Day In The Life,KORTNEY,Fred,Barb,Ralph,B,A,B,A,A,CLARETTA
-634,Dexter,Sledgehammer,KORTNEY,Pierce,Barb,Ralph,B,A,B,A,A,Vernon
-635,RACHAEL,Save Your Love,KORTNEY,Evan,Barb,Ralph,B,A,B,A,A,AMAL
-636,CHARLIE,Livin' On The Edge,KORTNEY,Evan,Barb,Ralph,A,A,B,A,A,Willie
-637,Jorden,"Hey Hey, My My",KORTNEY,Evan,Barb,Ralph,A,A,B,A,A,BETHANY
-638,DENISE,A Face In The Crowd,KORTNEY,Adonis,Barb,Ralph,C,A,B,A,A,Amir
-639,Jamel,Dust In The Wind,KORTNEY,Seth,Barb,Ralph,C,A,C,A,A,KETURAH
-640,MIRNA,Rumors In The Air,KORTNEY,Reynaldo,Barb,Ralph,A,A,B,A,A,REENA
-641,CHANTELLE,Under the Bridge,KORTNEY,Gunnar,Barb,Ralph,B,A,C,A,A,Axel
-642,Mohamed,Burnin' Sky,KORTNEY,Gunnar,Barb,Ralph,C,A,C,A,A,ARICA
-643,LINH,I Still Haven't Found What I'm Looking For,KORTNEY,Maxwell,Barb,Ralph,A,A,B,A,A,CECILE
-644,NUMBERS,Right Down the Line,KORTNEY,Shea,Barb,Ralph,C,A,C,A,A,CARLETTA
-645,Warren,New York State Of Mind,KORTNEY,Shea,Barb,Ralph,B,A,C,A,A,JOCELYN
-646,LETA,Statesboro Blues,KORTNEY,Daquan,Barb,Ralph,A,A,C,A,A,LEKISHA
-647,TATIANA,Peace of Mind,KORTNEY,Issac,Barb,Ralph,A,A,A,A,A,Tyrell
-648,Ezequiel,Layla,KORTNEY,Jayce,Barb,Ralph,A,A,A,A,A,KAYLENE
-649,Bailey,No Leaf Clover,KORTNEY,Tariq,Barb,Ralph,B,A,B,A,A,VERNIA
-650,Aubrey,The First Cut Is The Deepest,KORTNEY,Tyrese,Barb,Ralph,C,A,B,A,A,DOTTY
-651,Syed,Back On The Road Again,KORTNEY,Ayden,Barb,Ralph,A,A,A,A,A,Bryan
-652,Ross,Southern Cross,LYNDSEY,Darius,Barb,Ralph,C,B,B,B,B,MARTINA
-653,DREAMA,Old Man,LYNDSEY,Easton,Barb,Ralph,C,B,A,B,B,VERDA
-654,Max,Everybody Wants You,LYNDSEY,Blaze,Barb,Ralph,C,B,B,B,B,Marshall
-655,Jalon,IT WON'T BE LONG,LYNDSEY,Zane,Barb,Ralph,A,B,A,B,B,MEG
-656,Mario,Good Clean Fun,LYNDSEY,Draven,Barb,Ralph,C,B,A,B,B,JOLYNN
-657,Tommy,Stereo/All Mixed Up,LYNDSEY,Keaton,Barb,Ralph,B,B,A,B,B,CHARLIE
-658,Jordan,With a Little Help From My Friends,LYNDSEY,Evan,Barb,Ralph,A,B,B,B,B,Alessandro
-659,Benny,"Long, Long Way From Home",LYNDSEY,Cruz,Barb,Ralph,C,B,B,B,B,Neil
-660,BRYNN,L.A. Woman,LYNDSEY,Camren,Barb,Ralph,B,B,C,B,B,Logan
-661,KENISHA,Under Pressure,LYNDSEY,Brodie,Barb,Ralph,A,B,B,B,B,DANIELL
-662,Miles,Crystal Ball,LYNDSEY,Reynaldo,Barb,Ralph,A,B,B,B,B,HIEN
-663,Brayden,Looks That Kill,LYNDSEY,Reynaldo,Barb,Ralph,A,B,B,B,B,Antony
-664,TRUDIE,Authority Song,LYNDSEY,Maxwell,Barb,Ralph,A,B,B,B,B,Dandre
-665,MELODEE,The Stake,LYNDSEY,Shea,Barb,Ralph,B,B,C,B,B,CATHEY
-666,Zachery,Bring It On Home,LYNDSEY,Daquan,Barb,Ralph,A,B,C,B,B,EMILIA
-667,Harry,Sweet Dreams (Are Made of This),LYNDSEY,Issac,Barb,Ralph,A,B,A,B,B,Deangelo
-668,HARRIETT,Changes,LYNDSEY,Ayden,Barb,Ralph,C,B,A,B,B,Austin
-669,CARLETTA,No Turning Back,LYNDSEY,Jorden,Barb,Ralph,B,B,B,B,B,Perry
-670,CELESTA,"Anything, Anything",LYNDSEY,Jorden,Barb,Ralph,C,B,B,B,B,OLETA
-671,Lincoln,Blue On Black,LYNDSEY,Micheal,Barb,Ralph,B,B,A,B,B,Neil
-672,Tyrell,Under My Wheels,LYNDSEY,Micheal,Barb,Ralph,B,B,A,B,B,FATIMAH
-673,KATHIE,Woman,CHERISH,Darius,Barb,Ralph,A,A,B,A,A,Charles
-674,SHENITA,Midnight Blue,CHERISH,Chaz,Barb,Ralph,A,A,A,A,A,Syed
-675,FLORIA,Shinin' On,CHERISH,Orlando,Barb,Ralph,B,A,A,A,A,Keagan
-676,Axel,Riders On The Storm,CHERISH,Orlando,Barb,Ralph,A,A,A,A,A,SHAREE
-677,NOELLA,Hold The Line,CHERISH,Daryl,Barb,Ralph,C,A,B,A,A,CANDIE
-678,NUMBERS,Victim of Love,CHERISH,Santos,Barb,Ralph,B,A,B,A,A,Corbin
-679,HIEN,Top of the World,CHERISH,Orion,Barb,Ralph,A,A,C,A,A,Izaiah
-680,Dean,I Can See For Miles,CHERISH,Shea,Barb,Ralph,C,A,C,A,A,Ezra
-681,ANTHONY,Too Late for Love,CHERISH,Jaren,Barb,Ralph,C,A,C,A,A,ADRIEN
-682,AUNDREA,Love Me Two Times,CHERISH,Landon,Barb,Ralph,B,A,A,A,A,DEBORAH
-683,Jorden,"Long, Long Way From Home",CHERISH,Quentin,Barb,Ralph,A,A,C,A,A,Bronson
-684,ARICA,Hang Fire,CHERISH,Reynaldo,Barb,Ralph,A,A,B,A,A,Nikolas
-685,LEEANNA,"Always With Me, Always With You",CHERISH,Maxwell,Barb,Ralph,C,A,B,A,A,JOCELYN
-686,FIDELIA,Mutha (Don't Wanna Go To School Today),CHERISH,Shea,Barb,Ralph,B,A,C,A,A,River
-687,Trevon,Just the Same Way,CHERISH,Jayce,Barb,Ralph,A,A,A,A,A,LINDA
-688,Trevion,UNDERCOVER OF THE NIGHT,CHERISH,Tariq,Barb,Ralph,A,A,B,A,A,Ulises
-689,Cory,I Can't Fight This Feeling,CHERISH,Gustavo,Barb,Ralph,B,A,B,A,A,JESSI
-690,Karl,Today,CHERISH,Tyrese,Barb,Ralph,B,A,B,A,A,Perry
-691,Ezequiel,Apeman,CHERISH,Jorden,Barb,Ralph,B,A,B,A,A,MARYANNE
-692,SHAKIA,Kashmir,CHERISH,Micheal,Barb,Ralph,A,A,A,A,A,Zechariah
-693,Deondre,Gimme Shelter,LORELEI,Darius,Liz,Ralph,B,B,B,B,B,Donavan
-694,ERMELINDA,Perry Mason,LORELEI,Blaze,Liz,Ralph,B,B,B,B,B,DEENA
-695,Riley,Just A Gigolo / I Ain't Got Nobody,LORELEI,Forrest,Liz,Ralph,B,B,C,B,B,ADA
-696,KARAN,1979,LORELEI,Draven,Liz,Ralph,C,B,A,B,B,Elian
-697,NGAN,Piano Man,LORELEI,Elmer,Liz,Ralph,B,B,C,B,B,ADA
-698,KATHERN,Ordinary Average Guy,LORELEI,Keyon,Liz,Ralph,A,B,C,B,B,ADRIEN
-699,Danny,Houses of the Holy,LORELEI,Keaton,Liz,Ralph,A,B,A,B,B,Dallas
-700,DAN,Thorn In My Pride,LORELEI,Santos,Liz,Ralph,B,B,B,B,B,GABRIELLE
-701,LAURICE,I Can't Stand It,LORELEI,Terrance,Liz,Ralph,B,B,B,B,B,Juan
-702,Felix,Traveling Riverside Blues,LORELEI,Orion,Liz,Ralph,B,B,C,B,B,Bruno
-703,Heriberto,Take Me In Your Arms,LORELEI,Cruz,Liz,Ralph,B,B,B,B,B,MAUDE
-704,GABRIELLE,Blue Collar Man,LORELEI,Jaren,Liz,Ralph,B,B,C,B,B,NEREIDA
-705,Donavan,Too Hot To Handle,LORELEI,Seth,Liz,Ralph,B,B,C,B,B,ROBERTO
-706,Marcel,Empty Spaces/young Lust,LORELEI,Maxwell,Liz,Ralph,A,B,B,B,B,ASIA
-707,Vernon,You Give Love A Bad Name,LORELEI,Daquan,Liz,Ralph,B,B,C,B,B,THEODORA
-708,Samson,House Of The Rising Sun,LORELEI,Ignacio,Liz,Ralph,B,B,C,B,B,ADRIENNE
-709,Wyatt,The Logical Song,LORELEI,Jorden,Liz,Ralph,A,B,B,B,B,Wyatt
-710,Juan,Blondes In Black Cars,LORELEI,Kamren,Liz,Ralph,A,B,A,B,B,IGNACIA
-711,Miles,Cry For A Shadow,LORELEI,Micheal,Liz,Ralph,A,B,A,B,B,CORRINA
-712,Dallas,I'm Goin' Home,LORELEI,Ryder,Liz,Ralph,A,B,C,B,B,TAINA
-713,Isaak,Paper in Fire,ALTHEA,Darius,Mary,Ralph,A,A,B,A,A,Javion
-714,Fredrick,Vertigo,ALTHEA,Chaz,Mary,Ralph,B,A,A,A,A,Rick
-715,Anderson,We're an American Band,ALTHEA,Camden,Mary,Ralph,A,A,A,A,A,Miguel
-716,DONG,Loving You Sunday Morning,ALTHEA,Daryl,Mary,Ralph,C,A,B,A,A,DARCEY
-717,JIMMIE,The Cisco Kid,ALTHEA,Zane,Mary,Ralph,A,A,A,A,A,CAMILLE
-718,Miguel,Since You're Gone,ALTHEA,Zane,Mary,Ralph,A,A,A,A,A,ALBERTINE
-719,MEDA,Walks Like A Woman,ALTHEA,Shane,Mary,Ralph,C,A,B,A,A,Ramon
-720,Guadalupe,"Lawyers, Guns and Money",ALTHEA,Keyon,Mary,Ralph,B,A,C,A,A,GRISELDA
-721,JESTINE,"Blue Morning, Blue Day",ALTHEA,Keaton,Mary,Ralph,C,A,A,A,A,Preston
-722,HENRIETTA,Road To Nowhere,ALTHEA,Carson,Mary,Ralph,C,A,C,A,A,Royce
-723,Marquis,T.N.T.,ALTHEA,Carson,Mary,Ralph,C,A,C,A,A,Javion
-724,GWEN,Heard It On the X,ALTHEA,Landon,Mary,Ralph,B,A,A,A,A,KAILA
-725,LEE,Smuggler's Blues,ALTHEA,Landon,Mary,Ralph,A,A,A,A,A,LILY
-726,LUISA,Wango Tango,ALTHEA,Landon,Mary,Ralph,A,A,A,A,A,Kamron
-727,MICHAEL,Reprise / Day in the Life,ALTHEA,Camren,Mary,Ralph,C,A,C,A,A,CASSEY
-728,Kennedy,Had a Dream (Sleeping With the Enemy),ALTHEA,Quentin,Mary,Ralph,B,A,C,A,A,JESTINE
-729,KYLEE,You Really Got Me,ALTHEA,Brodie,Mary,Ralph,B,A,B,A,A,TAMESHA
-730,Byron,Dangerious Type,ALTHEA,Brodie,Mary,Ralph,C,A,B,A,A,NATISHA
-731,Triston,Shot Down In Flames,ALTHEA,Maxwell,Mary,Ralph,A,A,B,A,A,TEMIKA
-732,Elias,A Face In The Crowd,ALTHEA,Ronaldo,Mary,Ralph,C,A,C,A,A,Peter
-733,ZETTA,Fixing A Hole,ALTHEA,Daquan,Mary,Ralph,A,A,C,A,A,Tyreek
-734,LAURYN,"Don't Think Twice, It's Alright",ALTHEA,Issac,Mary,Ralph,B,A,A,A,A,MINDA
-735,CHERYLE,Shake It Up,ALTHEA,Issac,Mary,Ralph,B,A,A,A,A,Rick
-736,Dwight,Signs,ALTHEA,Issac,Mary,Ralph,B,A,A,A,A,SARAH
-737,CHRISTEEN,Any Colour You Like,ALTHEA,Brandyn,Mary,Ralph,C,A,C,A,A,ELLEN
-738,Alvin,Alive,ALTHEA,Jayce,Mary,Ralph,B,A,A,A,A,Karson
-739,MARYANNA,Empty Spaces/young Lust,ALTHEA,Tariq,Mary,Ralph,C,A,B,A,A,Andy
-740,MARYLOUISE,Crazy,ALTHEA,Ignacio,Mary,Ralph,C,A,C,A,A,Clifton
-741,CARMINA,Hysteria,ALTHEA,Jorden,Mary,Ralph,C,A,B,A,A,LAKENYA
-742,SUK,The Last Worthless Evening,ALTHEA,Rohan,Mary,Ralph,C,A,C,A,A,Jordon
-743,Mitchel,Goodbye To Romance,ALTHEA,Kamren,Mary,Ralph,B,A,A,A,A,MITSUE
-744,TANA,Suzie Q,ALTHEA,Micheal,Mary,Ralph,A,A,A,A,A,JERRICA
-745,Alonso,The Kid Is Hot Tonite,LINN,Darius,Barb,Ralph,B,A,B,A,A,Vernon
-746,Shaun,Can't Get Enough,LINN,Devin,Barb,Ralph,C,A,A,A,A,Victor
-747,Herbert,Smokin' in the Boys Room,LINN,Blaze,Barb,Ralph,B,A,B,A,A,Miguel
-748,FRANCES,Arrested For Driving While Blind,LINN,Agustin,Barb,Ralph,C,A,C,A,A,Antony
-749,Brennon,Listen To What The Man Says,LINN,Elmer,Barb,Ralph,A,A,C,A,A,MERI
-750,KASHA,Blackbird,LINN,Terrance,Barb,Ralph,A,A,B,A,A,Ibrahim
-751,Eli,Down in a Hole,LINN,Landon,Barb,Ralph,C,A,A,A,A,ERIKA
-752,Kelvin,30 Days In the Hole,LINN,Mike,Barb,Ralph,A,A,B,A,A,Beau
-753,ALFREDA,Don't Let Me Down,LINN,Camren,Barb,Ralph,B,A,C,A,A,Jorden
-754,Evan,Taxman,LINN,Quentin,Barb,Ralph,A,A,C,A,A,John
-755,ELISA,Dude (Looks Like a Lady),LINN,Griffin,Barb,Ralph,A,A,B,A,A,MICHAL
-756,CHANTELLE,Friends,LINN,Ronaldo,Barb,Ralph,C,A,C,A,A,VERNIA
-757,INGER,Let's Spend the Night Together,LINN,Alberto,Barb,Ralph,A,A,A,A,A,Asa
-758,Luke,The Word,LINN,Lawson,Barb,Ralph,A,A,A,A,A,Aubrey
-759,Bruce,Elderly Woman Behind the Counter in a Small Town,LINN,Brandyn,Barb,Ralph,A,A,C,A,A,HARRIETT
-760,Chris,Drive My Car,LINN,Owen,Barb,Ralph,C,A,A,A,A,Aaron
-761,CHRYSTAL,Jaded,LINN,Rohan,Barb,Ralph,A,A,C,A,A,RYANN
-762,Tomas,Don't Let Me Be Misunderstood,LINN,Kamren,Barb,Ralph,A,A,A,A,A,NUMBERS
-763,LAVINIA,The Kids Are Alright,MELVA,Darius,Barb,Ralph,B,A,B,A,A,LEKISHA
-764,CHARLES,Cold Hard Bitch,MELVA,Devin,Barb,Ralph,B,A,A,A,A,JESSI
-765,Tariq,China Girl,MELVA,Fidel,Barb,Ralph,C,A,B,A,A,Bruce
-766,Kamron,IT'S ALL OVER NOW,MELVA,Orlando,Barb,Ralph,C,A,A,A,A,TISH
-767,Kadin,Heaven,MELVA,Draven,Barb,Ralph,A,A,A,A,A,JOLYN
-768,Baby,You Never Give Me Your Money,MELVA,Bradly,Barb,Ralph,A,A,B,A,A,NOELLA
-769,MARIELLE,Rock & Roll Woman,MELVA,Shea,Barb,Ralph,B,A,C,A,A,Alek
-770,Julio,Take Me In Your Arms,MELVA,Carson,Barb,Ralph,B,A,C,A,A,Cory
-771,Jesus,GOT MY MIND SET ON YOU,MELVA,Adonis,Barb,Ralph,C,A,B,A,A,Miguel
-772,KYLE,Calling Dr. Love,MELVA,Quentin,Barb,Ralph,B,A,C,A,A,Dion
-773,Alden,19th Nervous Breakdown,MELVA,Quentin,Barb,Ralph,B,A,C,A,A,Perry
-774,Braydon,I Love Rock 'n Roll,MELVA,Brodie,Barb,Ralph,A,A,B,A,A,Ezra
-775,LASHAWN,When I See You Smile,MELVA,Shea,Barb,Ralph,A,A,C,A,A,JAMEY
-776,MARYLIN,Yellow Ledbetter,MELVA,Jayce,Barb,Ralph,B,A,A,A,A,JOLYNN
-777,JESSI,Everybody's Got Something To Hide Except Me And My Monk,MELVA,Gustavo,Barb,Ralph,A,A,B,A,A,KETURAH
-778,Corbin,It Wasn't Me,MELVA,Ayden,Barb,Ralph,A,A,A,A,A,RHONDA
-779,Morgan,Layla,MELVA,Ryder,Barb,Ralph,A,A,C,A,A,BETH
-780,GREGORY,Love Bites,DELPHA,Darius,Mary,Ralph,A,B,B,B,B,Quincy
-781,ONIE,Live Wire,DELPHA,Easton,Mary,Ralph,A,B,A,B,B,Tyrell
-782,REGINIA,Shakin',DELPHA,Chaz,Mary,Ralph,A,B,A,B,B,Bradley
-783,Joaquin,Oh Well,DELPHA,Blaze,Mary,Ralph,A,B,B,B,B,Marcel
-784,Dashawn,That Was Yesterday,DELPHA,Camden,Mary,Ralph,C,B,A,B,B,JALEESA
-785,LILA,"Hello, I Love You",DELPHA,Agustin,Mary,Ralph,C,B,C,B,B,Rory
-786,LANELL,Love Stinks,DELPHA,Shane,Mary,Ralph,A,B,B,B,B,Branden
-787,MIGUELINA,Go Your Own Way,DELPHA,Santos,Mary,Ralph,A,B,B,B,B,LUISA
-788,CASSEY,Spirit In The Night,DELPHA,Terrance,Mary,Ralph,C,B,B,B,B,Jayson
-789,Angel,Rainbow In the Dark,DELPHA,Evan,Mary,Ralph,B,B,B,B,B,GWEN
-790,Peter,Lucy In The Sky With Diamonds,DELPHA,Jaren,Mary,Ralph,C,B,C,B,B,Chance
-791,Tyreek,Cult Of Personality,DELPHA,Landon,Mary,Ralph,A,B,A,B,B,MEDA
-792,Riley,Bark At The Moon,DELPHA,Griffin,Mary,Ralph,C,B,B,B,B,ALMA
-793,Cristopher,Take It Easy,DELPHA,Shea,Mary,Ralph,C,B,C,B,B,Kamren
-794,Kennedy,I CAN SEE CLEARLY NOW,DELPHA,Shea,Mary,Ralph,B,B,C,B,B,Rodney
-795,DANNA,Headed For A Heartbreak,DELPHA,Brandyn,Mary,Ralph,A,B,C,B,B,LAURYN
-796,Brady,The Great Gig In the Sky,DELPHA,Ignacio,Mary,Ralph,A,B,C,B,B,Cedric
-797,ALISA,Come Together,DELPHA,Gustavo,Mary,Ralph,C,B,B,B,B,CURTIS
-798,JACQUELYNN,I'll Fall In Love Again,DELPHA,Micheal,Mary,Ralph,A,B,A,B,B,SHELBY
-799,SHAUNNA,Too Hot To Handle,DELPHA,Micheal,Mary,Ralph,C,B,A,B,B,RAE
-800,Cedric,Rockin' Down The Highway,DELPHA,Micheal,Mary,Ralph,A,B,A,B,B,Nicholas
-801,CIRA,Back On The Chain Gang,MAI,Darius,Barb,Ralph,C,B,B,B,B,Fredrick
-802,GINA,Over the Mountain,MAI,Easton,Barb,Ralph,C,B,A,B,B,KASHA
-803,FATIMA,Longview,MAI,Easton,Barb,Ralph,B,B,A,B,B,WILLIE
-804,Malik,Roll With It,MAI,Devin,Barb,Ralph,A,B,A,B,B,Cayden
-805,Eliseo,Love Is Like A Rock,MAI,Fidel,Barb,Ralph,B,B,B,B,B,Dean
-806,Logan,Red Rain,MAI,Fidel,Barb,Ralph,C,B,B,B,B,Ezra
-807,KRISTA,Coming into Los Angeles,MAI,Orlando,Barb,Ralph,C,B,A,B,B,EMILIA
-808,SHASTA,I'm the Only One,MAI,Keon,Barb,Ralph,A,B,C,B,B,Khalil
-809,Cristopher,Some Like It Hot,MAI,Keon,Barb,Ralph,B,B,C,B,B,FIDELIA
-810,DELILA,Gloria,MAI,Deandre,Barb,Ralph,A,B,B,B,B,Keegan
-811,AMAL,Me and Bobby McGee,MAI,Donavan,Barb,Ralph,B,B,B,B,B,Ali
-812,YESSENIA,Darlene,MAI,Keyon,Barb,Ralph,B,B,C,B,B,RAYMONDE
-813,GLENDA,Dancing In the Dark,MAI,Pierce,Barb,Ralph,C,B,B,B,B,Jason
-814,Stephen,Living After Midnight,MAI,Pierce,Barb,Ralph,A,B,B,B,B,Jorden
-815,CEOLA,Starrider,MAI,Orion,Barb,Ralph,B,B,C,B,B,Conner
-816,Conner,Living After Midnight,MAI,Shea,Barb,Ralph,A,B,C,B,B,EVELYNE
-817,GEORGINA,Rock Me,MAI,Cruz,Barb,Ralph,A,B,B,B,B,Jordy
-818,RUTHANN,Going to California,MAI,Landon,Barb,Ralph,C,B,A,B,B,FLORIA
-819,RYANN,Keep Talking,MAI,Quentin,Barb,Ralph,B,B,C,B,B,KARAN
-820,Alessandro,I Wanna Be Sedated,MAI,Seth,Barb,Ralph,A,B,C,B,B,Ulises
-821,CLAUDE,Custard Pie,MAI,Griffin,Barb,Ralph,A,B,B,B,B,Cayden
-822,Jimmie,The Long And Winding Road,MAI,Alberto,Barb,Ralph,C,B,A,B,B,Baby
-823,WILLIE,Back On The Chain Gang,MAI,Ronaldo,Barb,Ralph,A,B,A,B,B,CHARA
-824,Nikhil,Movin' On,MAI,Lawson,Barb,Ralph,A,B,A,B,B,Roderick
-825,Conor,The Lemon Song,MAI,Issac,Barb,Ralph,A,B,A,B,B,MEG
-826,MICHAL,Back for More,MAI,Jayce,Barb,Ralph,B,B,A,B,B,WHITNEY
-827,TAWNYA,Radioactive,MAI,Jayce,Barb,Ralph,C,B,A,B,B,Saul
-828,Zackery,Changes,MAI,Gustavo,Barb,Ralph,B,B,B,B,B,RYANN
-829,JESSIA,Lick It Up,MAI,Rohan,Barb,Ralph,C,B,C,B,B,CUC
-830,EVITA,A Saturday Club Xmas/Crimble Medley,MAI,Micheal,Barb,Ralph,B,B,A,B,B,ISABEL
-831,CORAZON,You Better Run,DONELLA,Darius,Pat,Ralph,A,B,B,B,B,MODESTA
-832,Freddie,Ooh La La,DONELLA,Darius,Pat,Ralph,B,B,B,B,B,Addison
-833,TIERRA,Stray Cat Strut,DONELLA,Devin,Pat,Ralph,B,B,A,B,B,CLAUDETTE
-834,Dallas,What About Love?,DONELLA,Devin,Pat,Ralph,A,B,A,B,B,Karson
-835,AVA,Long Distance Runaround,DONELLA,Santos,Pat,Ralph,B,B,B,B,B,SALENA
-836,DOTTY,Some Like It Hot,DONELLA,Fred,Pat,Ralph,A,B,B,B,B,DONNETTA
-837,HORTENSIA,You Belong to the City,DONELLA,Jaren,Pat,Ralph,C,B,C,B,B,Andreas
-838,MINNIE,Sledgehammer,DONELLA,Jaren,Pat,Ralph,A,B,C,B,B,KYLE
-839,Kenny,Find Your Way Back,DONELLA,Jaren,Pat,Ralph,C,B,C,B,B,Courtney
-840,Quincy,My Own Worst Enemy,DONELLA,Brodie,Pat,Ralph,C,B,B,B,B,DEBI
-841,ELNORA,Everybody's Got Something To Hide Except Me And My Monk,DONELLA,Salvatore,Pat,Ralph,A,B,B,B,B,Alex
-842,Dewayne,The Road and the Sky,DONELLA,Salvatore,Pat,Ralph,A,B,B,B,B,Coby
-843,CRISTY,Drive,DONELLA,Ronaldo,Pat,Ralph,B,B,A,B,B,TREASA
-844,KACI,Fire,DONELLA,Tariq,Pat,Ralph,C,B,B,B,B,ELKE
-845,Coby,CRAZY LOVE,DONELLA,Tariq,Pat,Ralph,C,B,B,B,B,ELISE
-846,ALICIA,Highway Song,DONELLA,Owen,Pat,Ralph,B,B,A,B,B,Keith
-847,Nelson,Green Eyed Lady,ALAINE,Darius,Mary,Ralph,A,B,B,B,B,Jayson
-848,Isiah,Message In A Bottle,ALAINE,Brad,Mary,Ralph,B,B,B,B,B,MAFALDA
-849,DARCEY,Jet Airliner,ALAINE,Chaz,Mary,Ralph,B,B,A,B,B,Lorenzo
-850,MAKEDA,Must of Got Lost,ALAINE,Orlando,Mary,Ralph,B,B,A,B,B,ROY
-851,VIOLET,Again Tonight,ALAINE,Keyon,Mary,Ralph,C,B,C,B,B,RAE
-852,SONDRA,All Star,ALAINE,Keyon,Mary,Ralph,B,B,C,B,B,Nelson
-853,Octavio,Comfortably Numb,ALAINE,Keaton,Mary,Ralph,C,B,A,B,B,IDELLA
-854,Eduardo,Superstition,ALAINE,Terrance,Mary,Ralph,B,B,B,B,B,MAZIE
-855,Oscar,All My Life,ALAINE,Evan,Mary,Ralph,A,B,B,B,B,Branden
-856,BRIGID,Lights Out (Live),ALAINE,Seth,Mary,Ralph,A,B,C,B,B,VIOLETTE
-857,LENA,It Don't Come Easy,ALAINE,Brodie,Mary,Ralph,A,B,B,B,B,Allan
-858,Isiah,Rebel Yell,ALAINE,Reynaldo,Mary,Ralph,A,B,B,B,B,JAMEY
-859,Kamren,I Know I'm Losing You,ALAINE,Griffin,Mary,Ralph,B,B,B,B,B,Freddy
-860,Conrad,Come Sail Away,ALAINE,Griffin,Mary,Ralph,A,B,B,B,B,KACIE
-861,DOROTHA,Joe's Garage,ALAINE,Daquan,Mary,Ralph,A,B,C,B,B,JADA
-862,Courtney,Good Friday,ALAINE,Jayce,Mary,Ralph,B,B,A,B,B,Kameron
-863,Porter,Cry For A Shadow,ALAINE,Tariq,Mary,Ralph,C,B,B,B,B,Julien
-864,Alexandro,Holiday / Boulevard of Broken Dreams,TIESHA,Easton,Pat,Ralph,B,B,A,B,B,MELINDA
-865,GLORIA,Like You Do,GREGORY,Devin,Pat,Ralph,A,B,A,B,B,EMERITA
-866,ELISE,Cheap Sunglasses,GREGORY,Chaz,Pat,Ralph,B,B,A,B,B,Rohan
-867,Cole,TWO OUT OF THREE AIN'T BAD,GREGORY,Chaz,Pat,Ralph,B,B,A,B,B,MYRL
-868,MARAGRET,Start Me Up,GREGORY,Keon,Pat,Ralph,B,B,C,B,B,KERRIE
-869,Nick,Little Lies,TIESHA,Keon,Pat,Ralph,C,B,C,B,B,Marco
-870,Bryson,Fooling Yourself,GREGORY,Deandre,Pat,Ralph,B,B,B,B,B,ALICIA
-871,NIA,Melissa,TIESHA,Bradly,Pat,Ralph,C,B,B,B,B,Deontae
-872,CORRINNE,Get Off Of My Cloud,TIESHA,Elmer,Pat,Ralph,C,B,C,B,B,Keith
-873,LORELEI,The First Cut Is The Deepest,GREGORY,Donavan,Pat,Ralph,B,B,B,B,B,Bryson
-874,Aidan,Tonight Tonight (live),GREGORY,Donavan,Pat,Ralph,B,B,B,B,B,Marcelo
-875,Kyle,Lovely Rita,TIESHA,Keyon,Pat,Ralph,B,B,C,B,B,KALI
-876,Eliseo,Stay With Me,GREGORY,Terrance,Pat,Ralph,C,B,B,B,B,KACI
-877,Shamar,Time Waits for No One,TIESHA,Shea,Pat,Ralph,A,B,C,B,B,EDYTHE
-878,Bryson,Neon Knights,GREGORY,Shea,Pat,Ralph,C,B,C,B,B,Antwan
-879,RHONA,I've Seen All Good People,TIESHA,Carson,Pat,Ralph,B,B,C,B,B,JEANELLE
-880,BERYL,Threshold/Jet Airliner,GREGORY,Cruz,Pat,Ralph,B,B,B,B,B,ELISE
-881,QUYEN,Takin' Care Of Business,GREGORY,Jaren,Pat,Ralph,A,B,C,B,B,Darryl
-882,Chandler,Mutha (Don't Wanna Go To School Today),TIESHA,Landon,Pat,Ralph,C,B,A,B,B,Deontae
-883,Jaylin,Help!,GREGORY,Adonis,Pat,Ralph,C,B,B,B,B,Garrison
-884,JUSTINE,Big Gun,TIESHA,Mike,Pat,Ralph,C,B,B,B,B,HELGA
-885,LYNNETTE,Double Vision,GREGORY,Camren,Pat,Ralph,A,B,C,B,B,NIDA
-886,Jeff,Starrider,GREGORY,Camren,Pat,Ralph,B,B,C,B,B,ELOUISE
-887,KIM,Thank You,TIESHA,Quentin,Pat,Ralph,C,B,C,B,B,Anton
-888,EDYTHE,Spill the Wine,GREGORY,Quentin,Pat,Ralph,A,B,C,B,B,Jeremy
-889,Bryan,Another Brick In The Wall,GREGORY,Seth,Pat,Ralph,B,B,C,B,B,Kolton
-890,Reece,Heaven and Hell,GREGORY,Brodie,Pat,Ralph,B,B,B,B,B,APOLONIA
-891,ARLYNE,We Gotta Get You a Woman,GREGORY,Reynaldo,Pat,Ralph,A,B,B,B,B,AVA
-892,VASHTI,Take Me To The River,GREGORY,Salvatore,Pat,Ralph,C,B,B,B,B,QUYEN
-893,EBONI,Magic,GREGORY,Gunnar,Pat,Ralph,B,B,C,B,B,Erick
-894,SUSANNA,You Better Run,GREGORY,Gunnar,Pat,Ralph,B,B,C,B,B,SHANTA
-895,Syed,Destroyer,TIESHA,Griffin,Pat,Ralph,A,B,B,B,B,SHANTI
-896,Brayden,Too Hot To Handle,EBONY,Easton,Pat,Ralph,A,C,A,C,C,Gerard
-897,Brant,Shakin' All Over,EBONY,Blaze,Pat,Ralph,A,C,B,C,C,Alex
-898,Chris,Superman,EBONY,Daryl,Pat,Ralph,A,C,B,C,C,AN
-899,Ross,The Devil Went Down To Georgia,EBONY,Keyon,Pat,Ralph,B,C,C,C,C,DOTTY
-900,Kobe,The Ballad Of John And Yoko,EBONY,Keaton,Pat,Ralph,C,C,A,C,C,Steve
-901,Alfonso,We Can Work It Out,EBONY,Terrance,Pat,Ralph,C,C,B,C,C,Estevan
-902,VIRGEN,Just My Imagination,EBONY,Evan,Pat,Ralph,C,C,B,C,C,FLORETTA
-903,Blake,"Don't Think Twice, It's Alright",EBONY,Orion,Pat,Ralph,C,C,C,C,C,EDYTHE
-904,Aaron,AND WE DANCED,EBONY,Cruz,Pat,Ralph,B,C,B,C,C,MARINDA
-905,EMERITA,Hey You,EBONY,Jaren,Pat,Ralph,C,C,C,C,C,EUGENIE
-906,Steve,Lido Shuffle,EBONY,Landon,Pat,Ralph,C,C,A,C,C,BLOSSOM
-907,FREDERICKA,Spill the Wine,EBONY,Mike,Pat,Ralph,A,C,B,C,C,NAKITA
-908,Nash,Imagine,EBONY,Gunnar,Pat,Ralph,C,C,C,C,C,ARTIE
-909,Trey,After Midnight,EBONY,Maxwell,Pat,Ralph,C,C,B,C,C,Syed
-910,Aldo,The Story In Your Eyes,EBONY,Brandyn,Pat,Ralph,B,C,C,C,C,JENNETTE
-911,Carlo,Closer To Home (I'm Your Captain),EBONY,Tariq,Pat,Ralph,B,C,B,C,C,SILVANA
-912,ROSALIND,You've Got Another Thing Comin',EBONY,Ignacio,Pat,Ralph,A,C,C,C,C,Quinten
-913,RORY,Jailbreak,EBONY,Owen,Pat,Ralph,B,C,A,C,C,YEN
-914,Tyrique,Helen Wheels,EBONY,Owen,Pat,Ralph,C,C,A,C,C,CATHERINA
-915,Aden,This Is The Time,EBONY,Gustavo,Pat,Ralph,C,C,B,C,C,JEANELLE
-916,SHAUNTA,Subterranean Homesick Blues,KATELYN,Easton,Barb,Ralph,C,C,A,C,C,GEORGEANN
-917,FATIMAH,You Don't Know How It Feels,KATELYN,Fidel,Barb,Ralph,A,C,B,C,C,Logan
-918,Isai,Going to California,KATELYN,Forrest,Barb,Ralph,C,C,C,C,C,Axel
-919,Elias,Life Is a Highway,KATELYN,Camden,Barb,Ralph,B,C,A,C,C,LULU
-920,DIONNE,Ain't Wastin' Time No More,KATELYN,Daryl,Barb,Ralph,B,C,B,C,C,Vincent
-921,Ibrahim,Best Of Both Worlds,KATELYN,Zane,Barb,Ralph,B,C,A,C,C,Nathan
-922,CINDA,The Boys Are Back In Town,KATELYN,Draven,Barb,Ralph,A,C,A,C,C,FELISHA
-923,DARIA,Heart of Glass,KATELYN,Fred,Barb,Ralph,B,C,B,C,C,Tyree
-924,Hassan,Mama,KATELYN,Terrance,Barb,Ralph,A,C,B,C,C,Douglas
-925,OLETA,Cum On Feel the Noize,KATELYN,Carson,Barb,Ralph,B,C,C,C,C,Mario
-926,Sheldon,La Grange,KATELYN,Jaren,Barb,Ralph,B,C,C,C,C,AMAL
-927,PIPER,Open Arms,KATELYN,Brodie,Barb,Ralph,A,C,B,C,C,REENA
-928,Cameron,Sunset Grill,KATELYN,Ronaldo,Barb,Ralph,C,C,C,C,C,CHRYSTAL
-929,MONET,What About Love?,KATELYN,Alberto,Barb,Ralph,A,C,A,C,C,LOURIE
-930,Connor,Come to Poppa,KATELYN,Alberto,Barb,Ralph,C,C,A,C,C,Roderick
-931,Kelly,Show Don't Tell,KATELYN,Owen,Barb,Ralph,B,C,A,C,C,Dayton
-932,Nikolas,The Cisco Kid,KATELYN,Gustavo,Barb,Ralph,B,C,B,C,C,DARIA
-933,CONTESSA,Jaded,KATELYN,Ayden,Barb,Ralph,C,C,A,C,C,TEENA
-934,Trevion,Heard It On the X,KATELYN,Ayden,Barb,Ralph,C,C,A,C,C,Kadin
-935,TANDY,Seasons of Wither,KATELYN,Rohan,Barb,Ralph,B,C,C,C,C,Aiden
-936,Trevor,Tangerine,KATELYN,Rohan,Barb,Ralph,C,C,C,C,C,EARLEAN
-937,LULU,Illegal Smile,KATELYN,Kamren,Barb,Ralph,C,C,A,C,C,Conrad
-938,Cayden,Born to Be Wild,KATELYN,Kamren,Barb,Ralph,B,C,A,C,C,Harry
-939,Garrison,I Don't Care Anymore,AMEE,Easton,Pat,Ralph,C,C,A,C,C,Chandler
-940,GAYLE,Highway To Hell,AMEE,Brad,Pat,Ralph,C,C,B,C,C,NAKITA
-941,GINETTE,New York State Of Mind,AMEE,Blaze,Pat,Ralph,C,C,B,C,C,EDYTHE
-942,Javonte,South California Purples,AMEE,Zane,Pat,Ralph,C,C,A,C,C,ELMER
-943,PEARL,When the Music's Over,AMEE,Shane,Pat,Ralph,C,C,B,C,C,Elliot
-944,Bernard,Jet City Woman,AMEE,Bradly,Pat,Ralph,C,C,B,C,C,Addison
-945,Ari,Hitch A Ride,AMEE,Elmer,Pat,Ralph,A,C,C,C,C,Steve
-946,Barrett,Turn Me Loose,AMEE,Donavan,Pat,Ralph,A,C,B,C,C,Earl
-947,ISABELLA,Heartless,AMEE,Pierce,Pat,Ralph,A,C,B,C,C,CELINDA
-948,AN,Four Sticks,AMEE,Evan,Pat,Ralph,B,C,B,C,C,RUTHA
-949,Jarvis,I Love the Night,AMEE,Evan,Pat,Ralph,C,C,B,C,C,MITZIE
-950,Orion,Everybody Wants to Rule the World,AMEE,Orion,Pat,Ralph,C,C,C,C,C,ZONA
-951,Darryl,December,AMEE,Brodie,Pat,Ralph,C,C,B,C,C,JODEE
-952,DENISE,Far Behind,AMEE,Alberto,Pat,Ralph,C,C,A,C,C,JODEE
-953,MICHAL,Stop Draggin' My Heart Around,AMEE,Alberto,Pat,Ralph,B,C,A,C,C,CORRINNE
-954,Aden,Bebe le Strange,AMEE,Tariq,Pat,Ralph,A,C,B,C,C,Christopher
-955,ELKE,YOU GOT THE SILVER,AMEE,Tyrese,Pat,Ralph,A,C,B,C,C,Alfonso
-956,Andreas,"I'm Bad, I'm Nationwide",AMEE,Ayden,Pat,Ralph,C,C,A,C,C,ALLIE
-957,Keith,Love Is A Battlefield,CLAIRE,Easton,Pat,Ralph,C,B,A,B,B,MAHALIA
-958,MAXIMINA,Cat's In The Cradle,CLAIRE,Fidel,Pat,Ralph,A,B,B,B,B,Leonardo
-959,JODEE,Black,CLAIRE,Chaz,Pat,Ralph,B,B,A,B,B,EUGENIE
-960,Kevon,Rock And Roll,CLAIRE,Chaz,Pat,Ralph,B,B,A,B,B,Asa
-961,Roger,Who Do You Love,CLAIRE,Forrest,Pat,Ralph,C,B,C,B,B,CATHERINA
-962,PAULENE,No More Tears,CLAIRE,Camden,Pat,Ralph,C,B,A,B,B,Devyn
-963,Johnathan,Living After Midnight,CLAIRE,Keon,Pat,Ralph,A,B,C,B,B,PIEDAD
-964,LANELL,No Reply At All,CLAIRE,Fred,Pat,Ralph,C,B,B,B,B,Brandan
-965,Darrius,Surrender,CLAIRE,Evan,Pat,Ralph,A,B,B,B,B,Jaylin
-966,Kayden,Sex Action,CLAIRE,Landon,Pat,Ralph,B,B,A,B,B,LAVONNE
-967,EUGENIE,Horizontal Bop,CLAIRE,Mike,Pat,Ralph,B,B,B,B,B,DONNETTA
-968,RUTHA,Burden in My Hand,CLAIRE,Brodie,Pat,Ralph,B,B,B,B,B,Alex
-969,TEISHA,Magic Power,CLAIRE,Salvatore,Pat,Ralph,C,B,B,B,B,Alec
-970,KARINE,Sugar Mountain,CLAIRE,Maxwell,Pat,Ralph,A,B,B,B,B,Dallin
-971,Emiliano,Mrs. Robinson,CLAIRE,Alberto,Pat,Ralph,A,B,A,B,B,KARINE
-972,LAINE,Romeo And Juliet,CLAIRE,Brandyn,Pat,Ralph,B,B,C,B,B,Mateo
-973,BERTA,The Zoo,CLAIRE,Ignacio,Pat,Ralph,C,B,C,B,B,BRIDGETTE
-974,LISSA,Eruption - You Really Got Me,CLAIRE,Jorden,Pat,Ralph,C,B,B,B,B,Cade
-975,JULIANE,Hypnotized,CLAIRE,Kamren,Pat,Ralph,A,B,A,B,B,Sergio
-976,CHARLIE,Strutter,CLAIRE,Ryder,Pat,Ralph,B,B,C,B,B,Brant
-977,LYNELL,Third Stone From The Sun,CHANG,Easton,Barb,Ralph,A,C,A,C,C,Corbin
-978,CHERISH,Pride (In the Name of Love),CHANG,Fidel,Barb,Ralph,B,C,B,C,C,MARTINA
-979,Rene,You Belong to the City,CHANG,Chaz,Barb,Ralph,B,C,A,C,C,ASHLYN
-980,SARINA,Copperhead Road,CHANG,Camden,Barb,Ralph,C,C,A,C,C,TAWNYA
-981,CHRISSY,Diary Of A Madman,CHANG,Deandre,Barb,Ralph,A,C,B,C,C,Santos
-982,Zachariah,Until It Sleeps,CHANG,Deandre,Barb,Ralph,C,C,B,C,C,KENDRA
-983,Keanu,Kings and Queens,CHANG,Deandre,Barb,Ralph,A,C,B,C,C,German
-984,Brooks,"Train, Train",CHANG,Keyon,Barb,Ralph,A,C,C,C,C,Shaun
-985,Guillermo,NOT FADEAWAY/GOING /AWAY,CHANG,Santos,Barb,Ralph,B,C,B,C,C,Ulises
-986,FAVIOLA,New York State Of Mind,CHANG,Terrance,Barb,Ralph,A,C,B,C,C,JASON
-987,Aaron,Mr. Brownstone,CHANG,Carson,Barb,Ralph,C,C,C,C,C,Perry
-988,BABETTE,While You See a Chance,CHANG,Quentin,Barb,Ralph,B,C,C,C,C,Gaven
-989,BABETTE,Stuck In the Middle With You,CHANG,Shea,Barb,Ralph,A,C,C,C,C,Herbert
-990,LEKISHA,Medicated Goo,CHANG,Issac,Barb,Ralph,C,C,A,C,C,Aubrey
-991,Dion,When You Close Your Eyes,CHANG,Ryder,Barb,Ralph,B,C,C,C,C,Freddie
-992,SHANTEL,I Can't Fight This Feeling,DEANDREA,Devin,Mary,Ralph,C,C,A,C,C,Royce
-993,LUCRECIA,Sweet Hitch Hiker,DEANDREA,Orlando,Mary,Ralph,C,C,A,C,C,SEASON
-994,ADRIENNE,I Can Survive,DEANDREA,Keon,Mary,Ralph,B,C,C,C,C,JOSE
-995,Deshawn,Sirens,DEANDREA,Keon,Mary,Ralph,A,C,C,C,C,Rodney
-996,Jamel,Born To Run,DEANDREA,Zane,Mary,Ralph,C,C,A,C,C,Royce
-997,MINDA,Rock And Roll Party In The Streets,DEANDREA,Agustin,Mary,Ralph,C,C,C,C,C,ELOIS
-998,JADA,Is She Really Going Out With Him?,DEANDREA,Agustin,Mary,Ralph,B,C,C,C,C,SHAUNNA
-999,TAMAR,American Dream Plan B,DEANDREA,Shane,Mary,Ralph,C,C,B,C,C,Raphael
-1000,Rashawn,With a Little Luck,DEANDREA,Deandre,Mary,Ralph,A,C,B,C,C,LENA
-1001,Jeremy,"Baby, Please Don't Go",DEANDREA,Draven,Mary,Ralph,A,C,A,C,C,Oscar
-1002,MAZIE,YOU'VE GOT A FRIEND,DEANDREA,Keyon,Mary,Ralph,B,C,C,C,C,JEANETTA
-1003,MINNA,Just A Job To Do,DEANDREA,Shea,Mary,Ralph,B,C,C,C,C,Isaak
-1004,RETA,Time/Gig in The Sky,DEANDREA,Jaren,Mary,Ralph,C,C,C,C,C,Fernando
-1005,Javonte,Hurts So Good,DEANDREA,Landon,Mary,Ralph,C,C,A,C,C,Chance
-1006,BRIDGETTE,You've Got Another Thing Comin',DEANDREA,Mike,Mary,Ralph,A,C,B,C,C,MICHAEL
-1007,CORY,Drift Away,DEANDREA,Gunnar,Mary,Ralph,B,C,C,C,C,CASSEY
-1008,Julien,I Know I'm Losing You,DEANDREA,Maxwell,Mary,Ralph,C,C,B,C,C,Garrett
-1009,CLARETHA,One Way Street,DEANDREA,Ronaldo,Mary,Ralph,B,C,A,C,C,Hugo
-1010,MAFALDA,Travelin' Man,DEANDREA,Issac,Mary,Ralph,A,C,A,C,C,Gideon
-1011,Paul,It's Late,DEANDREA,Brandyn,Mary,Ralph,B,C,C,C,C,CARLINE
-1012,Ruben,Life During Wartime,DEANDREA,Jayce,Mary,Ralph,B,C,A,C,C,ONITA
-1013,Samson,Mony Mony,DEANDREA,Tariq,Mary,Ralph,C,C,B,C,C,FLORIDA
-1014,SYNTHIA,All She Wants to Do Is Dance,DEANDREA,Ignacio,Mary,Ralph,C,C,C,C,C,Keanu
-1015,Braydon,If 6 Was 9,DEANDREA,Ignacio,Mary,Ralph,C,C,C,C,C,GEORGE
-1016,MITSUE,Tom Sawyer,DEANDREA,Tyrese,Mary,Ralph,C,C,B,C,C,Tristan
-1017,DELORES,Top Jimmy,DEANDREA,Micheal,Mary,Ralph,C,C,A,C,C,STEFANY
-1018,ELMER,Light Up,VALENCIA,Devin,Pat,Ralph,C,A,A,A,A,Shannon
-1019,EDWINA,The Grand Illusion,VALENCIA,Zane,Pat,Ralph,C,A,A,A,A,DELIA
-1020,TABITHA,Fortress Around Your Heart,VALENCIA,Santos,Pat,Ralph,C,A,B,A,A,EVETTE
-1021,Gino,Basket Case,VALENCIA,Santos,Pat,Ralph,A,A,B,A,A,NADENE
-1022,ALLIE,BLUE MONEY,VALENCIA,Orion,Pat,Ralph,C,A,C,A,A,TABITHA
-1023,Dandre,Fat Bottomed Girls,VALENCIA,Orion,Pat,Ralph,C,A,C,A,A,Christopher
-1024,Dallin,Welcome To The Machine,VALENCIA,Jaren,Pat,Ralph,C,A,C,A,A,Reuben
-1025,MARQUETTA,Put Your Lights On (feat. Everlast),VALENCIA,Gunnar,Pat,Ralph,B,A,C,A,A,Kayden
-1026,SUZANNE,Invisible Sun,VALENCIA,Griffin,Pat,Ralph,B,A,B,A,A,Tristan
-1027,MARINDA,Tonight She Comes,VALENCIA,Maxwell,Pat,Ralph,A,A,B,A,A,Elliot
-1028,ROXANE,Hysteria,VALENCIA,Maxwell,Pat,Ralph,A,A,B,A,A,Reuben
-1029,Jarod,Owner of a Lonely Heart,VALENCIA,Owen,Pat,Ralph,C,A,A,A,A,MARINDA
-1030,KALI,Whiskey In The Jar,VALENCIA,Gustavo,Pat,Ralph,B,A,B,A,A,Ari
-1031,Demarcus,Limelight,VALENCIA,Gustavo,Pat,Ralph,B,A,B,A,A,Ari
-1032,CELINDA,Join Together,VALENCIA,Jorden,Pat,Ralph,C,A,B,A,A,GAYLE
-1033,Raheem,Caught Up in You,VALENCIA,Jorden,Pat,Ralph,C,A,B,A,A,Ari
-1034,Royce,Honky Tonk Women,VALENCIA,Micheal,Pat,Ralph,A,A,A,A,A,Anton
-1035,Gage,Marakesh Express,PHILOMENA,Devin,Pat,Ralph,B,C,A,C,C,DONNETTA
-1036,Mateo,Jailbreak,PHILOMENA,Brad,Pat,Ralph,A,C,B,C,C,Kevon
-1037,ELISE,COVER OF THE ROLLING STONE,PHILOMENA,Blaze,Pat,Ralph,C,C,B,C,C,Estevan
-1038,PEI,Seek & Destroy,PHILOMENA,Orlando,Pat,Ralph,B,C,A,C,C,Jarod
-1039,HILMA,You Can Call Me Al,PHILOMENA,Zane,Pat,Ralph,A,C,A,C,C,Karson
-1040,MILA,Simple Man,PHILOMENA,Agustin,Pat,Ralph,B,C,C,C,C,Andreas
-1041,Gunner,No Leaf Clover,PHILOMENA,Agustin,Pat,Ralph,A,C,C,C,C,PAULENE
-1042,Bryan,Breadfan,PHILOMENA,Shane,Pat,Ralph,B,C,B,C,C,MARAGRET
-1043,Karson,P.s. I Love You,PHILOMENA,Shane,Pat,Ralph,A,C,B,C,C,FELICIA
-1044,Chance,What I Like About You,PHILOMENA,Shane,Pat,Ralph,B,C,B,C,C,KYOKO
-1045,Drake,Show Me the Way,PHILOMENA,Bradly,Pat,Ralph,A,C,B,C,C,Deontae
-1046,Manuel,Rock The Casbah,PHILOMENA,Santos,Pat,Ralph,A,C,B,C,C,Mateo
-1047,SHANICE,Screaming In The Night,PHILOMENA,Cruz,Pat,Ralph,A,C,B,C,C,Jessie
-1048,PIEDAD,Flying High Again,PHILOMENA,Cruz,Pat,Ralph,C,C,B,C,C,LINA
-1049,SHANTI,Foolin',PHILOMENA,Jaren,Pat,Ralph,A,C,C,C,C,KENIA
-1050,EDRA,"Long, Long Way From Home",PHILOMENA,Camren,Pat,Ralph,C,C,C,C,C,Reece
-1051,MAGAN,Hollywood Nights,PHILOMENA,Maxwell,Pat,Ralph,B,C,B,C,C,KORTNEY
-1052,MODESTA,2112: Overture / The Temples of Syrinx (Chronicles Version),PHILOMENA,Ronaldo,Pat,Ralph,C,C,C,C,C,TARSHA
-1053,Johnathon,I'm a Man,PHILOMENA,Ronaldo,Pat,Ralph,C,C,C,C,C,MARYROSE
-1054,KYOKO,Hard As A Rock,PHILOMENA,Alberto,Pat,Ralph,A,C,A,C,C,CLARIBEL
-1055,BRITNI,Good Day Sunshine,PHILOMENA,Daquan,Pat,Ralph,B,C,C,C,C,KASSIE
-1056,Courtney,Eyes Of A Stranger,PHILOMENA,Ignacio,Pat,Ralph,A,C,C,C,C,MARINDA
-1057,DEMETRIUS,Your Love,PHILOMENA,Owen,Pat,Ralph,B,C,A,C,C,Greyson
-1058,Ezekiel,Down by the River,PHILOMENA,Ayden,Pat,Ralph,B,C,A,C,C,Vicente
-1059,Jake,Gallows Pole,PHILOMENA,Micheal,Pat,Ralph,C,C,A,C,C,Steve
-1060,Kamren,Born Too Late,BRUNA,Devin,Pat,Ralph,C,A,A,A,A,MITSUE
-1061,Alden,We Just Disagree,BRUNA,Orlando,Pat,Ralph,B,A,A,A,A,LEONE
-1062,KORTNEY,Tonight She Comes,BRUNA,Zane,Pat,Ralph,C,A,A,A,A,KYLE
-1063,KACEY,"Oh, Well",BRUNA,Donavan,Pat,Ralph,A,A,B,A,A,Chance
-1064,MARYROSE,Can't Get Enough,BRUNA,Keyon,Pat,Ralph,B,A,C,A,A,ROSALIND
-1065,CLARETTA,We're an American Band,BRUNA,Terrance,Pat,Ralph,A,A,B,A,A,Keith
-1066,Alexzander,The Old Man Down The Road,BRUNA,Shea,Pat,Ralph,A,A,C,A,A,PEI
-1067,WINTER,Woman,BRUNA,Carson,Pat,Ralph,B,A,C,A,A,APOLONIA
-1068,Shannon,Dolly Dagger,BRUNA,Mike,Pat,Ralph,B,A,B,A,A,Eliseo
-1069,Steve,Day Tripper,BRUNA,Camren,Pat,Ralph,C,A,C,A,A,Orion
-1070,JEANELLE,Why Don't We Get Drunk,BRUNA,Quentin,Pat,Ralph,C,A,C,A,A,Dandre
-1071,MARILU,Diamond Dogs,BRUNA,Ronaldo,Pat,Ralph,B,A,C,A,A,River
-1072,RETHA,Tusk,BRUNA,Ronaldo,Pat,Ralph,A,A,C,A,A,Treyvon
-1073,Jayden,Southern Man,BRUNA,Owen,Pat,Ralph,C,A,A,A,A,LEONE
-1074,DANITA,CAROL,BRUNA,Jorden,Pat,Ralph,A,A,B,A,A,Alex
-1075,Jefferson,Can't Get Enough,KENNA,Devin,Pat,Ralph,A,A,A,A,A,Tre
-1076,Sammy,Simple Man,KENNA,Blaze,Pat,Ralph,C,A,B,A,A,Bryson
-1077,Harvey,THE LAST TIME,KENNA,Zane,Pat,Ralph,B,A,A,A,A,Infant
-1078,Salvatore,Uncle Tom's Cabin,KENNA,Donavan,Pat,Ralph,C,A,B,A,A,ELISA
-1079,Tristan,War Pigs,KENNA,Keyon,Pat,Ralph,C,A,C,A,A,JUNG
-1080,JENI,Pride of Man,KENNA,Keaton,Pat,Ralph,A,A,A,A,A,TREASA
-1081,Hernan,Flight Of Icarus,KENNA,Santos,Pat,Ralph,C,A,B,A,A,AUBREY
-1082,BRIDGETTE,I CAN SEE CLEARLY NOW,KENNA,Fred,Pat,Ralph,C,A,B,A,A,JEN
-1083,Dashawn,Peg,KENNA,Terrance,Pat,Ralph,C,A,B,A,A,KIM
-1084,BLOSSOM,Dear Prudence,KENNA,Shea,Pat,Ralph,C,A,C,A,A,ELKE
-1085,JUNKO,Turn To Stone,KENNA,Carson,Pat,Ralph,B,A,C,A,A,DENISE
-1086,Erick,The One I Love,KENNA,Cruz,Pat,Ralph,B,A,B,A,A,Leonardo
-1087,Clint,The Rain Song,KENNA,Seth,Pat,Ralph,C,A,C,A,A,Leonard
-1088,KIESHA,Art For Arts Sake,KENNA,Ronaldo,Pat,Ralph,B,A,C,A,A,Kenny
-1089,TIMIKA,Nobody's Fool,KENNA,Brandyn,Pat,Ralph,B,A,C,A,A,KORTNEY
-1090,Justyn,Moondance,LORRINE,Devin,Liz,Ralph,B,C,A,C,C,CORRINA
-1091,LAHOMA,American Woman,LORRINE,Blaze,Liz,Ralph,B,C,B,C,C,Tanner
-1092,ERNESTINA,Rosewood Bitters,LORRINE,Camden,Liz,Ralph,B,C,A,C,C,ANNABELLE
-1093,ADRIEN,Sugar Magnolia,LORRINE,Pierce,Liz,Ralph,C,C,B,C,C,Jacob
-1094,KIRSTEN,This Beat Goes on/Switching to Glide,LORRINE,Evan,Liz,Ralph,B,C,B,C,C,BIRGIT
-1095,MARDELL,The Unforgiven,LORRINE,Orion,Liz,Ralph,A,C,C,C,C,SHANDRA
-1096,Tevin,Rikki Don't Lose That Number,LORRINE,Orion,Liz,Ralph,C,C,C,C,C,Moshe
-1097,Pedro,Let the Music Do the Talking,LORRINE,Jaren,Liz,Ralph,C,C,C,C,C,MILDRED
-1098,DEEANN,Baby Hold On,LORRINE,Landon,Liz,Ralph,A,C,A,C,C,Tevin
-1099,Ernesto,Don't Ask Me No Questions,LORRINE,Adonis,Liz,Ralph,C,C,B,C,C,Elian
-1100,Deondre,Closer to the Heart,LORRINE,Adonis,Liz,Ralph,C,C,B,C,C,THEODORA
-1101,FLORRIE,Into The Mystic,LORRINE,Quentin,Liz,Ralph,C,C,C,C,C,Jacob
-1102,BLANCH,Us and Them,LORRINE,Reynaldo,Liz,Ralph,A,C,B,C,C,FLORRIE
-1103,SHIRLEY,For Your Life,LORRINE,Ronaldo,Liz,Ralph,B,C,C,C,C,Tanner
-1104,ELOISE,Hell Is for Children,LORRINE,Alberto,Liz,Ralph,A,C,A,C,C,ERMELINDA
-1105,NEREIDA,My Best Friend's Girl,LORRINE,Alberto,Liz,Ralph,C,C,A,C,C,LAURICE
-1106,CYNDI,The Rover,LORRINE,Ronaldo,Liz,Ralph,A,C,A,C,C,DONITA
-1107,Gilberto,Look At Little Sister,LORRINE,Ronaldo,Liz,Ralph,A,C,A,C,C,ADA
-1108,MIRNA,Sledgehammer,LORRINE,Issac,Liz,Ralph,B,C,A,C,C,CHERY
-1109,Davin,True Fine Love,LORRINE,Ryder,Liz,Ralph,C,C,C,C,C,Bruno
-1110,Rodolfo,(I Can't Get No) Satisfaction,THORA,Devin,Barb,Ralph,B,A,A,A,A,Shaun
-1111,KENDRA,Perry Mason,THORA,Forrest,Barb,Ralph,B,A,C,A,A,Morgan
-1112,Miguel,Long Cool Woman,THORA,Daryl,Barb,Ralph,B,A,B,A,A,ALFREDA
-1113,Hernan,Superstition,THORA,Agustin,Barb,Ralph,B,A,C,A,A,MARYANNE
-1114,Neil,Better Man,THORA,Shane,Barb,Ralph,B,A,B,A,A,Corey
-1115,BILLIE,The Load-out/stay,THORA,Donavan,Barb,Ralph,A,A,B,A,A,GINA
-1116,Gage,It's A Long Way To The Top,THORA,Santos,Barb,Ralph,A,A,B,A,A,Ezequiel
-1117,Vernon,Rocket Man,THORA,Pierce,Barb,Ralph,C,A,B,A,A,AMAL
-1118,Richard,Vasoline,THORA,Evan,Barb,Ralph,C,A,B,A,A,JONELL
-1119,SHIRLEY,One Of These Days,THORA,Orion,Barb,Ralph,C,A,C,A,A,Terrence
-1120,DANIELLE,Going to California,THORA,Carson,Barb,Ralph,B,A,C,A,A,Daniel
-1121,EMMIE,Sin City,THORA,Seth,Barb,Ralph,B,A,C,A,A,MELODEE
-1122,Ezra,Modern Love,THORA,Brodie,Barb,Ralph,A,A,B,A,A,DARIA
-1123,Greyson,More Than a Feeling,THORA,Alberto,Barb,Ralph,B,A,A,A,A,Sheldon
-1124,Tariq,Honky Tonk Women,THORA,Ronaldo,Barb,Ralph,A,A,A,A,A,ELLEN
-1125,VI,La Grange,THORA,Shea,Barb,Ralph,C,A,C,A,A,Trevon
-1126,Reilly,Can't You See,THORA,Lawson,Barb,Ralph,C,A,A,A,A,Ezra
-1127,GIANNA,Street Of Dreams,THORA,Tariq,Barb,Ralph,A,A,B,A,A,Hudson
-1128,JASON,Whole Lotta Rosie,THORA,Owen,Barb,Ralph,B,A,A,A,A,Jorden
-1129,BRITTENY,Hush,WEI,Devin,Liz,Ralph,A,C,A,C,C,CYNDI
-1130,VERENA,Apeman,WEI,Chaz,Liz,Ralph,B,C,A,C,C,KARAN
-1131,Reese,Truckin',WEI,Blaze,Liz,Ralph,C,C,B,C,C,Bruno
-1132,Rickey,LITTLE CHILD,WEI,Forrest,Liz,Ralph,C,C,C,C,C,GABRIELLE
-1133,Bernardo,Into The Mystic,WEI,Donavan,Liz,Ralph,C,C,B,C,C,FIDELA
-1134,CHERY,Best of You,WEI,Keyon,Liz,Ralph,A,C,C,C,C,Juan
-1135,DEENA,The Ballad Of Curtis Loew,WEI,Orion,Liz,Ralph,C,C,C,C,C,ASIA
-1136,HUONG,Wait For You,WEI,Shea,Liz,Ralph,A,C,C,C,C,Deondre
-1137,Tate,Imagine,WEI,Cruz,Liz,Ralph,B,C,B,C,C,Nicholas
-1138,Jeremy,More Than a Feeling,WEI,Jaren,Liz,Ralph,B,C,C,C,C,MAUDE
-1139,FIDELA,Five To One,WEI,Landon,Liz,Ralph,B,C,A,C,C,ASIA
-1140,TERRY,Brain Stew/Jaded,WEI,Camren,Liz,Ralph,B,C,C,C,C,TERA
-1141,Morgan,Axel F Theme,WEI,Brodie,Liz,Ralph,C,C,B,C,C,IGNACIA
-1142,Nicholas,Nobody's Fool,WEI,Reynaldo,Liz,Ralph,B,C,B,C,C,WENONA
-1143,Orion,Let Me Roll It,WEI,Alberto,Liz,Ralph,A,C,A,C,C,KAMILAH
-1144,Darrell,My Head's In Mississippi,WEI,Issac,Liz,Ralph,C,C,A,C,C,Noah
-1145,DION,Fashion,WEI,Ayden,Liz,Ralph,C,C,A,C,C,Easton
-1146,Larry,Legs,WEI,Ayden,Liz,Ralph,B,C,A,C,C,Deondre
-1147,Skylar,Them Bones,WEI,Jorden,Liz,Ralph,A,C,B,C,C,Vernon
-1148,SOON,UNDERCOVER OF THE NIGHT,WEI,Kamren,Liz,Ralph,B,C,A,C,C,Elvis
-1149,Elian,Tell Me What You Want,WEI,Micheal,Liz,Ralph,A,C,A,C,C,Israel
-1150,KARLYN,American Woman,LAUREEN,Devin,Mary,Ralph,A,A,A,A,A,JOVITA
-1151,Sage,Mother's Little Helper,LAUREEN,Devin,Mary,Ralph,A,A,A,A,A,GWENN
-1152,NATISHA,Find Your Way Back,LAUREEN,Chaz,Mary,Ralph,C,A,A,A,A,Dashawn
-1153,Stephan,Drive,LAUREEN,Chaz,Mary,Ralph,B,A,A,A,A,CLARENCE
-1154,Kayden,Bungle In The Jungle,LAUREEN,Daryl,Mary,Ralph,C,A,B,A,A,Nasir
-1155,Reginald,OH DARLING,LAUREEN,Agustin,Mary,Ralph,C,A,C,A,A,DARCEY
-1156,Forrest,Levon,LAUREEN,Draven,Mary,Ralph,A,A,A,A,A,MAXIMINA
-1157,CAROLINA,Love Is Like A Rock,LAUREEN,Bradly,Mary,Ralph,C,A,B,A,A,Joshua
-1158,Nicholas,Help!,LAUREEN,Elmer,Mary,Ralph,C,A,C,A,A,Courtney
-1159,SHANTA,Empty Spaces/young Lust,LAUREEN,Pierce,Mary,Ralph,B,A,B,A,A,Kyler
-1160,BERNIECE,Fooling Yourself,LAUREEN,Landon,Mary,Ralph,A,A,A,A,A,SHELIA
-1161,MICHAEL,Jackie Blue,LAUREEN,Landon,Mary,Ralph,B,A,A,A,A,CASSEY
-1162,Manuel,Bitch,LAUREEN,Quentin,Mary,Ralph,C,A,C,A,A,Travis
-1163,LILY,All the Small Things,LAUREEN,Reynaldo,Mary,Ralph,B,A,B,A,A,Dean
-1164,GRISELDA,Can't Get Enough,LAUREEN,Salvatore,Mary,Ralph,C,A,B,A,A,SHANTA
-1165,Pedro,What I Got,LAUREEN,Salvatore,Mary,Ralph,B,A,B,A,A,Keanu
-1166,CHARLES,Strawberry Fields Forever,LAUREEN,Griffin,Mary,Ralph,A,A,B,A,A,LEDA
-1167,Ricardo,Summertime,LAUREEN,Alberto,Mary,Ralph,A,A,A,A,A,RIVA
-1168,Mark,Don't Believe Her,LAUREEN,Lawson,Mary,Ralph,B,A,A,A,A,Conor
-1169,VALORIE,One,LAUREEN,Tariq,Mary,Ralph,A,A,B,A,A,NGA
-1170,SHELIA,Back Off Boogaloo,LAUREEN,Ignacio,Mary,Ralph,A,A,C,A,A,GEORGE
-1171,CRISTI,Desperado,LAUREEN,Gustavo,Mary,Ralph,C,A,B,A,A,LUISA
-1172,ROY,Rainbow In the Dark,LAUREEN,Ayden,Mary,Ralph,B,A,A,A,A,LAURALEE
-1173,Fernando,PLAY THAT FUNKY MUSIC,LAUREEN,Ayden,Mary,Ralph,B,A,A,A,A,THRESA
-1174,ESTHER,Since You're Gone,LAUREEN,Ryder,Mary,Ralph,C,A,C,A,A,ESTHER
-1175,Israel,Imagine,CAREN,Brad,Liz,Ralph,C,C,B,C,C,GABRIELLE
-1176,Jessie,You Got Lucky,CAREN,Brad,Liz,Ralph,A,C,B,C,C,Israel
-1177,Donavon,My Sharona,CAREN,Chaz,Liz,Ralph,B,C,A,C,C,Morgan
-1178,ASHA,Doo Doo Doo Doo Doo (Heartbreaker),CAREN,Agustin,Liz,Ralph,B,C,C,C,C,Skylar
-1179,ARDITH,Changes,CAREN,Fred,Liz,Ralph,C,C,B,C,C,Alonzo
-1180,Angel,Better Man,CAREN,Pierce,Liz,Ralph,C,C,B,C,C,MIRNA
-1181,Raymundo,Counting Blue Cars,CAREN,Evan,Liz,Ralph,C,C,B,C,C,MILDRED
-1182,LAURA,YOU GOT THE SILVER,CAREN,Adonis,Liz,Ralph,C,C,B,C,C,Gerald
-1183,PAULITA,Powderfinger,CAREN,Camren,Liz,Ralph,B,C,C,C,C,DAN
-1184,ROBERTO,Do It Again,CAREN,Seth,Liz,Ralph,B,C,C,C,C,Robert
-1185,TERA,Sugar Mountain,CAREN,Seth,Liz,Ralph,C,C,C,C,C,WENONA
-1186,Gerald,Little Lies,CAREN,Maxwell,Liz,Ralph,A,C,B,C,C,THEODORA
-1187,EUGENA,The Real Me,CAREN,Daquan,Liz,Ralph,A,C,C,C,C,KAMILAH
-1188,Maximus,Lay Your Hands On Me,CAREN,Jayce,Liz,Ralph,C,C,A,C,C,Bruno
-1189,BIRGIT,Sweet Leaf,CAREN,Tariq,Liz,Ralph,A,C,B,C,C,BREANA
-1190,JACQUELYNE,Mysterious Ways,CAREN,Tariq,Liz,Ralph,B,C,B,C,C,Elvis
-1191,Antoine,Here Comes My Girl,CAREN,Tariq,Liz,Ralph,C,C,B,C,C,Tanner
-1192,Nehemiah,Gloria,CAREN,Tariq,Liz,Ralph,A,C,B,C,C,MARDELL
-1193,BREANA,Lightning Crashes,CAREN,Ayden,Liz,Ralph,B,C,A,C,C,TAINA
-1194,Cortez,Rock Candy,TRICIA,Brad,Mary,Ralph,C,B,B,B,B,Xzavier
-1195,CATRINA,Jackie Wilson Said,TRICIA,Zane,Mary,Ralph,B,B,A,B,B,Kyler
-1196,ODETTE,Empty Spaces,TRICIA,Draven,Mary,Ralph,B,B,A,B,B,CATRINA
-1197,YAEKO,Mony Mony,TRICIA,Fred,Mary,Ralph,A,B,B,B,B,Eli
-1198,MAYOLA,We've Got Tonite,TRICIA,Fred,Mary,Ralph,B,B,B,B,B,STEFANY
-1199,NGA,Lunatic Fringe,TRICIA,Fred,Mary,Ralph,C,B,B,B,B,PAMELLA
-1200,Jaylan,Bicycle Race,TRICIA,Pierce,Mary,Ralph,C,B,B,B,B,Brayan
-1201,ALEXANDRA,Gimme All Your Lovin,TRICIA,Orion,Mary,Ralph,B,B,C,B,B,SHANITA
-1202,VINNIE,Ordinary Average Guy,TRICIA,Cruz,Mary,Ralph,A,B,B,B,B,ARCELIA
-1203,Ahmed,He Can't Love You,TRICIA,Cruz,Mary,Ralph,A,B,B,B,B,Braxton
-1204,Nathan,Blue Sky,TRICIA,Jaren,Mary,Ralph,B,B,C,B,B,YOLANDA
-1205,Branson,Detroit Rock City,TRICIA,Adonis,Mary,Ralph,C,B,B,B,B,LORNA
-1206,MARLA,Birthday (Live),TRICIA,Brodie,Mary,Ralph,B,B,B,B,B,SARAH
-1207,JOVITA,Shine,TRICIA,Salvatore,Mary,Ralph,C,B,B,B,B,SEASON
-1208,CHINA,Red Barchetta,TRICIA,Shea,Mary,Ralph,A,B,C,B,B,Raphael
-1209,KELLI,"Careful With That Axe, Eugene",TRICIA,Jayce,Mary,Ralph,C,B,A,B,B,HYON
-1210,Conner,Blinded By the Light,TRICIA,Gustavo,Mary,Ralph,A,B,B,B,B,ALVINA
-1211,Preston,People Are Strange,TRICIA,Gustavo,Mary,Ralph,C,B,B,B,B,SHAWANDA
-1212,EULAH,Wonderous Stories,TRICIA,Micheal,Mary,Ralph,A,B,A,B,B,Hector
-1213,Wyatt,Proud Mary,DEE,Brad,Pat,Ralph,A,C,B,C,C,Daryl
-1214,MYRL,Jet City Woman,DEE,Chaz,Pat,Ralph,B,C,A,C,C,EUGENIE
-1215,Steve,Animal,DEE,Orlando,Pat,Ralph,A,C,A,C,C,FLORETTA
-1216,ARTIE,Come As You Are,DEE,Zane,Pat,Ralph,C,C,A,C,C,Darrin
-1217,Jonathan,Melissa,DEE,Keyon,Pat,Ralph,C,C,C,C,C,LINA
-1218,Jaylan,Green River,DEE,Fred,Pat,Ralph,C,C,B,C,C,ARTIE
-1219,Enrique,Get Together,DEE,Shea,Pat,Ralph,C,C,C,C,C,KASSIE
-1220,Zane,Rocky Mountain Way,DEE,Cruz,Pat,Ralph,C,C,B,C,C,Esteban
-1221,ARACELY,You Shook Me,DEE,Jaren,Pat,Ralph,B,C,C,C,C,Quincy
-1222,Addison,Too Much Time On My Hands,DEE,Quentin,Pat,Ralph,B,C,C,C,C,MERLENE
-1223,RHEA,Moby Dick,DEE,Brodie,Pat,Ralph,B,C,B,C,C,EURA
-1224,Elliot,And It Stoned Me,DEE,Salvatore,Pat,Ralph,A,C,B,C,C,Christian
-1225,Javonte,Just A Gigolo / I Ain't Got Nobody,DEE,Ronaldo,Pat,Ralph,C,C,A,C,C,Deontae
-1226,KRISTEN,You Belong to the City,DEE,Shea,Pat,Ralph,B,C,C,C,C,Ari
-1227,Devyn,We're Not Gonna Take It,DEE,Jayce,Pat,Ralph,A,C,A,C,C,YEN
-1228,MILLIE,Hey Jealousy,DEE,Tariq,Pat,Ralph,C,C,B,C,C,Jeremy
-1229,KATRINA,Love Shack,DEE,Gustavo,Pat,Ralph,B,C,B,C,C,CELINDA
-1230,ELZA,Behind The Lines,DEE,Tyrese,Pat,Ralph,C,C,B,C,C,Derick
-1231,River,Roll Me Away,DEE,Ryder,Pat,Ralph,A,C,C,C,C,Nash
-1232,Cade,A Day In The Life,DEE,Ryder,Pat,Ralph,A,C,C,C,C,Andreas
-1233,CHANTAY,Hey Joe,HANNELORE,Fidel,Barb,Ralph,B,C,B,C,C,Markus
-1234,Terrence,Finding My Way,HANNELORE,Orlando,Barb,Ralph,C,C,A,C,C,Zachery
-1235,Cesar,Travelin' Man,HANNELORE,Camden,Barb,Ralph,B,C,A,C,C,MILLICENT
-1236,Jason,Bullfrog Blues,HANNELORE,Camden,Barb,Ralph,B,C,A,C,C,Hassan
-1237,JOANE,Gloria,HANNELORE,Daryl,Barb,Ralph,A,C,B,C,C,Nathanael
-1238,KETURAH,Radioactive,HANNELORE,Zane,Barb,Ralph,A,C,A,C,C,GINA
-1239,Parker,Mercury Blues,HANNELORE,Agustin,Barb,Ralph,B,C,C,C,C,RUTHANN
-1240,MEG,Use Somebody,HANNELORE,Bradly,Barb,Ralph,A,C,B,C,C,Jacob
-1241,Connor,Rikki Don't Lose That Number,HANNELORE,Bradly,Barb,Ralph,C,C,B,C,C,KASHA
-1242,UTE,THESE EYES,HANNELORE,Carson,Barb,Ralph,C,C,C,C,C,SHANON
-1243,CHARA,Don't Go Away Mad (Just Go Away),HANNELORE,Mike,Barb,Ralph,A,C,B,C,C,Eliseo
-1244,Cristian,Living In The Past,HANNELORE,Mike,Barb,Ralph,C,C,B,C,C,Jackson
-1245,ALLA,Get Back,HANNELORE,Seth,Barb,Ralph,C,C,C,C,C,Douglas
-1246,ARMANDA,Hocus Pocus,HANNELORE,Brodie,Barb,Ralph,C,C,B,C,C,Nikhil
-1247,Jamil,I Can't Tell You Why,HANNELORE,Reynaldo,Barb,Ralph,C,C,B,C,C,Harry
-1248,Santos,And Your Bird Can Sing,HANNELORE,Gunnar,Barb,Ralph,A,C,C,C,C,LOURIE
-1249,LETISHA,NOT FADEAWAY/GOING /AWAY,HANNELORE,Daquan,Barb,Ralph,B,C,C,C,C,Alonso
-1250,John,Small Town,HANNELORE,Daquan,Barb,Ralph,B,C,C,C,C,DOROTHY
-1251,Jacob,Gimme Some Water,HANNELORE,Daquan,Barb,Ralph,B,C,C,C,C,Brooks
-1252,ELENORE,Driver's Seat,HANNELORE,Lawson,Barb,Ralph,B,C,A,C,C,CANDIE
-1253,Noel,Don't Look Back,HANNELORE,Issac,Barb,Ralph,C,C,A,C,C,RACHELLE
-1254,VERLA,I Hate Myself For Loving You,HANNELORE,Tariq,Barb,Ralph,C,C,B,C,C,Joan
-1255,MARYA,Peaceful Easy Feeling,HANNELORE,Tyrese,Barb,Ralph,C,C,B,C,C,MEG
-1256,Izaiah,Seven Bridges Road,DEEDRA,Fidel,Barb,Ralph,C,B,B,B,B,Alonso
-1257,PATSY,Subdivisions,DEEDRA,Shane,Barb,Ralph,C,B,B,B,B,MALIA
-1258,Alexis,Love Song,DEEDRA,Elmer,Barb,Ralph,A,B,C,B,B,Destin
-1259,REENA,ALL YOU ZOMBIES,DEEDRA,Donavan,Barb,Ralph,B,B,B,B,B,GLENDA
-1260,Aden,Taxman,DEEDRA,Evan,Barb,Ralph,A,B,B,B,B,Isai
-1261,Keaton,It's In The Way That You Use It,DEEDRA,Orion,Barb,Ralph,A,B,C,B,B,Justus
-1262,Hudson,Look What The Cat Dragged In,DEEDRA,Landon,Barb,Ralph,B,B,A,B,B,YOKO
-1263,Douglas,Show Me The Way,DEEDRA,Adonis,Barb,Ralph,B,B,B,B,B,BILLIE
-1264,Rashad,Illegal Smile,DEEDRA,Camren,Barb,Ralph,C,B,C,B,B,MARTINA
-1265,MING,Starman,DEEDRA,Brodie,Barb,Ralph,B,B,B,B,B,GIANNA
-1266,HILDA,Breadfan,DEEDRA,Maxwell,Barb,Ralph,A,B,B,B,B,JESSIA
-1267,FREEDA,Too Many People,DEEDRA,Ronaldo,Barb,Ralph,B,B,C,B,B,Javier
-1268,CATHEY,Rockaway Beach,DEEDRA,Alberto,Barb,Ralph,A,B,A,B,B,WANDA
-1269,Weston,The Wind Cries Mary,DEEDRA,Daquan,Barb,Ralph,C,B,C,B,B,Vernon
-1270,MARTINA,Even It Up,DEEDRA,Jayce,Barb,Ralph,B,B,A,B,B,Turner
-1271,SHEREE,Dangerious Type,DEEDRA,Owen,Barb,Ralph,C,B,A,B,B,Kirk
-1272,Marcel,Seasons of Wither,DEEDRA,Jorden,Barb,Ralph,A,B,B,B,B,FLAVIA
-1273,Vernon,Sunday Bloody Sunday,DEEDRA,Kamren,Barb,Ralph,B,B,A,B,B,Layne
-1274,DORETHA,Don't Tell Me You Love Me,DEEDRA,Ryder,Barb,Ralph,C,B,C,B,B,FANNY
-1275,Spencer,Sex Action,JOEL,Fidel,Mary,Ralph,C,C,B,C,C,Royce
-1276,KERRI,I Wouldn't Want to Be Like You,JOEL,Chaz,Mary,Ralph,B,C,A,C,C,Nicholas
-1277,ELMIRA,"Hello, I Love You",JOEL,Daryl,Mary,Ralph,A,C,B,C,C,TANGELA
-1278,JENETTE,Forever Man,JOEL,Keon,Mary,Ralph,A,C,C,C,C,Chase
-1279,Darrin,Shot Down In Flames,JOEL,Keon,Mary,Ralph,A,C,C,C,C,Karson
-1280,LESA,Something To Believe In,JOEL,Agustin,Mary,Ralph,A,C,C,C,C,Austyn
-1281,Johnathan,Suite Madame Blue,JOEL,Draven,Mary,Ralph,A,C,A,C,C,Mitchel
-1282,ONITA,Margaritaville,JOEL,Donavan,Mary,Ralph,B,C,B,C,C,Jett
-1283,Nathen,Drive,JOEL,Keyon,Mary,Ralph,C,C,C,C,C,Deondre
-1284,PAMELLA,Freewill,JOEL,Keaton,Mary,Ralph,C,C,A,C,C,Jordon
-1285,Rodney,IT WON'T BE LONG,JOEL,Keaton,Mary,Ralph,B,C,A,C,C,Jaylen
-1286,Christian,Victoria,JOEL,Fred,Mary,Ralph,C,C,B,C,C,SARAH
-1287,VILMA,Unchained,JOEL,Orion,Mary,Ralph,A,C,C,C,C,CATHY
-1288,DEONNA,Everybody Knows This Is Nowhere,JOEL,Cruz,Mary,Ralph,C,C,B,C,C,Stephan
-1289,Trevion,See You on the Other Side,JOEL,Adonis,Mary,Ralph,A,C,B,C,C,Justyn
-1290,Tyrell,All My Loving,JOEL,Adonis,Mary,Ralph,C,C,B,C,C,Ramon
-1291,Joshua,Like You Do,JOEL,Quentin,Mary,Ralph,C,C,C,C,C,Blake
-1292,ALBERTINE,Stay with Me,JOEL,Griffin,Mary,Ralph,C,C,B,C,C,Ivan
-1293,Stephen,Thunder Island,JOEL,Ronaldo,Mary,Ralph,A,C,C,C,C,Jarrett
-1294,Javion,Big Gun,JOEL,Shea,Mary,Ralph,B,C,C,C,C,Ari
-1295,Nikolas,We Will Rock You,JOEL,Issac,Mary,Ralph,B,C,A,C,C,LORNA
-1296,GIDGET,Honky Cat,JOEL,Jayce,Mary,Ralph,A,C,A,C,C,Israel
-1297,Ladarius,Black Magic Woman,JOEL,Jayce,Mary,Ralph,A,C,A,C,C,MARLA
-1298,TAWNYA,Bad Time,JOEL,Owen,Mary,Ralph,C,C,A,C,C,Milton
-1299,SHELBY,With A Little Help From My Friends,JOEL,Ayden,Mary,Ralph,C,C,A,C,C,SARAH
-1300,Clifton,Last Kiss,JOEL,Jorden,Mary,Ralph,A,C,B,C,C,Isiah
-1301,VERNETTA,Blinded By the Light,JOEL,Micheal,Mary,Ralph,B,C,A,C,C,HAYLEY
-1302,DOROTHY,Baby Hold On,MARVA,Fidel,Barb,Ralph,A,B,B,B,B,CHARA
-1303,Corbin,Harvester Of Sorrow,MARVA,Orlando,Barb,Ralph,B,B,A,B,B,Keegan
-1304,Ezra,Something About You,MARVA,Forrest,Barb,Ralph,C,B,C,B,B,RACHAEL
-1305,Bryan,My Demons,MARVA,Shane,Barb,Ralph,C,B,B,B,B,Lewis
-1306,Blaine,Hoedown,MARVA,Elmer,Barb,Ralph,A,B,C,B,B,Terry
-1307,German,Come As You Are,MARVA,Keyon,Barb,Ralph,A,B,C,B,B,LEA
-1308,Jonah,In the Summertime,MARVA,Evan,Barb,Ralph,A,B,B,B,B,Mathew
-1309,KAYLENE,No Time,MARVA,Carson,Barb,Ralph,C,B,C,B,B,KARAN
-1310,Kirk,World Turning,MARVA,Cruz,Barb,Ralph,C,B,B,B,B,Lamar
-1311,MIA,Mrs. Robinson,MARVA,Brodie,Barb,Ralph,C,B,B,B,B,MERI
-1312,Corey,Ten Years Gone,MARVA,Gunnar,Barb,Ralph,B,B,C,B,B,WANDA
-1313,Donte,Rain On The Scarecrow,MARVA,Ronaldo,Barb,Ralph,C,B,A,B,B,Kelvin
-1314,LOREAN,Long Train Runnin',MARVA,Ignacio,Barb,Ralph,C,B,C,B,B,Mario
-1315,Kavon,Bell Bottom Blues,MARVA,Ignacio,Barb,Ralph,A,B,C,B,B,TANGELA
-1316,Jamie,I Saw the Light,MARVA,Ignacio,Barb,Ralph,A,B,C,B,B,Daryl
-1317,Destin,Woodstock,MARVA,Jorden,Barb,Ralph,B,B,B,B,B,CEOLA
-1318,Jayson,No More No More,CHARLIE,Fidel,Mary,Ralph,B,B,B,B,B,VINNIE
-1319,Kamron,Badlands,CHARLIE,Orlando,Mary,Ralph,C,B,A,B,B,MAFALDA
-1320,SHEMEKA,Fool In the Rain,CHARLIE,Camden,Mary,Ralph,B,B,A,B,B,CATRINA
-1321,Marcel,Starrider,CHARLIE,Zane,Mary,Ralph,C,B,A,B,B,Fernando
-1322,MARIBETH,Bullfrog Blues,CHARLIE,Agustin,Mary,Ralph,C,B,C,B,B,Christian
-1323,Clark,#9 Dream,CHARLIE,Shane,Mary,Ralph,B,B,B,B,B,Sincere
-1324,Khalil,Orange Crush,CHARLIE,Shane,Mary,Ralph,C,B,B,B,B,JONE
-1325,Kenneth,Jump into the Fire,CHARLIE,Deandre,Mary,Ralph,B,B,B,B,B,Reynaldo
-1326,DAKOTA,"Baby, Please Don't Go",CHARLIE,Draven,Mary,Ralph,C,B,A,B,B,JADA
-1327,Marquise,Eyes Without a Face,CHARLIE,Elmer,Mary,Ralph,C,B,C,B,B,Shannon
-1328,EMOGENE,Listen To What The Man Says,CHARLIE,Keaton,Mary,Ralph,B,B,A,B,B,ODETTE
-1329,MARISHA,Summertime Blues,CHARLIE,Orion,Mary,Ralph,C,B,C,B,B,Javion
-1330,DORTHY,Down To The Waterline,CHARLIE,Shea,Mary,Ralph,B,B,C,B,B,TAMEIKA
-1331,Nestor,Magic Bus,CHARLIE,Shea,Mary,Ralph,C,B,C,B,B,Nicholas
-1332,Karson,Rocky Mountain Way,CHARLIE,Carson,Mary,Ralph,A,B,C,B,B,Larry
-1333,JEWEL,The Warrior,CHARLIE,Seth,Mary,Ralph,B,B,C,B,B,Abram
-1334,Alex,The Core,CHARLIE,Ronaldo,Mary,Ralph,C,B,A,B,B,Lorenzo
-1335,CARLINE,Early 1970 [*],CHARLIE,Shea,Mary,Ralph,C,B,C,B,B,TERRILYN
-1336,TINISHA,Hot Rockin',CHARLIE,Ignacio,Mary,Ralph,C,B,C,B,B,CURTIS
-1337,DOTTIE,(I Just) Died in Your Arms,CHARLIE,Owen,Mary,Ralph,B,B,A,B,B,Kenneth
-1338,ANNETTA,Twice As Hard,CHARLIE,Tyrese,Mary,Ralph,A,B,B,B,B,LORIA
-1339,MACKENZIE,Must of Got Lost,CHARLIE,Micheal,Mary,Ralph,B,B,A,B,B,Randy
-1340,Bryson,Feel Like Makin' Love,CHARLIE,Micheal,Mary,Ralph,B,B,A,B,B,SUK
-1341,Larry,LITTLE CHILD,CHARLIE,Ryder,Mary,Ralph,A,B,C,B,B,Nasir
-1342,Lawson,Don't Do Me Like That,URSULA,Chaz,Barb,Ralph,C,C,A,C,C,ASHLYN
-1343,HONG,Young Americans,URSULA,Zane,Barb,Ralph,B,C,A,C,C,Trevion
-1344,Braxton,Hair Of The Dog,URSULA,Agustin,Barb,Ralph,A,C,C,C,C,Tariq
-1345,WHITNEY,When It's Love,URSULA,Shane,Barb,Ralph,C,C,B,C,C,DELILA
-1346,Beau,Blondes In Black Cars,URSULA,Elmer,Barb,Ralph,A,C,C,C,C,Jorden
-1347,CARMEN,Eye of the Tiger,URSULA,Keyon,Barb,Ralph,A,C,C,C,C,ROXANNE
-1348,ISABEL,Are You Experienced?,URSULA,Shea,Barb,Ralph,A,C,C,C,C,DELILA
-1349,Javonte,Black Velvet,URSULA,Shea,Barb,Ralph,A,C,C,C,C,Miguel
-1350,Heriberto,Bebe le Strange,URSULA,Shea,Barb,Ralph,A,C,C,C,C,LEKISHA
-1351,MEG,YOU GOT THE SILVER,URSULA,Seth,Barb,Ralph,B,C,C,C,C,JOLYNN
-1352,Ulises,Tired Of Toein' The Line,URSULA,Gunnar,Barb,Ralph,A,C,C,C,C,Jamel
-1353,Ulises,Ain't Even Done With the Night,URSULA,Maxwell,Barb,Ralph,C,C,B,C,C,Trevor
-1354,Asa,The Great Gig In the Sky,URSULA,Maxwell,Barb,Ralph,C,C,B,C,C,GEMMA
-1355,Timothy,Why Can't This Be Love,URSULA,Ronaldo,Barb,Ralph,C,C,C,C,C,MILLICENT
-1356,Alexis,Saturday Night's Alright for Fighting,URSULA,Ayden,Barb,Ralph,C,C,A,C,C,CANDIE
-1357,ESTRELLA,GOT MY MIND SET ON YOU,URSULA,Jorden,Barb,Ralph,C,C,B,C,C,Jonah
-1358,Zechariah,Come Together,URSULA,Micheal,Barb,Ralph,B,C,A,C,C,Lamar
-1359,BERNETTA,"Lovin', Touchin' Squeezin'",WINDY,Chaz,Mary,Ralph,C,B,A,B,B,LAKENYA
-1360,SAMARA,Melissa,WINDY,Keon,Mary,Ralph,B,B,C,B,B,DAKOTA
-1361,Graham,TALKING IN YOUR SLEEP,WINDY,Agustin,Mary,Ralph,A,B,C,B,B,TAI
-1362,GEORGETTA,I'm a Man,WINDY,Draven,Mary,Ralph,A,B,A,B,B,ROSIE
-1363,DEBERA,Big Log,WINDY,Fred,Mary,Ralph,B,B,B,B,B,Fernando
-1364,SHAN,Dancing In the Dark,WINDY,Jaren,Mary,Ralph,C,B,C,B,B,Oscar
-1365,Trenton,That Smell,WINDY,Mike,Mary,Ralph,C,B,B,B,B,Ari
-1366,RIVA,The World I Know,WINDY,Camren,Mary,Ralph,A,B,C,B,B,SHARILYN
-1367,Ahmad,Street Of Dreams,WINDY,Reynaldo,Mary,Ralph,B,B,B,B,B,CARMELA
-1368,Nasir,Fat Bottomed Girls,WINDY,Ronaldo,Mary,Ralph,C,B,A,B,B,Eli
-1369,ZULMA,Girls Got Rhythm,WINDY,Shea,Mary,Ralph,C,B,C,B,B,SHENIKA
-1370,CARMELA,Eye of the Tiger,WINDY,Shea,Mary,Ralph,A,B,C,B,B,BRIGID
-1371,Jovani,867-5309 / Jenny,WINDY,Daquan,Mary,Ralph,A,B,C,B,B,DEONNA
-1372,CURTIS,Right Place Wrong Time,WINDY,Brandyn,Mary,Ralph,B,B,C,B,B,Christian
-1373,Guy,50 Ways to Leave Your Lover,WINDY,Brandyn,Mary,Ralph,B,B,C,B,B,TANGELA
-1374,River,Found Out About You,WINDY,Gustavo,Mary,Ralph,A,B,B,B,B,Cedric
-1375,LYDIA,Bad Case Of Lovin' You,WINDY,Tyrese,Mary,Ralph,A,B,B,B,B,Kamren
-1376,YOLANDA,This Is The Time,WINDY,Tyrese,Mary,Ralph,C,B,B,B,B,RIKKI
-1377,ELOIS,The Dogs Of War,WINDY,Jorden,Mary,Ralph,C,B,B,B,B,CASSEY
-1378,Kory,I Still Haven't Found What I'm Looking For,WINDY,Jorden,Mary,Ralph,C,B,B,B,B,Duncan
-1379,ARCELIA,Reprise / Day in the Life,WINDY,Rohan,Mary,Ralph,B,B,C,B,B,Larry
-1380,LEEANNE,Can't You See,WINDY,Micheal,Mary,Ralph,B,B,A,B,B,LENA
-1381,Marc,Evil Woman,WINDY,Ryder,Mary,Ralph,C,B,C,B,B,Randy
-1382,Drake,Test For Echo,ANGELE,Chaz,Mary,Ralph,B,A,A,A,A,Jaylan
-1383,GEORGE,Riders On The Storm,ANGELE,Blaze,Mary,Ralph,C,A,B,A,A,RETA
-1384,Cameron,Just the Same Way,ANGELE,Forrest,Mary,Ralph,B,A,C,A,A,DARCEY
-1385,Matteo,Caught Up in You,ANGELE,Keon,Mary,Ralph,B,A,C,A,A,SHANTA
-1386,CAYLA,Teacher,ANGELE,Agustin,Mary,Ralph,C,A,C,A,A,Marcel
-1387,Eliseo,Closer To Home (I'm Your Captain),ANGELE,Keyon,Mary,Ralph,A,A,C,A,A,ANNIS
-1388,GERTRUDIS,Lady Madonna,ANGELE,Santos,Mary,Ralph,C,A,B,A,A,JACQUELYNN
-1389,Ernest,Talk Dirty To Me,ANGELE,Evan,Mary,Ralph,C,A,B,A,A,Chance
-1390,RANDY,Sex Type Thing,ANGELE,Orion,Mary,Ralph,B,A,C,A,A,DOROTHA
-1391,Deshawn,Break On Through,ANGELE,Orion,Mary,Ralph,C,A,C,A,A,CLARENCE
-1392,ETHEL,Don't Look Back,ANGELE,Shea,Mary,Ralph,A,A,C,A,A,Hector
-1393,TAMEIKA,Amanda,ANGELE,Landon,Mary,Ralph,C,A,A,A,A,Chase
-1394,JENIFFER,Never Been Any Reason,ANGELE,Brodie,Mary,Ralph,C,A,B,A,A,Cedric
-1395,Eli,If I Say,ANGELE,Reynaldo,Mary,Ralph,C,A,B,A,A,ETHYL
-1396,Gordon,Had a Dream (Sleeping With the Enemy),ANGELE,Reynaldo,Mary,Ralph,C,A,B,A,A,TANA
-1397,Ronnie,5:15,ANGELE,Reynaldo,Mary,Ralph,C,A,B,A,A,Preston
-1398,TREVA,Tusk,ANGELE,Salvatore,Mary,Ralph,A,A,B,A,A,MEDA
-1399,LAKENYA,Everybody Wants to Rule the World,ANGELE,Gunnar,Mary,Ralph,B,A,C,A,A,DELFINA
-1400,ROSALBA,Entre Nous,ANGELE,Gunnar,Mary,Ralph,A,A,C,A,A,Alvin
-1401,Shannon,Escape,ANGELE,Ronaldo,Mary,Ralph,A,A,A,A,A,ALEXANDRA
-1402,Oscar,Pink Cadillac,ANGELE,Shea,Mary,Ralph,C,A,C,A,A,Jordon
-1403,SARAH,Jane,ANGELE,Daquan,Mary,Ralph,C,A,C,A,A,CARLOTTA
-1404,TAI,Jungle Love,ANGELE,Tariq,Mary,Ralph,C,A,B,A,A,Larry
-1405,TERRILYN,Suzie Q,ANGELE,Tariq,Mary,Ralph,A,A,B,A,A,TRISTA
-1406,Peter,Gold Dust Woman,ANGELE,Owen,Mary,Ralph,B,A,A,A,A,Nathan
-1407,KRISTI,Wonderous Stories,ANGELE,Ryder,Mary,Ralph,C,A,C,A,A,ELISSA
-1408,WANETA,OH DARLING,PALMIRA,Blaze,Mary,Ralph,B,B,B,B,B,Byron
-1409,Shannon,The Story In Your Eyes,PALMIRA,Camden,Mary,Ralph,A,B,A,B,B,Ari
-1410,TAI,Bron-y-aur Stomp,PALMIRA,Keon,Mary,Ralph,A,B,C,B,B,MIGUELINA
-1411,Antwan,Key To The Rhyme,PALMIRA,Elmer,Mary,Ralph,C,B,C,B,B,Emerson
-1412,TAMESHA,TIME IN A BOTTLE,PALMIRA,Keaton,Mary,Ralph,A,B,A,B,B,VERNETTA
-1413,FLORIDA,My Demons,PALMIRA,Terrance,Mary,Ralph,A,B,B,B,B,CAYLA
-1414,VENNIE,Thorn In My Pride,PALMIRA,Pierce,Mary,Ralph,B,B,B,B,B,Nestor
-1415,Royce,Whammer Jammer,PALMIRA,Pierce,Mary,Ralph,A,B,B,B,B,Mitchel
-1416,Braxton,Inside Out,PALMIRA,Pierce,Mary,Ralph,C,B,B,B,B,Rhett
-1417,Holden,Bad Case Of Lovin' You,PALMIRA,Pierce,Mary,Ralph,B,B,B,B,B,Ronnie
-1418,SCARLET,Party,PALMIRA,Orion,Mary,Ralph,C,B,C,B,B,CARMINA
-1419,Jadon,Wasted Years,PALMIRA,Cruz,Mary,Ralph,C,B,B,B,B,SHANITA
-1420,TAMRA,Bang a Gong (Get It On),PALMIRA,Landon,Mary,Ralph,B,B,A,B,B,Oscar
-1421,Austyn,Stealin',PALMIRA,Mike,Mary,Ralph,C,B,B,B,B,RIVA
-1422,Korbin,Them Bones,PALMIRA,Griffin,Mary,Ralph,A,B,B,B,B,RETA
-1423,Jimmy,Mystery Achievement,PALMIRA,Griffin,Mary,Ralph,B,B,B,B,B,Guy
-1424,Dominik,That Was Yesterday,PALMIRA,Maxwell,Mary,Ralph,A,B,B,B,B,JOHANA
-1425,CLARENCE,Reelin' in the Years,PALMIRA,Ronaldo,Mary,Ralph,C,B,C,B,B,Trevion
-1426,ALVA,Everybody Wants Some!!,PALMIRA,Ronaldo,Mary,Ralph,B,B,C,B,B,RIVA
-1427,SHELLIE,Heavy Metal,PALMIRA,Shea,Mary,Ralph,B,B,C,B,B,GREGORY
-1428,TEMIKA,Goodnight Saigon,PALMIRA,Jayce,Mary,Ralph,A,B,A,B,B,Peter
-1429,Tristan,Purple Haze,PALMIRA,Jayce,Mary,Ralph,A,B,A,B,B,LETTY
-1430,Jordan,The Fire Down Below,PALMIRA,Owen,Mary,Ralph,C,B,A,B,B,TAI
-1431,HYON,Gone Gone Gone,PALMIRA,Kamren,Mary,Ralph,B,B,A,B,B,Guadalupe
-1432,Jeff,Break On Through,PALMIRA,Kamren,Mary,Ralph,C,B,A,B,B,DOLLY
-1433,SHANON,Deacon Blues,DOROTHA,Blaze,Barb,Ralph,C,A,B,A,A,GRAZYNA
-1434,Deangelo,She's So Cold,DOROTHA,Blaze,Barb,Ralph,B,A,B,A,A,KETURAH
-1435,WINNIE,The Crunge,DOROTHA,Daryl,Barb,Ralph,C,A,B,A,A,Connor
-1436,KIERA,Heartbreaker/Living Loving Maid (She's Just A Woman),DOROTHA,Daryl,Barb,Ralph,C,A,B,A,A,GEMMA
-1437,Destin,Stairway to Heaven,DOROTHA,Agustin,Barb,Ralph,C,A,C,A,A,DEEANNA
-1438,Fredrick,More Than Words,DOROTHA,Bradly,Barb,Ralph,B,A,B,A,A,Sheldon
-1439,Emiliano,She's a Beauty,DOROTHA,Elmer,Barb,Ralph,A,A,C,A,A,Terrence
-1440,FANNY,Smokin',DOROTHA,Fred,Barb,Ralph,B,A,B,A,A,Micah
-1441,Ernest,Hunger Strike,DOROTHA,Fred,Barb,Ralph,C,A,B,A,A,Gage
-1442,RAYMONDE,The Fool On The Hill,DOROTHA,Carson,Barb,Ralph,A,A,C,A,A,CARMEN
-1443,MARYANNE,Blackbird,DOROTHA,Quentin,Barb,Ralph,C,A,C,A,A,Roderick
-1444,YOKO,Invisible Sun,DOROTHA,Griffin,Barb,Ralph,A,A,B,A,A,NICHOLE
-1445,FRIEDA,Everybody Knows This Is Nowhere,DOROTHA,Daquan,Barb,Ralph,C,A,C,A,A,LATRISHA
-1446,ERIKA,Love Alive,DOROTHA,Tariq,Barb,Ralph,A,A,B,A,A,MELODEE
-1447,Landen,She's a Rainbow,DOROTHA,Gustavo,Barb,Ralph,B,A,B,A,A,ELLEN
-1448,Khalil,Badge,DOROTHA,Gustavo,Barb,Ralph,B,A,B,A,A,Mohamed
-1449,RACHELLE,In the City,DOROTHA,Rohan,Barb,Ralph,A,A,C,A,A,German
-1450,Trevion,Friday on My Mind,DOROTHA,Ryder,Barb,Ralph,B,A,C,A,A,MEAGAN
-1451,Johnathon,Hey Jude (Live),ALEXA,Orlando,Pat,Ralph,C,A,A,A,A,ELFRIEDE
-1452,FELICIA,Finish What Ya Started,ALEXA,Forrest,Pat,Ralph,C,A,C,A,A,CELINDA
-1453,SHU,Born To Run,ALEXA,Agustin,Pat,Ralph,A,A,C,A,A,Jeremy
-1454,Christopher,Welcome to the Jungle,ALEXA,Elmer,Pat,Ralph,B,A,C,A,A,Timothy
-1455,Marco,Don't Tell Me You Love Me,ALEXA,Terrance,Pat,Ralph,C,A,B,A,A,Jayden
-1456,JENNINE,Touch of Grey,ALEXA,Cruz,Pat,Ralph,C,A,B,A,A,Kolton
-1457,Colt,You Got Lucky,ALEXA,Camren,Pat,Ralph,C,A,C,A,A,Alex
-1458,Esteban,Holiday (Live),ALEXA,Maxwell,Pat,Ralph,C,A,B,A,A,ELISE
-1459,ZONA,Enter Sandman,ALEXA,Ronaldo,Pat,Ralph,A,A,C,A,A,ELISA
-1460,GEMMA,Wherever I May Roam,ALEXA,Alberto,Pat,Ralph,C,A,A,A,A,Courtney
-1461,Luca,MLK/Pride,ALEXA,Alberto,Pat,Ralph,C,A,A,A,A,JUANA
-1462,TREASA,AIN'T NO SUNSHINE,ALEXA,Ronaldo,Pat,Ralph,B,A,A,A,A,VIRGEN
-1463,Gregory,Take It Back,ALEXA,Shea,Pat,Ralph,C,A,C,A,A,EMERITA
-1464,GAYNELL,Loves Me Like a Rock,ALEXA,Daquan,Pat,Ralph,A,A,C,A,A,LAVONNE
-1465,Estevan,Addicted to Love,ALEXA,Daquan,Pat,Ralph,C,A,C,A,A,Jarod
-1466,NIDA,Stir It Up,ALEXA,Lawson,Pat,Ralph,A,A,A,A,A,ELFRIEDE
-1467,Dayton,Neon Knights,ALEXA,Issac,Pat,Ralph,A,A,A,A,A,Dayton
-1468,Treyvon,The Break Up Song,ALEXA,Brandyn,Pat,Ralph,C,A,C,A,A,Blake
-1469,Leonardo,Hot Blooded,ALEXA,Jayce,Pat,Ralph,A,A,A,A,A,Kolton
-1470,Marshall,Uneasy Rider,CHER,Orlando,Barb,Ralph,C,B,A,B,B,MEAGAN
-1471,Jaeden,Far Behind,CHER,Camden,Barb,Ralph,B,B,A,B,B,Jonah
-1472,ELOISE,Let Me Take You Home Tonight,CHER,Draven,Barb,Ralph,A,B,A,B,B,Felix
-1473,Gerardo,Get Off Of My Cloud,CHER,Bradly,Barb,Ralph,A,B,B,B,B,GINA
-1474,KARAN,Tonight's the Night (Gonna Be Alright),CHER,Seth,Barb,Ralph,B,B,C,B,B,Timothy
-1475,Hunter,While My Guitar Gently Weeps,CHER,Ignacio,Barb,Ralph,C,B,C,B,B,MALLIE
-1476,Seamus,Little Dreamer,CHER,Jorden,Barb,Ralph,C,B,B,B,B,Marcel
-1477,LATRISHA,This Beat Goes on/Switching to Glide,CHER,Micheal,Barb,Ralph,A,B,A,B,B,Zachery
-1478,Brendan,Born to Be Wild,ANNABELLE,Orlando,Barb,Ralph,C,C,A,C,C,Alexis
-1479,Braden,Crossfire,ANNABELLE,Camden,Barb,Ralph,B,C,A,C,C,CUC
-1480,Dayton,About a Girl,ANNABELLE,Donavan,Barb,Ralph,A,C,B,C,C,SAMANTHA
-1481,ESTELL,Don't Look Back,ANNABELLE,Keyon,Barb,Ralph,B,C,C,C,C,Elias
-1482,DELILA,All the Young Dudes,ANNABELLE,Fred,Barb,Ralph,B,C,B,C,C,Jorden
-1483,Neil,Waiting for a Girl Like You,ANNABELLE,Pierce,Barb,Ralph,A,C,B,C,C,NORMAN
-1484,WESLEY,With a Little Help From My Friends,ANNABELLE,Salvatore,Barb,Ralph,A,C,B,C,C,CHARA
-1485,CLARETTA,Beth,ANNABELLE,Alberto,Barb,Ralph,A,C,A,C,C,DEBORAH
-1486,Hugo,Ain't That a Shame,ANNABELLE,Jayce,Barb,Ralph,C,C,A,C,C,Wilson
-1487,Ali,Expresso Love,ANNABELLE,Gustavo,Barb,Ralph,C,C,B,C,C,Kelly
-1488,Wilson,Comedown,ANNABELLE,Ayden,Barb,Ralph,C,C,A,C,C,KENDRA
-1489,Maximus,Badlands,ONITA,Camden,Barb,Ralph,B,A,A,A,A,Daryl
-1490,TANGELA,AS FAR AS YOU CAN SEE (AS MU,ONITA,Bradly,Barb,Ralph,C,A,B,A,A,PIPER
-1491,Kameron,Tusk,ONITA,Elmer,Barb,Ralph,C,A,C,A,A,FELISHA
-1492,Colten,Just Got Paid,ONITA,Donavan,Barb,Ralph,A,A,B,A,A,Jamel
-1493,Khalil,Still Loving You,ONITA,Santos,Barb,Ralph,C,A,B,A,A,Nikolas
-1494,CAMILLA,Bye Bye Love,ONITA,Cruz,Barb,Ralph,C,A,B,A,A,Kavon
-1495,Jonah,Suzie Q,ONITA,Cruz,Barb,Ralph,A,A,B,A,A,Arturo
-1496,Logan,Presence of the Lord,ONITA,Camren,Barb,Ralph,C,A,C,A,A,BETH
-1497,CATHERINE,Burden in My Hand,ONITA,Quentin,Barb,Ralph,C,A,C,A,A,Tomas
-1498,LOURIE,Feeling That Way,ONITA,Griffin,Barb,Ralph,A,A,B,A,A,FRIEDA
-1499,LUCI,God Save The Queen,ONITA,Ronaldo,Barb,Ralph,A,A,C,A,A,Sheldon
-1500,Justus,Love Me Two Times,ONITA,Ronaldo,Barb,Ralph,A,A,C,A,A,ALLEEN
-1501,SAMANTHA,Love Hurts,ONITA,Daquan,Barb,Ralph,B,A,C,A,A,Miles
-1502,Don,Proud Mary,ONITA,Gustavo,Barb,Ralph,A,A,B,A,A,CLAUDE
-1503,MALLIE,Day Tripper,ONITA,Jorden,Barb,Ralph,B,A,B,A,A,JESSI
-1504,Glen,Jackie Wilson Said,ONITA,Rohan,Barb,Ralph,C,A,C,A,A,LASHAWN
+0,Johan,Gone Gone Gone,ILIANA,Derrick,Liz,Ralph,C,B,B,B,B,Steven
+1,Luca,Women,ILIANA,Bobby,Liz,Ralph,A,B,B,B,B,Jaylon
+2,MANDIE,Mistral Wind,ILIANA,Easton,Liz,Ralph,C,B,B,B,B,Bryce
+3,MILAGRO,Bell Bottom Blues,ILIANA,Billy,Liz,Ralph,B,B,B,B,B,DOMINIQUE
+4,TOBI,Still of the Night,ILIANA,Billy,Liz,Ralph,A,B,B,B,B,Jarred
+5,CATHERIN,My Own Worst Enemy,ILIANA,Billy,Liz,Ralph,B,B,B,B,B,MICHELE
+6,CELENA,Civil War,ILIANA,Billy,Liz,Ralph,B,B,B,B,B,Ari
+7,Zachariah,CAN'T GET IT OUT OF MY HEAD,ILIANA,Levi,Liz,Ralph,C,B,B,B,B,Guy
+8,Scott,Paint It Black,ILIANA,Bernard,Liz,Ralph,B,B,A,B,B,Jared
+9,Ali,Street Corner Serenade,ILIANA,Bernard,Liz,Ralph,A,B,A,B,B,SHIRLENE
+10,Trever,What If I Came Knocking,ILIANA,Eli,Liz,Ralph,A,B,A,B,B,MCKENZIE
+11,SHALANDA,Take On Me,ILIANA,Braydon,Liz,Ralph,C,B,A,B,B,Erick
+12,Elian,Almost Hear You Sigh,ILIANA,Braydon,Liz,Ralph,A,B,A,B,B,HILARIA
+13,KYRA,Epic,ILIANA,Jeremiah,Liz,Ralph,C,B,A,B,B,Bryce
+14,SHERY,Modern Love,ILIANA,Ethan,Liz,Ralph,A,B,B,B,B,BERNADETTE
+15,BRITANY,Leave It,ILIANA,Ethan,Liz,Ralph,C,B,B,B,B,Latrell
+16,Lukas,AS FAR AS YOU CAN SEE (AS MU,ILIANA,Ethan,Liz,Ralph,A,B,B,B,B,Jackie
+17,Tristen,UNDERCOVER OF THE NIGHT,ILIANA,Anderson,Liz,Ralph,A,B,C,B,B,Maxwell
+18,Ty,Mama Kin,ILIANA,Lincoln,Liz,Ralph,A,B,A,B,B,Lucas
+19,NICKY,Can't Buy Me Love,ILIANA,Tobias,Liz,Ralph,B,B,C,B,B,Jeremiah
+20,CAROLIN,Under My Wheels,ILIANA,Kameron,Liz,Ralph,B,B,A,B,B,Zachariah
+21,LUANNA,Sirens,ILIANA,Reid,Liz,Ralph,A,B,C,B,B,ARCELIA
+22,ETTA,I've Got A Feeling,ILIANA,Simeon,Liz,Ralph,B,B,B,B,B,ANTONINA
+23,DELIA,Juke Box Hero,ILIANA,Kamron,Liz,Ralph,C,B,A,B,B,MARION
+24,Jerome,Intruder/ Pretty Woman,ILIANA,Randy,Liz,Ralph,C,B,A,B,B,Jimmie
+25,BERNADETTE,Life's Been Good,ILIANA,Kellen,Liz,Ralph,A,B,A,B,B,SHALANDA
+26,Jackie,Thunder Road,ILIANA,Kellen,Liz,Ralph,A,B,A,B,B,Mario
+27,Kellen,Look What The Cat Dragged In,ILIANA,Heriberto,Liz,Ralph,B,B,A,B,B,Hunter
+28,Addison,You're In My Heart (The Final Acclaim),ILIANA,Heriberto,Liz,Ralph,C,B,A,B,B,ALVA
+29,Leo,Don't Stop Believin',PENELOPE,Derrick,Liz,Ralph,B,B,B,B,B,Duncan
+30,Tanner,The Heart of the Matter,PENELOPE,Derrick,Liz,Ralph,A,B,B,B,B,CAMMIE
+31,MICHAEL,You Can Call Me Al,PENELOPE,Bobby,Liz,Ralph,A,B,B,B,B,KEMBERLY
+32,CAMMIE,Sunshine of Your Love,PENELOPE,Billy,Liz,Ralph,C,B,B,B,B,Reed
+33,Erik,Cold Gin,PENELOPE,Billy,Liz,Ralph,B,B,B,B,B,ROSALYN
+34,CARMELINA,Dirty White Boy,PENELOPE,Bernard,Liz,Ralph,B,B,A,B,B,Irving
+35,Keyshawn,No Matter What,PENELOPE,Eli,Liz,Ralph,B,B,A,B,B,CATHEY
+36,Jabari,Hush,PENELOPE,Eli,Liz,Ralph,C,B,A,B,B,ANGELICA
+37,Cody,Arnold Layne,PENELOPE,Jeremiah,Liz,Ralph,B,B,A,B,B,GARNET
+38,LOUELLA,Live and Let Die,PENELOPE,Ethan,Liz,Ralph,B,B,B,B,B,Hudson
+39,Randall,A Fool for Your Stockings,PENELOPE,Tobias,Liz,Ralph,C,B,C,B,B,Billy
+40,Jared,Waiting for a Girl Like You,PENELOPE,Kameron,Liz,Ralph,B,B,A,B,B,Elias
+41,SHERIDAN,Lucy In The Sky With Diamonds,PENELOPE,Simeon,Liz,Ralph,A,B,B,B,B,Steven
+42,Dillon,Witchy Woman,PENELOPE,Simeon,Liz,Ralph,C,B,B,B,B,Kellen
+43,Todd,Never Going Back Again,PENELOPE,Randy,Liz,Ralph,A,B,A,B,B,ALVERTA
+44,ASHLEA,Tired of Waiting,PENELOPE,Kellen,Liz,Ralph,C,B,A,B,B,JENNI
+45,BLANCH,My Michelle,PENELOPE,Marques,Liz,Ralph,B,B,B,B,B,MAUDIE
+46,Rolando,Rock Steady,PENELOPE,Marques,Liz,Ralph,C,B,B,B,B,Chandler
+47,SHARICE,The Journey/It's Easy,PENELOPE,Howard,Liz,Ralph,B,B,B,B,B,Stephen
+48,Mario,Who Do You Love,PENELOPE,Warren,Liz,Ralph,A,B,A,B,B,Ty
+49,PARTICIA,Feeling That Way,PENELOPE,Vincenzo,Liz,Ralph,B,B,A,B,B,GARNET
+50,Jimmie,Can't Find My Way Home,PENELOPE,Roy,Liz,Ralph,B,B,A,B,B,CAMMIE
+51,GARNET,Dumb,PENELOPE,Rogelio,Liz,Ralph,B,B,B,B,B,Devon
+52,JENISE,Gone,PENELOPE,Douglas,Liz,Ralph,C,B,B,B,B,Stephan
+53,Jace,Heartbreaker,PENELOPE,Douglas,Liz,Ralph,C,B,B,B,B,IMELDA
+54,GLORIA,Another One Bites the Dust,KANISHA,Derrick,Liz,Ralph,B,B,B,B,B,LEANNE
+55,KATHYRN,Funk #49,KANISHA,Eli,Liz,Ralph,A,B,A,B,B,LINNEA
+56,KAZUKO,Dance the Night Away,KANISHA,Braydon,Liz,Ralph,A,B,A,B,B,Zaire
+57,QUYEN,Blurry,KANISHA,Ethan,Liz,Ralph,C,B,B,B,B,Darryl
+58,Bret,Machinehead,KANISHA,Anderson,Liz,Ralph,A,B,C,B,B,DELIA
+59,Erick,YOU GOTTA MOVE,KANISHA,Tobias,Liz,Ralph,C,B,C,B,B,MIRIAN
+60,REFUGIO,Hold The Line,KANISHA,Kameron,Liz,Ralph,C,B,A,B,B,DEVORAH
+61,Nikhil,Lay Down Sally,KANISHA,Kameron,Liz,Ralph,B,B,A,B,B,BLANCH
+62,Alfred,Love Bites,KANISHA,Reid,Liz,Ralph,C,B,C,B,B,SHONA
+63,JENNI,Crazy Little Thing Called Love,KANISHA,Heriberto,Liz,Ralph,A,B,A,B,B,JOYCE
+64,Ross,You're Going To Lose That Girl,KANISHA,Howard,Liz,Ralph,A,B,B,B,B,Isidro
+65,Dylan,Sgt. Pepper's Lonely Hearts Club Band,KANISHA,Vincenzo,Liz,Ralph,C,B,A,B,B,Brad
+66,JENI,Eye of the Tiger,KANISHA,Douglas,Liz,Ralph,B,B,B,B,B,Donavon
+67,KARENA,Jump,KANISHA,Dashawn,Liz,Ralph,A,B,A,B,B,Lucas
+68,Latrell,Night Time,KANISHA,Dashawn,Liz,Ralph,A,B,A,B,B,Jared
+69,Jaylen,Cigarette,KANISHA,Samir,Liz,Ralph,B,B,A,B,B,KAMI
+70,Nikhil,Boogie With Stu,KANISHA,Samir,Liz,Ralph,C,B,A,B,B,JOSHUA
+71,Irving,New Kid In Town,KANISHA,Deonte,Liz,Ralph,B,B,A,B,B,Tylor
+72,Ricardo,Hot Blooded,KANISHA,Nigel,Liz,Ralph,C,B,B,B,B,Dexter
+73,DAGMAR,Looking For A Love,KANISHA,Tristin,Liz,Ralph,C,B,B,B,B,Allan
+74,JANEAN,Losing My Religion,KANISHA,Ralph,Liz,Ralph,B,B,C,B,B,KAITLIN
+75,Pablo,Move It On Over,KANISHA,Ralph,Liz,Ralph,B,B,C,B,B,MELLISSA
+76,Gerald,When I Come Around,KANISHA,Miguel,Liz,Ralph,A,B,B,B,B,QUYEN
+77,Hunter,Wicked Sensation,KANISHA,Gaige,Liz,Ralph,C,B,C,B,B,BRITANY
+78,Jaydon,Wild Night,JANETTE,Derrick,Liz,Ralph,A,B,B,B,B,Rolando
+79,Gordon,TIME IS ON MY SIDE,JANETTE,Easton,Liz,Ralph,B,B,B,B,B,HARRIETTE
+80,SOPHIE,Love Is Alive,JANETTE,Billy,Liz,Ralph,B,B,B,B,B,Cody
+81,Fredrick,Blaze of Glory,JANETTE,Billy,Liz,Ralph,A,B,B,B,B,Jabari
+82,Devon,I'm On Fire,JANETTE,Levi,Liz,Ralph,A,B,B,B,B,PAZ
+83,Omar,Babe I'm Gonna Leave You,JANETTE,Jeremiah,Liz,Ralph,C,B,A,B,B,ALYSSA
+84,MIRIAN,Rocky Mountain Way,JANETTE,Simeon,Liz,Ralph,C,B,B,B,B,CAROLIN
+85,BRIGETTE,Hi Hi Hi,JANETTE,Simeon,Liz,Ralph,A,B,B,B,B,Jeremiah
+86,Conor,The Long Run,JANETTE,Heriberto,Liz,Ralph,A,B,A,B,B,LOUELLA
+87,Brody,Who Can It Be Now?,JANETTE,Vincenzo,Liz,Ralph,C,B,A,B,B,Jamari
+88,ANTONIO,Don't Stop Believin',JANETTE,Roy,Liz,Ralph,B,B,A,B,B,Johan
+89,EFFIE,Had a Dream (Sleeping With the Enemy),JANETTE,Matthew,Liz,Ralph,A,B,A,B,B,Aidan
+90,JAYMIE,Lords of Summer (First Pass Version),JANETTE,Samir,Liz,Ralph,B,B,A,B,B,BETHEL
+91,Larry,Born To Run,JANETTE,Deonte,Liz,Ralph,C,B,A,B,B,Fredrick
+92,JUSTA,Stay with Me,JANETTE,Jaylin,Liz,Ralph,C,B,B,B,B,DAGMAR
+93,Pedro,Sunday Bloody Sunday,JANETTE,Miguel,Liz,Ralph,C,B,B,B,B,KERRY
+94,Nasir,Cowboy,JANETTE,Karson,Liz,Ralph,C,B,A,B,B,Darius
+95,Mason,Harmony,ETHYL,Derrick,Barb,Ralph,A,C,B,C,C,Harley
+96,SENAIDA,Test For Echo,ETHYL,Bobby,Barb,Ralph,B,C,B,C,C,CHRISTEN
+97,Kristopher,Metal Health,ETHYL,Billy,Barb,Ralph,A,C,B,C,C,KARISA
+98,Skylar,Happy Jack,ETHYL,Levi,Barb,Ralph,B,C,B,C,C,Jalen
+99,Orlando,The Long And Winding Road,ETHYL,Bernard,Barb,Ralph,A,C,A,C,C,KEENA
+100,MARLEEN,Under Pressure,ETHYL,Jeremiah,Barb,Ralph,A,C,A,C,C,Maximilian
+101,Johnathan,Born In the U.S.A.,ETHYL,Jeremiah,Barb,Ralph,C,C,A,C,C,Braeden
+102,Jerome,Train Kept A-Rollin',ETHYL,Anderson,Barb,Ralph,B,C,C,C,C,JIN
+103,Harley,Your Song,ETHYL,Kameron,Barb,Ralph,A,C,A,C,C,Harley
+104,Tevin,Evil Ways,ETHYL,Reid,Barb,Ralph,A,C,C,C,C,Jamarcus
+105,Vaughn,Ticket to Ride,ETHYL,Reid,Barb,Ralph,C,C,C,C,C,Harrison
+106,Isaias,Shout,ETHYL,Simeon,Barb,Ralph,B,C,B,C,C,TANA
+107,AMI,Horizontal Bop,ETHYL,Randy,Barb,Ralph,C,C,A,C,C,JACQUELIN
+108,Bradly,Bad Company,ETHYL,Randy,Barb,Ralph,A,C,A,C,C,HANH
+109,JANNIE,Roll Me Away,ETHYL,Marques,Barb,Ralph,A,C,B,C,C,SHIRELY
+110,LOUIS,Take Me to the Pilot,ETHYL,Rogelio,Barb,Ralph,C,C,B,C,C,LASANDRA
+111,Vicente,Across The Universe,ETHYL,Dashawn,Barb,Ralph,A,C,A,C,C,Rey
+112,Grant,Young Lust,ETHYL,Samir,Barb,Ralph,A,C,A,C,C,Kennedy
+113,BRITTANI,Born Too Late,ETHYL,Nigel,Barb,Ralph,C,C,B,C,C,JULEE
+114,TERRIE,PRETTY WOMAN,ETHYL,Landon,Barb,Ralph,A,C,A,C,C,Hector
+115,JIN,Hey Jude (Live),ETHYL,Javon,Barb,Ralph,C,C,A,C,C,Vicente
+116,Preston,Space Cowboy,ETHYL,Javon,Barb,Ralph,B,C,A,C,C,Braxton
+117,TAI,By the Way,ETHYL,Steven,Barb,Ralph,C,C,A,C,C,Riley
+118,German,Where the Streets Have No Name,ETHYL,Steven,Barb,Ralph,B,C,A,C,C,CHRISTEN
+119,Jaime,Tainted Love,ETHYL,Steven,Barb,Ralph,C,C,A,C,C,Angelo
+120,Jonathan,I Know I'm Losing You,ETHYL,Zachery,Barb,Ralph,C,C,C,C,C,German
+121,Tyree,American Pie,AKILAH,Derrick,Pat,Ralph,B,B,B,B,B,Gavin
+122,ROZELLA,Runnin' Down a Dream,AKILAH,Bobby,Pat,Ralph,B,B,B,B,B,SARA
+123,Gerard,Industrial Disease,AKILAH,Easton,Pat,Ralph,A,B,B,B,B,DEEDEE
+124,GENOVEVA,I Love Rock 'n Roll,AKILAH,Bernard,Pat,Ralph,C,B,A,B,B,nan
+125,Ladarius,Shakedown Street,AKILAH,Lincoln,Pat,Ralph,A,B,A,B,B,Jaxson
+126,MARIAH,Life's Been Good,AKILAH,Kamron,Pat,Ralph,A,B,A,B,B,FERNE
+127,MISTI,Havin' A Party,AKILAH,Marques,Pat,Ralph,C,B,B,B,B,Marvin
+128,MICHELINA,Chest Fever,AKILAH,Sawyer,Pat,Ralph,C,B,C,B,B,LYNN
+129,Sincere,Crazy Little Thing Called Love,AKILAH,Garrison,Pat,Ralph,B,B,B,B,B,CHASIDY
+130,Ronnie,Take On Me,AKILAH,Glenn,Pat,Ralph,A,B,C,B,B,Ibrahim
+131,LAVERA,Seven Bridges Road,AKILAH,Javon,Pat,Ralph,C,B,A,B,B,Deshaun
+132,NICHOLE,Carpet Crawlers,AKILAH,Miguel,Pat,Ralph,C,B,B,B,B,KRYSTLE
+133,nan,Sweet Jane (Live),AKILAH,Steven,Pat,Ralph,B,B,A,B,B,MARYBETH
+134,Isai,America,AKILAH,Steven,Pat,Ralph,A,B,A,B,B,Connor
+135,TOMOKO,Love Song,AKILAH,Tommy,Pat,Ralph,C,B,B,B,B,Jarrett
+136,Fidel,The Crystal Ship,AI,Derrick,Barb,Ralph,A,C,B,C,C,LULU
+137,JEANENE,Sgt. Pepper/with A Little Help From My Friends,AI,Easton,Barb,Ralph,A,C,B,C,C,Ralph
+138,Austin,Oye Como Va,AI,Billy,Barb,Ralph,A,C,B,C,C,IDELL
+139,HANH,Wayside,AI,Eli,Barb,Ralph,A,C,A,C,C,Orlando
+140,DEANDRA,Young Lust,AI,Jeremiah,Barb,Ralph,A,C,A,C,C,Sonny
+141,Craig,Cecilia,AI,Reid,Barb,Ralph,C,C,C,C,C,Keenan
+142,LIN,Hair Of The Dog,AI,Warren,Barb,Ralph,A,C,A,C,C,Braxton
+143,Dawson,Magic Power,AI,Warren,Barb,Ralph,C,C,A,C,C,KESHIA
+144,JODEE,Changes,AI,Vincenzo,Barb,Ralph,B,C,A,C,C,Preston
+145,SHERRY,Tarkio Road,AI,Roy,Barb,Ralph,B,C,A,C,C,TAI
+146,JACQUELIN,"Rock And Roll, Hoochie Koo",AI,Rogelio,Barb,Ralph,C,C,B,C,C,MARLEEN
+147,MAYBELL,Living In The Past,AI,Kane,Barb,Ralph,A,C,A,C,C,CALISTA
+148,Kobe,Ridin' the Storm Out,AI,Matthew,Barb,Ralph,C,C,A,C,C,Braxton
+149,RENAE,Something To Believe In,AI,Jaylin,Barb,Ralph,B,C,B,C,C,BRITTANIE
+150,TONIE,Night Time,AI,Jaylin,Barb,Ralph,C,C,B,C,C,MAYBELL
+151,LOLITA,P.s. I Love You,AI,Tristin,Barb,Ralph,B,C,B,C,C,ODETTE
+152,MYRA,I Want To Hold Your Hand,AI,Garrison,Barb,Ralph,B,C,B,C,C,Harrison
+153,ULRIKE,Handle with Care,AI,Glenn,Barb,Ralph,A,C,C,C,C,KEENA
+154,Corbin,Going Mobile,AI,Landon,Barb,Ralph,A,C,A,C,C,LAVADA
+155,Darian,Smokin' in the Boys Room,AI,Zachery,Barb,Ralph,C,C,C,C,C,Eli
+156,GITA,Fire Down Below,ALEXANDRA,Derrick,Mary,Ralph,A,A,B,A,A,Gaige
+157,Liam,Treetop Flyer,ALEXANDRA,Billy,Mary,Ralph,A,A,B,A,A,Omar
+158,Octavio,Gypsy Road,ALEXANDRA,Bernard,Mary,Ralph,C,A,A,A,A,BARBERA
+159,RETHA,30 Days In the Hole,ALEXANDRA,Eli,Mary,Ralph,A,A,A,A,A,Infant
+160,GEORGIANNE,Livin' Thing,ALEXANDRA,Ethan,Mary,Ralph,C,A,B,A,A,Brady
+161,Johnny,Love Is Like Oxygen,ALEXANDRA,Tobias,Mary,Ralph,C,A,C,A,A,RACHAL
+162,Tevin,Radioactive,ALEXANDRA,Simeon,Mary,Ralph,A,A,B,A,A,ROBBIN
+163,Alvaro,Big Time,ALEXANDRA,Simeon,Mary,Ralph,A,A,B,A,A,Brycen
+164,RACHAL,Someday (Single Mix),ALEXANDRA,Marques,Mary,Ralph,C,A,B,A,A,Nickolas
+165,DELORA,Can't You Hear Me Knocking,ALEXANDRA,Warren,Mary,Ralph,A,A,A,A,A,Ricky
+166,Irvin,Where the Streets Have No Name,ALEXANDRA,Rogelio,Mary,Ralph,B,A,B,A,A,FRANCES
+167,Dante,Carry On,ALEXANDRA,Rogelio,Mary,Ralph,A,A,B,A,A,KRISTAN
+168,Vaughn,The Stranger,ALEXANDRA,Muhammad,Mary,Ralph,C,A,B,A,A,Judah
+169,Gordon,Do You Know What I Mean,ALEXANDRA,Nigel,Mary,Ralph,C,A,B,A,A,Kareem
+170,CALLIE,I Can't Hold Back,ALEXANDRA,Glenn,Mary,Ralph,C,A,C,A,A,Kavon
+171,Demetrius,Time Waits for No One,ALEXANDRA,Glenn,Mary,Ralph,C,A,C,A,A,BRIDGET
+172,Tevin,I've Got a Rock 'N' Roll Heart,ALEXANDRA,Gaige,Mary,Ralph,B,A,C,A,A,Marc
+173,Cornelius,My City Was Gone,ALEXANDRA,Vincent,Mary,Ralph,B,A,B,A,A,HENRY
+174,Tyshawn,Screaming In The Night,ALEXANDRA,Steven,Mary,Ralph,A,A,A,A,A,Demarcus
+175,Jett,Going to California,ALAYNA,Derrick,Pat,Ralph,B,C,B,C,C,KELLE
+176,Augustus,Hurts So Good,ALAYNA,Levi,Pat,Ralph,A,C,B,C,C,Marlon
+177,Troy,In America,ALAYNA,Bernard,Pat,Ralph,C,C,A,C,C,MORA
+178,TYLER,Juke Box Hero,ALAYNA,Tobias,Pat,Ralph,B,C,C,C,C,DESIREE
+179,KARA,Elderly Woman Behind the Counter in a Small Town,ALAYNA,Tobias,Pat,Ralph,C,C,C,C,C,GRAYCE
+180,Keshawn,Breakfast in America,ALAYNA,Kameron,Pat,Ralph,A,C,A,C,C,THORA
+181,MARYBETH,Summer Nights,ALAYNA,Simeon,Pat,Ralph,A,C,B,C,C,KASSANDRA
+182,EDDA,"Always With Me, Always With You",ALAYNA,Kamron,Pat,Ralph,B,C,A,C,C,IDELLA
+183,Mike,Too Late for Love,ALAYNA,Kamron,Pat,Ralph,C,C,A,C,C,Lawson
+184,Ethan,Master of Puppets,ALAYNA,Randy,Pat,Ralph,B,C,A,C,C,KASSANDRA
+185,SIRENA,Livin' On the Fault Line,ALAYNA,Marques,Pat,Ralph,B,C,B,C,C,Jonathan
+186,IDELLA,Fly,ALAYNA,Howard,Pat,Ralph,C,C,B,C,C,MINERVA
+187,ECHO,Welcome to the Jungle,ALAYNA,Dashawn,Pat,Ralph,B,C,A,C,C,PROVIDENCIA
+188,Wade,Seventeen,ALAYNA,Muhammad,Pat,Ralph,B,C,B,C,C,Jayce
+189,MYRIAM,Loser,ALAYNA,Jaylin,Pat,Ralph,B,C,B,C,C,Deshaun
+190,CHASIDY,Something To Believe In,ALAYNA,Sawyer,Pat,Ralph,C,C,C,C,C,NEOMI
+191,DOMITILA,The One I Love,ALAYNA,Sawyer,Pat,Ralph,C,C,C,C,C,BRITTA
+192,Brice,Lonely Boy,ALAYNA,Sawyer,Pat,Ralph,A,C,C,C,C,KIMBERLEE
+193,Herbert,(You Gotta) Fight for Your Right (To Party),ALAYNA,Sawyer,Pat,Ralph,C,C,C,C,C,WANETA
+194,Malik,Rock You Like a Hurricane,ALAYNA,Glenn,Pat,Ralph,B,C,C,C,C,Dandre
+195,SOPHIA,Headed For A Heartbreak,ALAYNA,Miguel,Pat,Ralph,B,C,B,C,C,JACQUILINE
+196,SHARMAINE,On a Plain,ALAYNA,Vincent,Pat,Ralph,C,C,B,C,C,LAQUITA
+197,Nico,I Can't Stand It,ALAYNA,Zachery,Pat,Ralph,C,C,C,C,C,Emilio
+198,Malachi,Running On Empty,ALAYNA,Tommy,Pat,Ralph,B,C,B,C,C,Drake
+199,JEREMY,Industrial Disease,ROXANNA,Derrick,Mary,Ralph,A,B,B,B,B,Alden
+200,Guy,Carry On Wayward Son,ROXANNA,Derrick,Mary,Ralph,A,B,B,B,B,Eddie
+201,Maverick,Mrs. Robinson,ROXANNA,Derrick,Mary,Ralph,C,B,B,B,B,Kevin
+202,Shannon,I Remember You,ROXANNA,Bobby,Mary,Ralph,B,B,B,B,B,Walker
+203,BARBERA,By the Way,ROXANNA,Billy,Mary,Ralph,C,B,B,B,B,Rashad
+204,Kory,Back On The Chain Gang,ROXANNA,Billy,Mary,Ralph,B,B,B,B,B,SHARITA
+205,ANNETTE,Spirit In The Night,ROXANNA,Bernard,Mary,Ralph,A,B,A,B,B,Walker
+206,Clay,I Still Haven't Found What I'm Looking For,ROXANNA,Bernard,Mary,Ralph,A,B,A,B,B,EUSEBIA
+207,MINNA,Desperado,ROXANNA,Eli,Mary,Ralph,B,B,A,B,B,Jamie
+208,Jaiden,Blurry,ROXANNA,Anderson,Mary,Ralph,B,B,C,B,B,YOLANDO
+209,LUCRETIA,I Alone,ROXANNA,Lincoln,Mary,Ralph,C,B,A,B,B,JANETTE
+210,Neal,Bridge of Sighs,ROXANNA,Kameron,Mary,Ralph,A,B,A,B,B,SANORA
+211,Jean,Sledgehammer,ROXANNA,Reid,Mary,Ralph,B,B,C,B,B,MARIKO
+212,Eliseo,Getting Better,ROXANNA,Marques,Mary,Ralph,C,B,B,B,B,STORMY
+213,Anton,Tube Snake Boogie,ROXANNA,Roy,Mary,Ralph,C,B,A,B,B,Demetrius
+214,Brycen,Hang Fire,ROXANNA,Rogelio,Mary,Ralph,B,B,B,B,B,Dillon
+215,Cody,To Hell With the Devil,ROXANNA,Dashawn,Mary,Ralph,B,B,A,B,B,Brady
+216,Dylan,Slow Ride,ROXANNA,Kane,Mary,Ralph,C,B,A,B,B,LADAWN
+217,SALINA,Breakdown,ROXANNA,Draven,Mary,Ralph,A,B,A,B,B,Miles
+218,Conner,Jet City Woman,ROXANNA,Deonte,Mary,Ralph,B,B,A,B,B,Milton
+219,SANA,Sweetest Thing,ROXANNA,Miguel,Mary,Ralph,A,B,B,B,B,Peter
+220,YER,Ticket to Ride,ROXANNA,Vincent,Mary,Ralph,C,B,B,B,B,Dillon
+221,NICOLA,NOWHERE MAN,ROXANNA,Vincent,Mary,Ralph,C,B,B,B,B,INGER
+222,Khalid,New York State Of Mind,ROXANNA,Karson,Mary,Ralph,B,B,A,B,B,Skylar
+223,Nicolas,Over the Hills and Far Away,ROXANNA,Tommy,Mary,Ralph,C,B,B,B,B,Korbin
+224,PRECIOUS,No Time,LOLITA,Derrick,Pat,Ralph,B,C,B,C,C,Marcus
+225,Darrell,"De Do Do Do, De Da Da Da",LOLITA,Billy,Pat,Ralph,A,C,B,C,C,Carson
+226,SHAUNDA,Games People Play,LOLITA,Bernard,Pat,Ralph,A,C,A,C,C,Ricky
+227,Deshaun,Little Queenie,LOLITA,Braydon,Pat,Ralph,A,C,A,C,C,Mario
+228,LAMONICA,Hell in a Bucket,LOLITA,Ethan,Pat,Ralph,A,C,B,C,C,Nikolas
+229,Terrence,I Melt With You,LOLITA,Lincoln,Pat,Ralph,B,C,A,C,C,Xander
+230,MARYANNE,I Can't Quit You Baby,LOLITA,Reid,Pat,Ralph,A,C,C,C,C,CAROLA
+231,LAKENDRA,Venus and Mars/Rock Show,LOLITA,Reid,Pat,Ralph,B,C,C,C,C,Brant
+232,Samir,Intruder/ Pretty Woman,LOLITA,Reid,Pat,Ralph,B,C,C,C,C,Kody
+233,Henry,YOUR MOTHER SHOULD KNOW,LOLITA,Kellen,Pat,Ralph,C,C,A,C,C,RICKIE
+234,WANETA,Can't Stand Losing You,LOLITA,Howard,Pat,Ralph,B,C,B,C,C,Augustus
+235,Blaze,Home by the Sea/Second Home by the Sea,LOLITA,Matthew,Pat,Ralph,A,C,A,C,C,EDDA
+236,Cody,The Wanton Song,LOLITA,Alfonso,Pat,Ralph,A,C,B,C,C,LYN
+237,MICHAELE,In the Air Tonight,LOLITA,Jaylin,Pat,Ralph,B,C,B,C,C,SHANIKA
+238,Johnnie,Leather and Lace,LOLITA,Sawyer,Pat,Ralph,A,C,C,C,C,SHELLY
+239,LOUIE,ALL YOU ZOMBIES,LOLITA,Tristin,Pat,Ralph,B,C,B,C,C,Troy
+240,CARI,LITTLE CHILD,LOLITA,Allan,Pat,Ralph,C,C,C,C,C,Nigel
+241,Quintin,Something's Happening/,LOLITA,Allan,Pat,Ralph,C,C,C,C,C,Mitchell
+242,RISA,Hello Goodbye,GRETCHEN,Derrick,Pat,Ralph,C,B,B,B,B,STEPHAINE
+243,Nickolas,Close My Eyes Forever,GRETCHEN,Derrick,Pat,Ralph,B,B,B,B,B,Jaxson
+244,BLANCH,"Another Park, Another Sunday",GRETCHEN,Eli,Pat,Ralph,A,B,A,B,B,FERNE
+245,Jesse,Fuel,GRETCHEN,Ethan,Pat,Ralph,B,B,B,B,B,Jeremiah
+246,Cedric,One,GRETCHEN,Tobias,Pat,Ralph,C,B,C,B,B,Billy
+247,GEORGIANN,Rocky Mountain Way,GRETCHEN,Kamron,Pat,Ralph,A,B,A,B,B,NERISSA
+248,JOCELYN,Takin' Care Of Business,GRETCHEN,Kellen,Pat,Ralph,B,B,A,B,B,Malik
+249,CASSIE,Man On the Moon,GRETCHEN,Kellen,Pat,Ralph,C,B,A,B,B,DEEDEE
+250,Jean,Lords of Summer (First Pass Version),GRETCHEN,Howard,Pat,Ralph,B,B,B,B,B,Quintin
+251,EVELYNE,JOHNNY B. GOODE,GRETCHEN,Warren,Pat,Ralph,A,B,A,B,B,Ricky
+252,LOU,I'm the Only One,GRETCHEN,Rogelio,Pat,Ralph,B,B,B,B,B,CAROL
+253,Tyrell,25 Or 6 To 4,GRETCHEN,Kane,Pat,Ralph,C,B,A,B,B,JACQUETTA
+254,ALTHEA,Panic in Detroit,GRETCHEN,Samir,Pat,Ralph,A,B,A,B,B,ZENOBIA
+255,LAURICE,Bad Case Of Lovin' You,GRETCHEN,Samir,Pat,Ralph,B,B,A,B,B,Cody
+256,Jaxson,About a Girl,GRETCHEN,Zechariah,Pat,Ralph,B,B,A,B,B,Deshaun
+257,ELEONOR,Headed For A Heartbreak,GRETCHEN,Ralph,Pat,Ralph,C,B,C,B,B,Korey
+258,Adrian,Fairies Wear Boots,GRETCHEN,Ralph,Pat,Ralph,B,B,C,B,B,Marvin
+259,Dandre,Cryin',GRETCHEN,Gaige,Pat,Ralph,A,B,C,B,B,MARYANNE
+260,Quinn,Middle Of The Road,GRETCHEN,Allan,Pat,Ralph,A,B,C,B,B,MERRI
+261,Enrique,Let's Get the Show on the Road,GRETCHEN,Karson,Pat,Ralph,C,B,A,B,B,JACQUE
+262,Jordy,Save Your Love,ELFREDA,Derrick,Liz,Ralph,A,C,B,C,C,Elias
+263,JOSHUA,Blitzkrieg Bop,ELFREDA,Bernard,Liz,Ralph,B,C,A,C,C,TOSHA
+264,MALKA,Southbound,ELFREDA,Eli,Liz,Ralph,A,C,A,C,C,Jaylon
+265,Raymundo,You're My Best Friend,ELFREDA,Braydon,Liz,Ralph,C,C,A,C,C,JOSHUA
+266,MAYOLA,Get A Haircut,ELFREDA,Jeremiah,Liz,Ralph,C,C,A,C,C,Henry
+267,MAN,Doo Doo Doo Doo Doo (Heartbreaker),ELFREDA,Kameron,Liz,Ralph,A,C,A,C,C,JOYCE
+268,Lucas,Don't Bring Me Down,ELFREDA,Kamron,Liz,Ralph,A,C,A,C,C,ROSALYN
+269,Kade,You Give Love A Bad Name,ELFREDA,Kellen,Liz,Ralph,A,C,A,C,C,Damion
+270,ANTONINA,Breakdown,ELFREDA,Heriberto,Liz,Ralph,B,C,A,C,C,ARLYNE
+271,ANGEL,Black Hole Sun,ELFREDA,Douglas,Liz,Ralph,C,C,B,C,C,Scott
+272,RHEBA,Under Pressure,ELFREDA,Muhammad,Liz,Ralph,B,C,B,C,C,Jerome
+273,KARENA,Kings and Queens,ELFREDA,Zechariah,Liz,Ralph,B,C,A,C,C,Dayne
+274,KELLIE,Do It Again,ELFREDA,Javon,Liz,Ralph,B,C,A,C,C,MAYOLA
+275,PAZ,You Don't Know How It Feels,ELFREDA,Steven,Liz,Ralph,A,C,A,C,C,LEANORA
+276,DELMA,One of These Nights,ELFREDA,Zachery,Liz,Ralph,A,C,C,C,C,HATTIE
+277,Jaylon,Whole Lotta Rosie,ELFREDA,Tommy,Liz,Ralph,B,C,B,C,C,MEGHAN
+278,Marshall,What's Your Name,GIANNA,Derrick,Mary,Ralph,A,A,B,A,A,DELORA
+279,Kareem,The Warrior,GIANNA,Derrick,Mary,Ralph,C,A,B,A,A,MARIKO
+280,Harrison,Rock 'n' Roll Fantasy,GIANNA,Billy,Mary,Ralph,C,A,B,A,A,Sincere
+281,Anderson,Day Tripper,GIANNA,Eli,Mary,Ralph,B,A,A,A,A,Salvatore
+282,Gino,Rockin' Down The Highway,GIANNA,Braydon,Mary,Ralph,B,A,A,A,A,ROBBIN
+283,Koby,It Don't Come Easy,GIANNA,Ethan,Mary,Ralph,A,A,B,A,A,AYESHA
+284,JOY,Seagull,GIANNA,Tobias,Mary,Ralph,A,A,C,A,A,Johnathan
+285,Salvador,Jesus Is Just Alright,GIANNA,Dashawn,Mary,Ralph,C,A,A,A,A,Aric
+286,Sabastian,Cry Sister,GIANNA,Matthew,Mary,Ralph,C,A,A,A,A,Kamron
+287,SARAN,Uncle Albert/Admiral Halsey,GIANNA,Samir,Mary,Ralph,A,A,A,A,A,ESSIE
+288,Keon,When You Dance I Can Really Love,GIANNA,Jaylin,Mary,Ralph,A,A,B,A,A,Vincent
+289,Rhett,The Boys Are Back In Town,GIANNA,Nigel,Mary,Ralph,A,A,B,A,A,Zane
+290,Omar,Honky Tonk Women,GIANNA,Garrison,Mary,Ralph,B,A,B,A,A,Sabastian
+291,NU,Iron Man,GIANNA,Landon,Mary,Ralph,B,A,A,A,A,Kareem
+292,MARIKO,Fade To Black,GIANNA,Gaige,Mary,Ralph,A,A,C,A,A,BRIDGET
+293,Logan,Juke Box Hero,ALINA,Bobby,Liz,Ralph,C,C,B,C,C,KATHERIN
+294,DOMINIQUE,Eleanor Rigby,ALINA,Easton,Liz,Ralph,A,C,B,C,C,KAZUKO
+295,Herbert,Cradle of Love,ALINA,Bernard,Liz,Ralph,A,C,A,C,C,Lukas
+296,Aidan,Dazed and Confused,ALINA,Jeremiah,Liz,Ralph,B,C,A,C,C,Jace
+297,Steven,Same Old Song and Dance,ALINA,Ethan,Liz,Ralph,B,C,B,C,C,Zachariah
+298,ANISHA,To Hell With the Devil,ALINA,Anderson,Liz,Ralph,B,C,C,C,C,ELOISA
+299,ARIEL,Casey Jones,ALINA,Kameron,Liz,Ralph,B,C,A,C,C,Jonas
+300,REYNA,Simple Man,ALINA,Reid,Liz,Ralph,C,C,C,C,C,LOYCE
+301,Zaire,Second Hand News,ALINA,Kellen,Liz,Ralph,C,C,A,C,C,JULIAN
+302,Reagan,A Saturday Club Xmas/Crimble Medley,ALINA,Kellen,Liz,Ralph,C,C,A,C,C,BLANCH
+303,Tylor,Lodi,ALINA,Roy,Liz,Ralph,A,C,A,C,C,MAXINE
+304,Donavon,Up Around the Bend,ALINA,Douglas,Liz,Ralph,A,C,B,C,C,Duncan
+305,ANGELIKA,Smoke On The Water,ALINA,Kane,Liz,Ralph,B,C,A,C,C,MARYLN
+306,INGE,Ain't That a Shame,ALINA,Muhammad,Liz,Ralph,C,C,B,C,C,CINDERELLA
+307,ALVA,Smuggler's Blues,ALINA,Muhammad,Liz,Ralph,A,C,B,C,C,Franklin
+308,Dayne,Hello It's Me,ALINA,Muhammad,Liz,Ralph,C,C,B,C,C,TANISHA
+309,Jarod,Neon Knights,ALINA,Matthew,Liz,Ralph,C,C,A,C,C,EARLIE
+310,Alonso,Maybe I'm Amazed,ALINA,Alfonso,Liz,Ralph,B,C,B,C,C,KEVIN
+311,BETHEL,I'm Down,ALINA,Jaylin,Liz,Ralph,A,C,B,C,C,DELIA
+312,VALORIE,Sara,ALINA,Sawyer,Liz,Ralph,C,C,C,C,C,ANGEL
+313,CRISTEN,The Midnight Special,ALINA,Nigel,Liz,Ralph,B,C,B,C,C,Keegan
+314,MEGHAN,(I Can't Get No) Satisfaction,ALINA,Nigel,Liz,Ralph,A,C,B,C,C,AIDE
+315,Cooper,Hold On,ALINA,Tristin,Liz,Ralph,A,C,B,C,C,CATHERIN
+316,LEONTINE,I Saw the Light,ALINA,Garrison,Liz,Ralph,B,C,B,C,C,KATHYRN
+317,Jamarcus,Brain Stew/Jaded,DEANE,Bobby,Barb,Ralph,A,C,B,C,C,Dawson
+318,Sheldon,Have You Ever Loved a Woman,DEANE,Levi,Barb,Ralph,A,C,B,C,C,MARRY
+319,Harrison,Take It Easy,DEANE,Braydon,Barb,Ralph,A,C,A,C,C,LESSIE
+320,JUNIE,Freeway Jam,DEANE,Anderson,Barb,Ralph,C,C,C,C,C,TONIE
+321,AUTUMN,The Changeling,DEANE,Kameron,Barb,Ralph,A,C,A,C,C,AMI
+322,JANIECE,Highway Star,DEANE,Kellen,Barb,Ralph,A,C,A,C,C,EVELINE
+323,ZELLA,Holiday,DEANE,Warren,Barb,Ralph,C,C,A,C,C,Adam
+324,Edgar,Thorn In My Pride,DEANE,Rogelio,Barb,Ralph,B,C,B,C,C,CANDACE
+325,Gideon,She Don't Know Me,DEANE,Kane,Barb,Ralph,A,C,A,C,C,LAURI
+326,Kenneth,Brain Stew/Jaded,DEANE,Muhammad,Barb,Ralph,A,C,B,C,C,LAURI
+327,LORRINE,You See Me Crying,DEANE,Samir,Barb,Ralph,B,C,A,C,C,Harrison
+328,RAYLENE,There's Only One Way to Rock,DEANE,Jaylin,Barb,Ralph,A,C,B,C,C,Harley
+329,Brock,Welcome To The Machine,DEANE,Sawyer,Barb,Ralph,A,C,C,C,C,IDELL
+330,SEPTEMBER,Spooky,DEANE,Nigel,Barb,Ralph,C,C,B,C,C,HANH
+331,LASANDRA,On The Turning Away,DEANE,Nigel,Barb,Ralph,B,C,B,C,C,German
+332,Nicholas,AND WE DANCED,DEANE,Javon,Barb,Ralph,B,C,A,C,C,RAYLENE
+333,Angelo,Ain't Talkin' 'bout Love,DEANE,Javon,Barb,Ralph,B,C,A,C,C,Skylar
+334,KRISTAN,Are You Gonna Be My Girl,DEANE,Allan,Barb,Ralph,A,C,C,C,C,Jonathan
+335,Donnell,Arrested For Driving While Blind,DEANE,Allan,Barb,Ralph,B,C,C,C,C,Edgar
+336,JOANNE,Mother's Little Helper,DEANE,Karson,Barb,Ralph,A,C,A,C,C,Darian
+337,Joaquin,Barracuda,DEANE,Steven,Barb,Ralph,A,C,A,C,C,Ralph
+338,ARGENTINA,Crimson And Clover,DEANE,Zachery,Barb,Ralph,C,C,C,C,C,BRIANA
+339,NANETTE,Crocodile Rock,DEANE,Zachery,Barb,Ralph,C,C,C,C,C,Jerome
+340,ESTELLA,No Time,SHAROLYN,Bobby,Mary,Ralph,C,A,B,A,A,VONDA
+341,DORA,Horizontal Bop,SHAROLYN,Billy,Mary,Ralph,C,A,B,A,A,Asa
+342,MAVIS,Dogs,SHAROLYN,Billy,Mary,Ralph,B,A,B,A,A,ROSIO
+343,Marc,We're Ready,SHAROLYN,Billy,Mary,Ralph,C,A,B,A,A,Kylan
+344,Kavon,Some Kind of Wonderful,SHAROLYN,Jeremiah,Mary,Ralph,C,A,A,A,A,SIRENA
+345,SHAWNTA,Rio,SHAROLYN,Ethan,Mary,Ralph,A,A,B,A,A,Dwight
+346,Amari,The Last Worthless Evening,SHAROLYN,Ethan,Mary,Ralph,C,A,B,A,A,Harrison
+347,PHOEBE,Where To Now St. Peter,SHAROLYN,Anderson,Mary,Ralph,C,A,C,A,A,SHEMIKA
+348,Skylar,Iris,SHAROLYN,Lincoln,Mary,Ralph,A,A,A,A,A,Jalon
+349,ROSETTE,Seasons of Wither,SHAROLYN,Tobias,Mary,Ralph,C,A,C,A,A,Jay
+350,Salvatore,When You Dance I Can Really Love,SHAROLYN,Tobias,Mary,Ralph,A,A,C,A,A,Korbin
+351,Eddie,IT WON'T BE LONG,SHAROLYN,Kameron,Mary,Ralph,B,A,A,A,A,LINNEA
+352,Peter,Last Child,SHAROLYN,Kamron,Mary,Ralph,C,A,A,A,A,Anderson
+353,PEGGIE,Heartbreaker,SHAROLYN,Heriberto,Mary,Ralph,B,A,A,A,A,Asa
+354,LINNEA,Wicked Sensation,SHAROLYN,Marques,Mary,Ralph,A,A,B,A,A,Sabastian
+355,VONDA,I Don't Care Anymore,SHAROLYN,Marques,Mary,Ralph,C,A,B,A,A,Jesus
+356,AYESHA,Dreams,SHAROLYN,Howard,Mary,Ralph,A,A,B,A,A,Hayden
+357,Johnathan,Big Time,SHAROLYN,Howard,Mary,Ralph,A,A,B,A,A,Infant
+358,Elijah,Bring It On Home,SHAROLYN,Roy,Mary,Ralph,A,A,A,A,A,VAN
+359,MELISSA,IT WON'T BE LONG,SHAROLYN,Rogelio,Mary,Ralph,B,A,B,A,A,Kylan
+360,LEONORA,TIME IN A BOTTLE,SHAROLYN,Rogelio,Mary,Ralph,C,A,B,A,A,Dominik
+361,CATHY,When The Levee Breaks,SHAROLYN,Muhammad,Mary,Ralph,B,A,B,A,A,Salvador
+362,Cody,No No Song,SHAROLYN,Deonte,Mary,Ralph,A,A,A,A,A,VICKI
+363,Dustin,Sgt. Pepper Inner Groove,SHAROLYN,Deonte,Mary,Ralph,C,A,A,A,A,Nicolas
+364,JAYMIE,Rockin' Into the Night,SHAROLYN,Ralph,Mary,Ralph,C,A,C,A,A,Keshawn
+365,Rick,Don't Stop Me Now,SHAROLYN,Ralph,Mary,Ralph,C,A,C,A,A,Ronnie
+366,Rogelio,Empty Spaces,SHAROLYN,Javon,Mary,Ralph,B,A,A,A,A,Misael
+367,GUDRUN,Roll Over Beethoven,SHAROLYN,Allan,Mary,Ralph,A,A,C,A,A,SHEMIKA
+368,Rashad,We Just Disagree,SHAROLYN,Allan,Mary,Ralph,A,A,C,A,A,VICKI
+369,Josiah,You Shook Me All Night Long,SHAROLYN,Zachery,Mary,Ralph,A,A,C,A,A,Jacoby
+370,ANASTACIA,Can't Stand Losing You,BARBIE,Bobby,Mary,Ralph,B,A,B,A,A,GITA
+371,Pierre,Diamond Dogs,BARBIE,Easton,Mary,Ralph,C,A,B,A,A,DIAN
+372,Felix,Down On the Corner,BARBIE,Billy,Mary,Ralph,C,A,B,A,A,Xavier
+373,Royce,Even Better Than the Real Thing,BARBIE,Billy,Mary,Ralph,C,A,B,A,A,PEGGIE
+374,Kevin,Miss You,BARBIE,Braydon,Mary,Ralph,A,A,A,A,A,Dillon
+375,Jacoby,Green Eyed Lady,BARBIE,Anderson,Mary,Ralph,C,A,C,A,A,Terrance
+376,Ronnie,Touch Too Much,BARBIE,Anderson,Mary,Ralph,C,A,C,A,A,Johnny
+377,Derick,The Letter,BARBIE,Reid,Mary,Ralph,C,A,C,A,A,JOY
+378,LORIA,Intruder/ Pretty Woman,BARBIE,Kellen,Mary,Ralph,A,A,A,A,A,Kavon
+379,Dwight,Best Of Both Worlds,BARBIE,Kellen,Mary,Ralph,B,A,A,A,A,Kavon
+380,CLARIBEL,Here Comes The Sun,BARBIE,Heriberto,Mary,Ralph,C,A,A,A,A,Elijah
+381,Milton,Bell Bottom Blues,BARBIE,Marques,Mary,Ralph,B,A,B,A,A,Gordon
+382,Bronson,Behind The Lines,BARBIE,Marques,Mary,Ralph,B,A,B,A,A,Kareem
+383,LYLA,Sultans of Swing,BARBIE,Rogelio,Mary,Ralph,B,A,B,A,A,Tevin
+384,Brady,Misunderstanding,BARBIE,Kane,Mary,Ralph,B,A,A,A,A,SANORA
+385,Deven,So Into You,BARBIE,Sawyer,Mary,Ralph,C,A,C,A,A,JUNKO
+386,Clinton,Street Of Dreams,BARBIE,Sawyer,Mary,Ralph,A,A,C,A,A,LADAWN
+387,MARYANN,The Wanton Song,BARBIE,Garrison,Mary,Ralph,B,A,B,A,A,CICELY
+388,Miles,She's Waiting,BARBIE,Garrison,Mary,Ralph,B,A,B,A,A,SARAN
+389,JUSTIN,Magic Bus,BARBIE,Landon,Mary,Ralph,C,A,A,A,A,ANASTACIA
+390,MICKEY,In The Mood,BARBIE,Zachery,Mary,Ralph,B,A,C,A,A,Derick
+391,LISBETH,Wild Wild Life,BARBIE,Tommy,Mary,Ralph,A,A,B,A,A,Terrance
+392,Alex,Like a Hurricane,YANG,Bobby,Barb,Ralph,B,A,B,A,A,IDELLA
+393,LEESA,Drive My Car,YANG,Bernard,Barb,Ralph,B,A,A,A,A,TAI
+394,HARRIETT,Hotel Illness,YANG,Eli,Barb,Ralph,A,A,A,A,A,LEESA
+395,Bernard,Jane Says,YANG,Braydon,Barb,Ralph,C,A,A,A,A,German
+396,Kyler,Blue Collar Man,YANG,Braydon,Barb,Ralph,B,A,A,A,A,JUNIE
+397,IDELL,If You Could Only See,YANG,Kamron,Barb,Ralph,B,A,A,A,A,KRISTAN
+398,Kennedy,"Always With Me, Always With You",YANG,Kellen,Barb,Ralph,A,A,A,A,A,TAI
+399,MAHALIA,She Loves My Automobile,YANG,Heriberto,Barb,Ralph,C,A,A,A,A,LESSIE
+400,Braxton,Street Corner Serenade,YANG,Warren,Barb,Ralph,A,A,A,A,A,Jaime
+401,Isaak,Golden Country,YANG,Matthew,Barb,Ralph,C,A,A,A,A,Tylor
+402,Misael,Big Empty,YANG,Alfonso,Barb,Ralph,C,A,B,A,A,JACQUELIN
+403,GINETTE,Empty Pages,YANG,Sawyer,Barb,Ralph,B,A,C,A,A,ELSA
+404,EVELINE,Threshold/Jet Airliner,YANG,Glenn,Barb,Ralph,A,A,C,A,A,Alfred
+405,Charlie,Counting Blue Cars,YANG,Zechariah,Barb,Ralph,A,A,A,A,A,Kristopher
+406,ROSSIE,Love Is Alive,YANG,Zachery,Barb,Ralph,A,A,C,A,A,Kolton
+407,Ralph,For Those About To Rock,YANG,Zachery,Barb,Ralph,C,A,C,A,A,Donte
+408,BRIANA,Crossfire,YANG,Tommy,Barb,Ralph,A,A,B,A,A,JUNITA
+409,Gabriel,Feels Like the First Time,MARLEEN,Bobby,Mary,Ralph,C,C,B,C,C,VONDA
+410,Kory,The Long Run,MARLEEN,Bobby,Mary,Ralph,B,C,B,C,C,Judah
+411,Roland,Southern Man,MARLEEN,Levi,Mary,Ralph,C,C,B,C,C,Eddie
+412,ELADIA,City of the Angels,MARLEEN,Ethan,Mary,Ralph,B,C,B,C,C,Terrance
+413,Asa,The Boys Are Back In Town,MARLEEN,Ethan,Mary,Ralph,A,C,B,C,C,Kory
+414,MAYOLA,Free for All,MARLEEN,Lincoln,Mary,Ralph,C,C,A,C,C,SANORA
+415,FRANCES,Polly,MARLEEN,Kameron,Mary,Ralph,A,C,A,C,C,JANETTE
+416,Keshawn,Suite: Judy Blue Eyes,MARLEEN,Kamron,Mary,Ralph,A,C,A,C,C,Clifton
+417,Kylan,"Somehow, Somewhere, Someway",MARLEEN,Randy,Mary,Ralph,A,C,A,C,C,Andres
+418,ALVA,Night Moves,MARLEEN,Marques,Mary,Ralph,C,C,B,C,C,HOLLI
+419,KEESHA,I CAN SEE CLEARLY NOW,MARLEEN,Warren,Mary,Ralph,B,C,A,C,C,SHARITA
+420,Ronnie,Fly,MARLEEN,Warren,Mary,Ralph,B,C,A,C,C,REGENA
+421,GAIL,Boulevard,MARLEEN,Douglas,Mary,Ralph,A,C,B,C,C,Jarred
+422,Grayson,Friday on My Mind,MARLEEN,Muhammad,Mary,Ralph,B,C,B,C,C,CLARIBEL
+423,Jayson,Fortunate Son,MARLEEN,Alfonso,Mary,Ralph,B,C,B,C,C,Skylar
+424,Cole,New Sensation,MARLEEN,Alfonso,Mary,Ralph,C,C,B,C,C,Clinton
+425,TIMOTHY,Cold Hard Bitch,MARLEEN,Jaylin,Mary,Ralph,A,C,B,C,C,HOLLI
+426,MIA,Dr. Feelgood,MARLEEN,Nigel,Mary,Ralph,B,C,B,C,C,NICOLA
+427,Jamie,Helplessly Hoping,MARLEEN,Zechariah,Mary,Ralph,B,C,A,C,C,Judah
+428,DIAN,Immigrant Song,MARLEEN,Miguel,Mary,Ralph,B,C,B,C,C,LUCRETIA
+429,BONITA,Us and Them,MARLEEN,Miguel,Mary,Ralph,B,C,B,C,C,SHANTI
+430,TRENA,Jungleland,MARLEEN,Steven,Mary,Ralph,C,C,A,C,C,Terrance
+431,Brennen,Magic,MARLEEN,Zachery,Mary,Ralph,A,C,C,C,C,Jamie
+432,GIGI,Jet Airliner,MARLEEN,Tommy,Mary,Ralph,A,C,B,C,C,Brad
+433,Mekhi,Fooling Yourself,BARBRA,Bobby,Liz,Ralph,A,A,B,A,A,Jermaine
+434,JEN,Turn To Stone,BARBRA,Easton,Liz,Ralph,A,A,B,A,A,KAZUKO
+435,MARIELA,The Wanton Song,BARBRA,Easton,Liz,Ralph,C,A,B,A,A,Dayne
+436,JAYME,Cum On Feel the Noize,BARBRA,Bernard,Liz,Ralph,B,A,A,A,A,CAMMIE
+437,Mohammad,Ticket to Ride,BARBRA,Bernard,Liz,Ralph,C,A,A,A,A,TRUDI
+438,SHELLEY,Rock & Roll Band,BARBRA,Jeremiah,Liz,Ralph,C,A,A,A,A,Todd
+439,Mariano,Alabama Getaway,BARBRA,Ethan,Liz,Ralph,A,A,B,A,A,Mitchel
+440,TOSHA,I Know a Little,BARBRA,Lincoln,Liz,Ralph,A,A,A,A,A,Jaylon
+441,MELLISSA,Black Coffee In Bed,BARBRA,Tobias,Liz,Ralph,C,A,C,A,A,Zander
+442,Jarred,Me and Bobby McGee,BARBRA,Kameron,Liz,Ralph,C,A,A,A,A,KAMI
+443,Sincere,Breakdown,BARBRA,Simeon,Liz,Ralph,A,A,B,A,A,CATHEY
+444,TRUDI,Stay Up Late,BARBRA,Randy,Liz,Ralph,A,A,A,A,A,Nikhil
+445,JOSELYN,Still You Turn Me On,BARBRA,Warren,Liz,Ralph,A,A,A,A,A,Pedro
+446,ARLYNE,Houseparty,BARBRA,Vincenzo,Liz,Ralph,C,A,A,A,A,Braeden
+447,Bernardo,5:15,BARBRA,Vincenzo,Liz,Ralph,A,A,A,A,A,ANGEL
+448,Lukas,TV Dinners,BARBRA,Douglas,Liz,Ralph,B,A,B,A,A,Bernardo
+449,SHANTA,You Could Be Mine,BARBRA,Dashawn,Liz,Ralph,A,A,A,A,A,Dylan
+450,JOYCE,One,BARBRA,Sawyer,Liz,Ralph,C,A,C,A,A,SHELLEY
+451,Ahmad,Bad Moon Rising,BARBRA,Tristin,Liz,Ralph,C,A,B,A,A,Damion
+452,CAMI,American Dream Plan B,BARBRA,Zechariah,Liz,Ralph,C,A,A,A,A,FONDA
+453,HATTIE,Tonight Tonight (live),BARBRA,Javon,Liz,Ralph,C,A,A,A,A,KATHYRN
+454,CARLINE,Shoot To Thrill,BARBRA,Vincent,Liz,Ralph,B,A,B,A,A,CATALINA
+455,Franklin,CARS,BARBRA,Allan,Liz,Ralph,A,A,C,A,A,Kyle
+456,Jovani,Turn Up The Music  1977,BARBRA,Allan,Liz,Ralph,B,A,C,A,A,Logan
+457,EARLIE,Travelin' Man,BARBRA,Karson,Liz,Ralph,C,A,A,A,A,Randall
+458,Isaiah,Gimme All Your Lovin,FERMINA,Bobby,Pat,Ralph,B,C,B,C,C,Kaden
+459,Brant,Casey Jones,FERMINA,Bernard,Pat,Ralph,C,C,A,C,C,SARA
+460,Nikolas,So Into You,FERMINA,Eli,Pat,Ralph,C,C,A,C,C,Garrison
+461,Kory,Dazed and Confused,FERMINA,Simeon,Pat,Ralph,A,C,B,C,C,Cedric
+462,Alessandro,Good Times Bad Times,FERMINA,Vincenzo,Pat,Ralph,A,C,A,C,C,CAMERON
+463,MOLLY,Fly,FERMINA,Douglas,Pat,Ralph,C,C,B,C,C,MARYBETH
+464,FERNE,Two Tickets To Paradise,FERMINA,Muhammad,Pat,Ralph,A,C,B,C,C,Brant
+465,TAINA,Wild Honey Pie,FERMINA,Samir,Pat,Ralph,A,C,A,C,C,Korey
+466,TIESHA,Don't Go Away Mad (Just Go Away),FERMINA,Nigel,Pat,Ralph,B,C,B,C,C,JENNINE
+467,TAMMI,I've Just Seen A Face,FERMINA,Landon,Pat,Ralph,C,C,A,C,C,Blaze
+468,Braxton,House Of The Rising Sun,FERMINA,Zechariah,Pat,Ralph,A,C,A,C,C,Leon
+469,Walter,Come Sail Away,FERMINA,Ralph,Pat,Ralph,A,C,C,C,C,Kelton
+470,Carson,Crossfire,FERMINA,Javon,Pat,Ralph,B,C,A,C,C,Weston
+471,GENNIE,Foolin',FERMINA,Miguel,Pat,Ralph,A,C,B,C,C,EVELYNE
+472,JACQUE,Bullet the Blue Sky,FERMINA,Gaige,Pat,Ralph,A,C,C,C,C,CASSY
+473,SEPTEMBER,Heat of the Moment,FERMINA,Vincent,Pat,Ralph,C,C,B,C,C,Gerard
+474,Jarred,Livin' On the Fault Line,FERMINA,Karson,Pat,Ralph,A,C,A,C,C,Dan
+475,Zane,T.N.T.,RUBIE,Easton,Mary,Ralph,B,B,B,B,B,ANNETTE
+476,LARRY,Roll Me Away,RUBIE,Billy,Mary,Ralph,A,B,B,B,B,Terrence
+477,BRIDGET,Medicated Goo,RUBIE,Billy,Mary,Ralph,B,B,B,B,B,SHANE
+478,Andres,True Fine Love,RUBIE,Eli,Mary,Ralph,B,B,A,B,B,AYESHA
+479,FRED,YOU'VE GOT A FRIEND,RUBIE,Kamron,Mary,Ralph,A,B,A,B,B,HOLLI
+480,Kamron,Dolly Dagger,RUBIE,Kamron,Mary,Ralph,A,B,A,B,B,DARLA
+481,GEORGIA,Never,RUBIE,Randy,Mary,Ralph,C,B,A,B,B,Kelvin
+482,JANETTE,Takin' It To The Streets,RUBIE,Marques,Mary,Ralph,C,B,B,B,B,LYLA
+483,VAN,Dangerious Type,RUBIE,Warren,Mary,Ralph,B,B,A,B,B,Carlos
+484,JOSEPH,Learning to Fly,RUBIE,Warren,Mary,Ralph,C,B,A,B,B,Jayson
+485,Quinton,Solsbury Hill,RUBIE,Rogelio,Mary,Ralph,C,B,B,B,B,KITTY
+486,Terrance,Knocking At Your Backdoo,RUBIE,Dashawn,Mary,Ralph,A,B,A,B,B,CALLIE
+487,Malcolm,When You Close Your Eyes,RUBIE,Kane,Mary,Ralph,C,B,A,B,B,ROSEMARIE
+488,RENEA,Dog Eat Dog,RUBIE,Matthew,Mary,Ralph,C,B,A,B,B,SHAUNDA
+489,Jay,Dixie/Sweet Home Alabama,RUBIE,Alfonso,Mary,Ralph,B,B,B,B,B,Dwight
+490,Arturo,We're an American Band,RUBIE,Tristin,Mary,Ralph,C,B,B,B,B,CATHY
+491,Alden,Red Red Wine,RUBIE,Tristin,Mary,Ralph,C,B,B,B,B,Emanuel
+492,DEMETRA,Smuggler's Blues,RUBIE,Glenn,Mary,Ralph,B,B,C,B,B,LINNEA
+493,Cruz,Venus and Mars/Rock Show,RUBIE,Javon,Mary,Ralph,C,B,A,B,B,Salvatore
+494,JENNIFER,Bad Case Of Lovin' You,RUBIE,Steven,Mary,Ralph,B,B,A,B,B,Jesus
+495,HENRY,Walking On The Moon,RUBIE,Zachery,Mary,Ralph,A,B,C,B,B,Dewayne
+496,Judah,Angel,RUBIE,Tommy,Mary,Ralph,C,B,B,B,B,CICELY
+497,Luca,The First Cut Is The Deepest,MARYAM,Easton,Pat,Ralph,A,A,B,A,A,Branson
+498,KATRINA,Takin' It To The Streets,MARYAM,Levi,Pat,Ralph,B,A,B,A,A,Nigel
+499,Adrian,I'm Down,MARYAM,Reid,Pat,Ralph,B,A,C,A,A,Augustus
+500,Davon,Burn,MARYAM,Kamron,Pat,Ralph,B,A,A,A,A,Davon
+501,USHA,Green Onions,MARYAM,Heriberto,Pat,Ralph,A,A,A,A,A,ANN
+502,RONALD,Lady Madonna,MARYAM,Marques,Pat,Ralph,A,A,B,A,A,KASSANDRA
+503,THORA,Bullet With Butterfly Wings,MARYAM,Warren,Pat,Ralph,A,A,A,A,A,Stefan
+504,Tyree,Fortune Teller,MARYAM,Vincenzo,Pat,Ralph,A,A,A,A,A,BEVERLEE
+505,MINERVA,Freeze-frame,MARYAM,Roy,Pat,Ralph,B,A,A,A,A,LAQUITA
+506,Mitchell,Where Have All the Good Times Gone!,MARYAM,Kane,Pat,Ralph,B,A,A,A,A,JACQUILINE
+507,KEMBERLY,Tusk,MARYAM,Jaylin,Pat,Ralph,B,A,B,A,A,BEVERLEE
+508,Gilberto,THE SONG IS OVER,MARYAM,Zechariah,Pat,Ralph,B,A,A,A,A,Garrison
+509,JENNINE,Come Together,MARYAM,Tommy,Pat,Ralph,C,A,B,A,A,CHELSEA
+510,SHAUNDA,Let Me Take You Home Tonight,AURA,Easton,Mary,Ralph,A,C,B,C,C,Alvaro
+511,Manuel,Used To Bad News,AURA,Ethan,Mary,Ralph,B,C,B,C,C,Clifton
+512,LENNIE,Art For Arts Sake,AURA,Tobias,Mary,Ralph,B,C,C,C,C,Cruz
+513,ROSIO,Into The Fire,AURA,Kameron,Mary,Ralph,A,C,A,C,C,Josiah
+514,Darryl,Waiting on a Friend,AURA,Kamron,Mary,Ralph,B,C,A,C,C,Jason
+515,NOELIA,Jessica,AURA,Kellen,Mary,Ralph,C,C,A,C,C,Keshawn
+516,Aric,Arrested For Driving While Blind,AURA,Marques,Mary,Ralph,B,C,B,C,C,Liam
+517,KRISTAN,Blinded By the Light,AURA,Dashawn,Mary,Ralph,B,C,A,C,C,Dominik
+518,Chris,Owner of a Lonely Heart,AURA,Draven,Mary,Ralph,B,C,A,C,C,LEONORA
+519,JOANNA,(I Just) Died in Your Arms,AURA,Tristin,Mary,Ralph,C,C,B,C,C,AYESHA
+520,MAISIE,Clampdown,AURA,Landon,Mary,Ralph,C,C,A,C,C,Gabriel
+521,MELANY,Fantasy,AURA,Ralph,Mary,Ralph,B,C,C,C,C,LYLA
+522,Jesus,With Or Without You,AURA,Ralph,Mary,Ralph,A,C,C,C,C,Johnathon
+523,Infant,We Will Rock You/We Are The Champions,AURA,Ralph,Mary,Ralph,A,C,C,C,C,CICELY
+524,CICELY,Freeway Jam,AURA,Gaige,Mary,Ralph,B,C,C,C,C,Kareem
+525,ROBBIN,The Trooper,AURA,Zachery,Mary,Ralph,C,C,C,C,C,Ronnie
+526,DARLA,New Sensation,AURA,Tommy,Mary,Ralph,B,C,B,C,C,MAGDALEN
+527,ELSE,Strike up the Band,OCTAVIA,Easton,Pat,Ralph,C,C,B,C,C,VENETTA
+528,PROVIDENCIA,Hey Jude (Live),OCTAVIA,Billy,Pat,Ralph,A,C,B,C,C,MAIRE
+529,VENETTA,Jackie Wilson Said,OCTAVIA,Billy,Pat,Ralph,C,C,B,C,C,ETHYL
+530,Andreas,I Love Rock 'n Roll,OCTAVIA,Bernard,Pat,Ralph,C,C,A,C,C,Genaro
+531,LOVE,Shout at the Devil,OCTAVIA,Tobias,Pat,Ralph,A,C,C,C,C,Kaden
+532,MALORIE,Good Riddance (Time Of Your Life),OCTAVIA,Kamron,Pat,Ralph,B,C,A,C,C,Kenyon
+533,SARA,Communication Breakdown,OCTAVIA,Kellen,Pat,Ralph,B,C,A,C,C,PHYLICIA
+534,Marvin,Lady Picture Show,OCTAVIA,Marques,Pat,Ralph,A,C,B,C,C,PRECIOUS
+535,ANGELINA,In Bloom,OCTAVIA,Howard,Pat,Ralph,B,C,B,C,C,KIMBERLEE
+536,CHELSEA,Old Man,OCTAVIA,Vincenzo,Pat,Ralph,C,C,A,C,C,GENOVEVA
+537,LYN,Signs,OCTAVIA,Roy,Pat,Ralph,B,C,A,C,C,KATHERYN
+538,KIMBERLEE,Gypsy,OCTAVIA,Deonte,Pat,Ralph,A,C,A,C,C,Augustus
+539,NERISSA,World Turning,OCTAVIA,Sawyer,Pat,Ralph,B,C,C,C,C,Barrett
+540,ETHYL,Superstition [Live],OCTAVIA,Glenn,Pat,Ralph,A,C,C,C,C,SHIRL
+541,Kayden,She's The One,OCTAVIA,Landon,Pat,Ralph,C,C,A,C,C,Israel
+542,Sammy,We Can Work It Out,OCTAVIA,Landon,Pat,Ralph,A,C,A,C,C,CAROLINA
+543,KATHERYN,In the Evening,OCTAVIA,Allan,Pat,Ralph,A,C,C,C,C,Isai
+544,Jeremiah,The Rover,OCTAVIA,Allan,Pat,Ralph,B,C,C,C,C,RICKIE
+545,CASSY,Powderfinger,OCTAVIA,Karson,Pat,Ralph,B,C,A,C,C,GENOVEVA
+546,EMILY,My Town,OCTAVIA,Karson,Pat,Ralph,A,C,A,C,C,GIA
+547,Matthew,Synchronicity II,OCTAVIA,Karson,Pat,Ralph,A,C,A,C,C,Kayden
+548,Turner,Funeral for a Friend (Love Lies Bleeding),BRANDON,Easton,Pat,Ralph,C,C,B,C,C,Gregory
+549,Alonzo,Another Day,BRANDON,Levi,Pat,Ralph,B,C,B,C,C,CAROLA
+550,KERSTIN,Funk #49,BRANDON,Jeremiah,Pat,Ralph,B,C,A,C,C,SIRENA
+551,PHYLICIA,Heartbreaker,BRANDON,Jeremiah,Pat,Ralph,A,C,A,C,C,RICKIE
+552,Rolando,The Dogs Of War,BRANDON,Lincoln,Pat,Ralph,B,C,A,C,C,KEMBERLY
+553,Jaden,I Can't Tell You Why,BRANDON,Tobias,Pat,Ralph,C,C,C,C,C,JULIA
+554,CAROL,Hold Your Head Up,BRANDON,Simeon,Pat,Ralph,C,C,B,C,C,CHRISTENA
+555,FANNY,Piece of Your Action,BRANDON,Kamron,Pat,Ralph,B,C,A,C,C,EDDA
+556,Ezequiel,Gimme Shelter,BRANDON,Kellen,Pat,Ralph,C,C,A,C,C,LAVERA
+557,GERALDINE,Free Bird,BRANDON,Heriberto,Pat,Ralph,B,C,A,C,C,CAMERON
+558,Zackery,867-5309 / Jenny,BRANDON,Marques,Pat,Ralph,C,C,B,C,C,Davon
+559,STEFANY,Takin' Care Of Business,BRANDON,Howard,Pat,Ralph,A,C,B,C,C,BEVERLEE
+560,Gavin,With a Little Help From My Friends,BRANDON,Vincenzo,Pat,Ralph,C,C,A,C,C,LEANA
+561,ANN,Live and Let Die,BRANDON,Roy,Pat,Ralph,B,C,A,C,C,Turner
+562,TERESE,Since You're Gone,BRANDON,Matthew,Pat,Ralph,A,C,A,C,C,LAVERA
+563,SHELLY,The Old Man Down The Road,BRANDON,Samir,Pat,Ralph,B,C,A,C,C,VALERY
+564,HOA,You Took The Words Right Out Of My Mouth,BRANDON,Sawyer,Pat,Ralph,A,C,C,C,C,Demarco
+565,YULANDA,No Easy Way Out,BRANDON,Tristin,Pat,Ralph,B,C,B,C,C,Leon
+566,PHUNG,Rio,BRANDON,Garrison,Pat,Ralph,B,C,B,C,C,AURA
+567,ROBBIN,Landslide,BRANDON,Glenn,Pat,Ralph,C,C,C,C,C,KARA
+568,GLENDORA,Love Is Like Oxygen,BRANDON,Landon,Pat,Ralph,C,C,A,C,C,Malik
+569,Kendrick,With A Little Help From My Friends,BRANDON,Ralph,Pat,Ralph,B,C,C,C,C,Mario
+570,Jamel,Rockstar,BRANDON,Ralph,Pat,Ralph,C,C,C,C,C,MALORIE
+571,NEOMI,Jesus Is Just Alright,BRANDON,Javon,Pat,Ralph,B,C,A,C,C,Demarco
+572,GRAYCE,CAN'T GET IT OUT OF MY HEAD,BRANDON,Miguel,Pat,Ralph,C,C,B,C,C,Dangelo
+573,Gregory,Hey Jude (Live),BRANDON,Gaige,Pat,Ralph,C,C,C,C,C,JENNINE
+574,KARAN,"Blue Morning, Blue Day",BRANDON,Tommy,Pat,Ralph,A,C,B,C,C,Dan
+575,Maxwell,Walking On The Moon,ZORAIDA,Easton,Liz,Ralph,B,B,B,B,B,Jeremiah
+576,KAMI,L.A. Woman,ZORAIDA,Billy,Liz,Ralph,A,B,B,B,B,DEVORAH
+577,Kamron,The Crystal Ship,ZORAIDA,Billy,Liz,Ralph,C,B,B,B,B,Myles
+578,Kobe,I Want A New Drug,ZORAIDA,Eli,Liz,Ralph,A,B,A,B,B,TIARA
+579,TANISHA,"Train, Train",ZORAIDA,Braydon,Liz,Ralph,A,B,A,B,B,Dayne
+580,MARGIT,Across The Universe,ZORAIDA,Braydon,Liz,Ralph,A,B,A,B,B,Jovani
+581,Easton,From Me To You,ZORAIDA,Braydon,Liz,Ralph,B,B,A,B,B,KERRY
+582,Darion,Dear Mr. Fantasy,ZORAIDA,Anderson,Liz,Ralph,A,B,C,B,B,SOPHIE
+583,Elias,No Rain,ZORAIDA,Randy,Liz,Ralph,B,B,A,B,B,Ari
+584,MAXINE,California Girls,ZORAIDA,Howard,Liz,Ralph,C,B,B,B,B,MICHAEL
+585,MARYLN,Something In the Air,ZORAIDA,Rogelio,Liz,Ralph,B,B,B,B,B,BLANCH
+586,Jonas,Bad Motor Scooter,ZORAIDA,Draven,Liz,Ralph,C,B,A,B,B,Ray
+587,Guy,Don't Let The Sun Go Down On Me,ZORAIDA,Samir,Liz,Ralph,B,B,A,B,B,REFUGIO
+588,IMELDA,Ah! Leah!,ZORAIDA,Alfonso,Liz,Ralph,A,B,B,B,B,MELLISSA
+589,Winston,Don't Believe Her,ZORAIDA,Deonte,Liz,Ralph,C,B,A,B,B,Larry
+590,LINNEA,Season of the Witch,ZORAIDA,Jaylin,Liz,Ralph,C,B,B,B,B,Hunter
+591,ALVERTA,Strawberry Fields Forever,ZORAIDA,Sawyer,Liz,Ralph,C,B,C,B,B,BETHEL
+592,Jaxon,Goodbye To Romance,ZORAIDA,Garrison,Liz,Ralph,C,B,B,B,B,Ahmad
+593,Melvin,I'm Alright,ZORAIDA,Zechariah,Liz,Ralph,B,B,A,B,B,Winston
+594,Brad,Shinin' On,ZORAIDA,Javon,Liz,Ralph,A,B,A,B,B,Aidan
+595,Colt,Point of Know Return,ZORAIDA,Miguel,Liz,Ralph,B,B,B,B,B,Gustavo
+596,Hudson,Who Made Who,ZORAIDA,Miguel,Liz,Ralph,B,B,B,B,B,KATHYRN
+597,Kyle,THE LAST TIME,ZORAIDA,Miguel,Liz,Ralph,A,B,B,B,B,NICKY
+598,CORDELIA,Living in the U.S.A.,ZORAIDA,Allan,Liz,Ralph,C,B,C,B,B,BRIGETTE
+599,Myles,Snortin Whiskey,ZORAIDA,Allan,Liz,Ralph,B,B,C,B,B,Ahmad
+600,AIDE,From Me To You,ZORAIDA,Zachery,Liz,Ralph,B,B,C,B,B,Cooper
+601,Manuel,Shine On You Crazy Diamond,CLARINE,Easton,Liz,Ralph,A,A,B,A,A,MANDIE
+602,Camren,Fire Down Below,CLARINE,Bernard,Liz,Ralph,B,A,A,A,A,Trever
+603,ANGELINE,Man On The Corner,CLARINE,Lincoln,Liz,Ralph,B,A,A,A,A,Keegan
+604,MODESTA,December,CLARINE,Simeon,Liz,Ralph,C,A,B,A,A,Jaylon
+605,DYAN,Drift Away,CLARINE,Kamron,Liz,Ralph,A,A,A,A,A,Dayne
+606,Danny,Stop Draggin' My Heart Around,CLARINE,Heriberto,Liz,Ralph,A,A,A,A,A,JAYMIE
+607,KERRY,Sweet Leaf,CLARINE,Muhammad,Liz,Ralph,B,A,B,A,A,Johan
+608,Salvador,Rebel Yell,CLARINE,Jaylin,Liz,Ralph,C,A,B,A,A,SHALANDA
+609,MAUDIE,You Never Give Me Your Money,CLARINE,Tristin,Liz,Ralph,B,A,B,A,A,ARLETTE
+610,Esteban,South City Midnight Lady,CLARINE,Tristin,Liz,Ralph,C,A,B,A,A,Cooper
+611,Felix,Hold On,CLARINE,Glenn,Liz,Ralph,A,A,C,A,A,JOYCE
+612,Rickey,Burnin' for You,CLARINE,Landon,Liz,Ralph,A,A,A,A,A,Hudson
+613,Darryl,Pride And Joy,CLARINE,Ralph,Liz,Ralph,B,A,C,A,A,LOUIE
+614,Hudson,I Drink Alone,CLARINE,Javon,Liz,Ralph,C,A,A,A,A,Dexter
+615,Ray,Get Out of Denver,CLARINE,Javon,Liz,Ralph,B,A,A,A,A,KAMI
+616,LEANORA,Heaven's On Fire,CLARINE,Gaige,Liz,Ralph,A,A,C,A,A,MODESTA
+617,DANYELLE,ANYTIME AT ALL,CLARINE,Allan,Liz,Ralph,B,A,C,A,A,Ty
+618,DEVORAH,Traveling Riverside Blues,CLARINE,Zachery,Liz,Ralph,B,A,C,A,A,Johan
+619,MARRY,19th Nervous Breakdown,RUFINA,Easton,Barb,Ralph,C,C,B,C,C,Kennedy
+620,CALISTA,Wherever I May Roam,RUFINA,Easton,Barb,Ralph,B,C,B,C,C,Eli
+621,Ali,A Well Respected Man,RUFINA,Easton,Barb,Ralph,A,C,B,C,C,Jaime
+622,KESHIA,Sex Type Thing,RUFINA,Reid,Barb,Ralph,B,C,C,C,C,Joel
+623,BRIGETTE,Home by the Sea/Second Home by the Sea,RUFINA,Kamron,Barb,Ralph,C,C,A,C,C,Riley
+624,Jairo,Bad Reputation,RUFINA,Kamron,Barb,Ralph,A,C,A,C,C,JUNIE
+625,JUNITA,Bullet With Butterfly Wings,RUFINA,Kellen,Barb,Ralph,A,C,A,C,C,Eli
+626,Donte,Down To The Waterline,RUFINA,Kellen,Barb,Ralph,C,C,A,C,C,YOKO
+627,Darnell,Somebody Save Me,RUFINA,Kellen,Barb,Ralph,A,C,A,C,C,JACQUELIN
+628,Derick,Bound for the Floor,RUFINA,Heriberto,Barb,Ralph,B,C,A,C,C,Sonny
+629,ALISHIA,Don't Look Back,RUFINA,Warren,Barb,Ralph,A,C,A,C,C,ULRIKE
+630,SHIRLEEN,I Want A New Drug,RUFINA,Warren,Barb,Ralph,C,C,A,C,C,IDELL
+631,Harley,Kashmir,RUFINA,Vincenzo,Barb,Ralph,B,C,A,C,C,MARLEEN
+632,Donte,All Night Long,RUFINA,Kane,Barb,Ralph,C,C,A,C,C,KARISA
+633,Joel,Don't Stop Me Now,RUFINA,Alfonso,Barb,Ralph,A,C,B,C,C,SHIRLEEN
+634,Keenan,Sangre Por Sangre,RUFINA,Sawyer,Barb,Ralph,B,C,C,C,C,Alex
+635,Adam,Let Me Roll It,RUFINA,Nigel,Barb,Ralph,C,C,B,C,C,LEESA
+636,JULEE,Your're Sixteen,RUFINA,Garrison,Barb,Ralph,C,C,B,C,C,Skylar
+637,Hector,Breakdown,RUFINA,Garrison,Barb,Ralph,C,C,B,C,C,Jalen
+638,BRITTANIE,The Real Me,RUFINA,Miguel,Barb,Ralph,C,C,B,C,C,Bernard
+639,META,Telephone Line,RUFINA,Vincent,Barb,Ralph,A,C,B,C,C,Jonathan
+640,CANDACE,Into The Fire,RUFINA,Steven,Barb,Ralph,C,C,A,C,C,LATASHA
+641,German,Athena,SHARLENE,Billy,Barb,Ralph,A,C,B,C,C,Solomon
+642,CORIE,Mrs. Robinson,SHARLENE,Bernard,Barb,Ralph,C,C,A,C,C,Charlie
+643,Tommy,Loco-Motion,SHARLENE,Bernard,Barb,Ralph,A,C,A,C,C,VALARIE
+644,ANJANETTE,My Kinda Lover,SHARLENE,Eli,Barb,Ralph,C,C,A,C,C,MARRY
+645,HALINA,Heartless,SHARLENE,Jeremiah,Barb,Ralph,C,C,A,C,C,MAHALIA
+646,LULU,Emotions in Motion,SHARLENE,Ethan,Barb,Ralph,A,C,B,C,C,KARISA
+647,Maximilian,Fire,SHARLENE,Lincoln,Barb,Ralph,B,C,A,C,C,Ralph
+648,Rey,Why Don't We Get Drunk,SHARLENE,Kameron,Barb,Ralph,B,C,A,C,C,MAYBELL
+649,TANA,Back On The Road Again,SHARLENE,Randy,Barb,Ralph,C,C,A,C,C,Donte
+650,SVETLANA,"Careful With That Axe, Eugene",SHARLENE,Heriberto,Barb,Ralph,B,C,A,C,C,Mason
+651,MARCY,Listen To What The Man Says,SHARLENE,Heriberto,Barb,Ralph,A,C,A,C,C,HALINA
+652,LESSIE,Golden Slumbers,SHARLENE,Warren,Barb,Ralph,C,C,A,C,C,Johnathan
+653,Solomon,SOUL MAN,SHARLENE,Warren,Barb,Ralph,B,C,A,C,C,Angelo
+654,YOKO,Live and Let Die,SHARLENE,Dashawn,Barb,Ralph,B,C,A,C,C,Braeden
+655,IDELLA,Love Reign O'er Me,SHARLENE,Kane,Barb,Ralph,A,C,A,C,C,KRISTAN
+656,Jalen,THE CONTINUING STORY OF BUNG,SHARLENE,Kane,Barb,Ralph,C,C,A,C,C,IDELL
+657,Eli,Hunger Strike,SHARLENE,Muhammad,Barb,Ralph,A,C,B,C,C,Kennedy
+658,ELSA,I Still Haven't Found What I'm Looking For,SHARLENE,Matthew,Barb,Ralph,C,C,A,C,C,CORIE
+659,Sidney,If You Wanna Get to Heaven,SHARLENE,Draven,Barb,Ralph,A,C,A,C,C,DEANDRA
+660,Blaine,You're All I've Got Tonight,SHARLENE,Samir,Barb,Ralph,C,C,A,C,C,Jake
+661,Lincoln,Owner of a Lonely Heart,SHARLENE,Alfonso,Barb,Ralph,B,C,B,C,C,Ali
+662,Bronson,Basket Case,SHARLENE,Deonte,Barb,Ralph,C,C,A,C,C,HALLIE
+663,SHANTAY,Well All Right,CONSUELO,Billy,Liz,Ralph,C,B,B,B,B,Bernardo
+664,KYRA,No Sugar Tonight / New Mother Nature,CONSUELO,Levi,Liz,Ralph,C,B,B,B,B,KAZUKO
+665,Maxwell,Prove It All Night,CONSUELO,Levi,Liz,Ralph,B,B,B,B,B,Johan
+666,KATHERIN,Shine On You Crazy Diamond,CONSUELO,Braydon,Liz,Ralph,A,B,A,B,B,Luca
+667,Terrell,Witchy Woman,CONSUELO,Anderson,Liz,Ralph,C,B,C,B,B,Colt
+668,LOYCE,Reelin' in the Years,CONSUELO,Kameron,Liz,Ralph,C,B,A,B,B,Steven
+669,MARION,Some Like It Hot,CONSUELO,Kameron,Liz,Ralph,A,B,A,B,B,ANGEL
+670,Stephan,My Hero,CONSUELO,Reid,Liz,Ralph,A,B,C,B,B,TIARA
+671,HARRIETTE,I've Just Seen A Face,CONSUELO,Simeon,Liz,Ralph,B,B,B,B,B,KAZUKO
+672,Bronson,One Thing Leads To Another,CONSUELO,Kamron,Liz,Ralph,C,B,A,B,B,CORDELIA
+673,MARDELL,The Spirit of Radio,CONSUELO,Marques,Liz,Ralph,C,B,B,B,B,Brad
+674,Keegan,Take It Easy,CONSUELO,Warren,Liz,Ralph,C,B,A,B,B,Pedro
+675,Henry,Radioactive,CONSUELO,Vincenzo,Liz,Ralph,A,B,A,B,B,PARTICIA
+676,ANISSA,Lady Writer,CONSUELO,Kane,Liz,Ralph,C,B,A,B,B,Jackie
+677,BRITTANIE,Better Man,CONSUELO,Muhammad,Liz,Ralph,B,B,B,B,B,Dexter
+678,CHRISTA,Welcome To My Nightmare,CONSUELO,Samir,Liz,Ralph,B,B,A,B,B,JOYCE
+679,SHIRLENE,Runnin' Down a Dream,CONSUELO,Jaylin,Liz,Ralph,A,B,B,B,B,MODESTA
+680,ALYSSA,Wheels Of Fortune,CONSUELO,Nigel,Liz,Ralph,A,B,B,B,B,LOYCE
+681,ANGELICA,Bitch,CONSUELO,Glenn,Liz,Ralph,A,B,C,B,B,ALVA
+682,CATALINA,Elderly Woman Behind the Counter in a Small Town,CONSUELO,Landon,Liz,Ralph,A,B,A,B,B,JAYME
+683,CREOLA,I Love Rock 'n Roll,CONSUELO,Zechariah,Liz,Ralph,A,B,A,B,B,SHERIDAN
+684,Mitchel,No Matter What,CONSUELO,Zechariah,Liz,Ralph,B,B,A,B,B,SHALANDA
+685,GREGORY,Wango Tango,CONSUELO,Ralph,Liz,Ralph,B,B,C,B,B,BERNADETTE
+686,REITA,Jeremy,CONSUELO,Javon,Liz,Ralph,B,B,A,B,B,CARMELINA
+687,LARRAINE,Seven Bridges Road,ELLY,Billy,Liz,Ralph,C,A,B,A,A,Cooper
+688,CRYSTA,Tonight She Comes,ELLY,Eli,Liz,Ralph,C,A,A,A,A,BRITANY
+689,JULIAN,Teacher I Need You,ELLY,Braydon,Liz,Ralph,A,A,A,A,A,DAGMAR
+690,GLADIS,What It's Like,ELLY,Ethan,Liz,Ralph,B,A,B,A,A,SHERY
+691,TAMELA,Cinnamon Girl,ELLY,Tobias,Liz,Ralph,C,A,C,A,A,Luke
+692,KRISTAL,A Face In The Crowd,ELLY,Kameron,Liz,Ralph,A,A,A,A,A,JUSTA
+693,Quintin,Pride of Man,ELLY,Randy,Liz,Ralph,A,A,A,A,A,Kellen
+694,CINDERELLA,Invisible Sun,ELLY,Dashawn,Liz,Ralph,A,A,A,A,A,KAZUKO
+695,Noe,Thorn In My Pride,ELLY,Dashawn,Liz,Ralph,A,A,A,A,A,SHANTAY
+696,Reed,Don't Bring Me Down,ELLY,Kane,Liz,Ralph,B,A,A,A,A,MICHAEL
+697,ELSA,Pink Houses,ELLY,Matthew,Liz,Ralph,A,A,A,A,A,KANDI
+698,AIMEE,Pulling Mussels,ELLY,Matthew,Liz,Ralph,A,A,A,A,A,ARACELIS
+699,Luke,Industrial Disease,ELLY,Samir,Liz,Ralph,A,A,A,A,A,ARACELIS
+700,ELOISA,Driven to Tears,ELLY,Alfonso,Liz,Ralph,B,A,B,A,A,ETTA
+701,Allan,I HEAR YOU KNOCKING,ELLY,Nigel,Liz,Ralph,C,A,B,A,A,Conor
+702,Billy,Come to Poppa,ELLY,Garrison,Liz,Ralph,C,A,B,A,A,Jace
+703,CATHEY,Come Dancing,ELLY,Glenn,Liz,Ralph,B,A,C,A,A,EARLIE
+704,LOUIE,Sunday Bloody Sunday,ELLY,Glenn,Liz,Ralph,B,A,C,A,A,Toby
+705,Chance,Black Velvet,ELLY,Glenn,Liz,Ralph,B,A,C,A,A,LEANNE
+706,Stephen,The House Is Rockin',ELLY,Miguel,Liz,Ralph,A,A,B,A,A,DELMA
+707,Jarrett,Dancing In the Dark,TOWANDA,Billy,Pat,Ralph,C,C,B,C,C,DOMITILA
+708,Marlon,The Last Worthless Evening,TOWANDA,Braydon,Pat,Ralph,B,C,A,C,C,Mike
+709,THUY,With Or Without You,TOWANDA,Anderson,Pat,Ralph,C,C,C,C,C,VALERY
+710,THALIA,Bring It On Home,TOWANDA,Anderson,Pat,Ralph,B,C,C,C,C,Dario
+711,BEVERLEE,Back for More,TOWANDA,Simeon,Pat,Ralph,A,C,B,C,C,VALERY
+712,Jan,Hungry Heart,TOWANDA,Kamron,Pat,Ralph,C,C,A,C,C,JACQUE
+713,Lawson,I Know I'm Losing You,TOWANDA,Kellen,Pat,Ralph,B,C,A,C,C,KARAN
+714,Augustus,Let My Love Open the Door,TOWANDA,Marques,Pat,Ralph,B,C,B,C,C,Roy
+715,RICKIE,Dreamer,TOWANDA,Warren,Pat,Ralph,B,C,A,C,C,JAYNA
+716,AURA,Gloria,TOWANDA,Roy,Pat,Ralph,B,C,A,C,C,ZELDA
+717,Stefan,Summertime Girls,TOWANDA,Roy,Pat,Ralph,B,C,A,C,C,CASSY
+718,Peter,Dirty Work,TOWANDA,Dashawn,Pat,Ralph,B,C,A,C,C,Grady
+719,TEREASA,Green Onions,TOWANDA,Muhammad,Pat,Ralph,B,C,B,C,C,ELSE
+720,NEOMI,Keep Yourself Alive,TOWANDA,Matthew,Pat,Ralph,C,C,A,C,C,PHYLICIA
+721,Dario,Californication,TOWANDA,Samir,Pat,Ralph,C,C,A,C,C,Marcus
+722,Javier,I Hate Myself For Loving You,TOWANDA,Alfonso,Pat,Ralph,B,C,B,C,C,CASSIE
+723,Emilio,Bang a Gong (Get It On),TOWANDA,Deonte,Pat,Ralph,A,C,A,C,C,Alonzo
+724,SHANIKA,Day Tripper,TOWANDA,Tristin,Pat,Ralph,A,C,B,C,C,Jarrett
+725,Deion,I CAN SEE CLEARLY NOW,TOWANDA,Garrison,Pat,Ralph,B,C,B,C,C,ROBBIN
+726,Alec,A Woman In Love,TOWANDA,Garrison,Pat,Ralph,B,C,B,C,C,KARAN
+727,CHIA,Threshold/Jet Airliner,TOWANDA,Javon,Pat,Ralph,C,C,A,C,C,NICHOLE
+728,Arturo,Treat Me Right,TOWANDA,Vincent,Pat,Ralph,C,C,B,C,C,CAROLINA
+729,EFFIE,Miss You,TOWANDA,Allan,Pat,Ralph,B,C,C,C,C,SHARMAINE
+730,KEVIN,Three Lock Box,RANA,Billy,Liz,Ralph,B,C,B,C,C,LOUIE
+731,Dayne,Is She Really Going Out With Him?,RANA,Bernard,Liz,Ralph,A,C,A,C,C,KYRA
+732,Braeden,"My My, Hey Hey",RANA,Bernard,Liz,Ralph,A,C,A,C,C,LINNEA
+733,Dalton,Crazy Little Thing Called Love,RANA,Eli,Liz,Ralph,B,C,A,C,C,JEN
+734,Deonte,Empty Spaces,RANA,Kameron,Liz,Ralph,B,C,A,C,C,JOSELYN
+735,Gustavo,A Hard Day's Night,RANA,Heriberto,Liz,Ralph,B,C,A,C,C,ELSA
+736,MARRY,Devil Inside,RANA,Vincenzo,Liz,Ralph,B,C,A,C,C,Jamari
+737,KAITLIN,Tush,RANA,Vincenzo,Liz,Ralph,A,C,A,C,C,PARTICIA
+738,Mason,Yesterday,RANA,Vincenzo,Liz,Ralph,B,C,A,C,C,Scott
+739,Isidro,How You Remind Me,RANA,Muhammad,Liz,Ralph,C,C,B,C,C,Scott
+740,EVELINE,Bennie And The Jets,RANA,Matthew,Liz,Ralph,A,C,A,C,C,Darryl
+741,Toby,Lonely Boy,RANA,Draven,Liz,Ralph,C,C,A,C,C,NICKY
+742,EBONIE,Eruption - You Really Got Me,RANA,Samir,Liz,Ralph,A,C,A,C,C,Colt
+743,Khalid,People Are Strange,RANA,Samir,Liz,Ralph,B,C,A,C,C,LINN
+744,ARCELIA,Mrs. Robinson,RANA,Deonte,Liz,Ralph,A,C,A,C,C,GREGORY
+745,CLORA,Coming Up,RANA,Deonte,Liz,Ralph,C,C,A,C,C,Mariano
+746,HILARIA,TWO OUT OF THREE AIN'T BAD,RANA,Jaylin,Liz,Ralph,A,C,B,C,C,JULIAN
+747,Amari,Like a Stone,RANA,Jaylin,Liz,Ralph,B,C,B,C,C,EFFIE
+748,Jose,Roller,RANA,Tristin,Liz,Ralph,C,C,B,C,C,CLORA
+749,DENISSE,Old Man,RANA,Landon,Liz,Ralph,A,C,A,C,C,CINDERELLA
+750,LEANNE,Strawberry Fields Forever,RANA,Zechariah,Liz,Ralph,B,C,A,C,C,Conor
+751,Armando,Since I've Been Loving You,RANA,Allan,Liz,Ralph,B,C,C,C,C,Elias
+752,Ari,Cradle of Love,RANA,Steven,Liz,Ralph,C,C,A,C,C,ANTONINA
+753,Korey,Don't Let The Sun Go Down On Me,CATARINA,Billy,Pat,Ralph,A,A,B,A,A,LUCILE
+754,NATASHA,Bullet With Butterfly Wings,CATARINA,Levi,Pat,Ralph,C,A,B,A,A,MICHELINA
+755,Genaro,The Boys Of Summer,CATARINA,Bernard,Pat,Ralph,B,A,A,A,A,DEEDEE
+756,Garrison,Perry Mason,CATARINA,Braydon,Pat,Ralph,A,A,A,A,A,Augustus
+757,MERRI,Margaritaville,CATARINA,Jeremiah,Pat,Ralph,B,A,A,A,A,Henry
+758,Branson,Your Wildest Dreams,CATARINA,Anderson,Pat,Ralph,A,A,C,A,A,Jonathan
+759,Zackery,STILL THE ONE,CATARINA,Anderson,Pat,Ralph,B,A,C,A,A,MINERVA
+760,Brendan,Alone Again,CATARINA,Tobias,Pat,Ralph,C,A,C,A,A,Cedric
+761,Miles,Blaze of Glory,CATARINA,Reid,Pat,Ralph,C,A,C,A,A,Sincere
+762,KRYSTLE,Da Da Doo Ron Ron,CATARINA,Simeon,Pat,Ralph,C,A,B,A,A,STEFANY
+763,Trenton,Close My Eyes Forever,CATARINA,Simeon,Pat,Ralph,A,A,B,A,A,TAMMI
+764,Rhett,Badge,CATARINA,Kamron,Pat,Ralph,C,A,A,A,A,Arturo
+765,MELANIA,Back Off Boogaloo,CATARINA,Rogelio,Pat,Ralph,C,A,B,A,A,Rhett
+766,LYNN,Hey Nineteen,CATARINA,Douglas,Pat,Ralph,A,A,B,A,A,Malik
+767,Chaim,The Memory Remains,CATARINA,Kane,Pat,Ralph,A,A,A,A,A,JAYNA
+768,JACQUETTA,Sunday Bloody Sunday,CATARINA,Alfonso,Pat,Ralph,A,A,B,A,A,Israel
+769,Nicolas,Kashmir,CATARINA,Deonte,Pat,Ralph,B,A,A,A,A,Javier
+770,Forrest,Been Caught Stealing,CATARINA,Sawyer,Pat,Ralph,B,A,C,A,A,Jamel
+771,CAROLEE,Changes,CATARINA,Javon,Pat,Ralph,A,A,A,A,A,PHUNG
+772,TARYN,Never,CATARINA,Javon,Pat,Ralph,C,A,A,A,A,Jonathan
+773,Alessandro,Roadrunner,CATARINA,Javon,Pat,Ralph,B,A,A,A,A,ELEONOR
+774,Leon,Strike up the Band,CATARINA,Miguel,Pat,Ralph,C,A,B,A,A,Jan
+775,DELANA,Big Log,CATARINA,Gaige,Pat,Ralph,C,A,C,A,A,Ricky
+776,Drake,Check It Out,CATARINA,Vincent,Pat,Ralph,B,A,B,A,A,LOU
+777,Kaden,Bound for the Floor,CATARINA,Vincent,Pat,Ralph,C,A,B,A,A,Ibrahim
+778,Leon,Wheels Of Fortune,CATARINA,Allan,Pat,Ralph,C,A,C,A,A,Wesley
+779,MAIRE,Headkeeper,CATARINA,Karson,Pat,Ralph,B,A,A,A,A,Sammy
+780,EULALIA,The Letter,CATARINA,Steven,Pat,Ralph,A,A,A,A,A,Ethan
+781,CAMERON,Trampled Under Foot,CATARINA,Steven,Pat,Ralph,B,A,A,A,A,Kody
+782,Jayce,Love Is Like Oxygen,CATARINA,Zachery,Pat,Ralph,C,A,C,A,A,TOMOKO
+783,Cristopher,Don't Ask Me Why,CATARINA,Zachery,Pat,Ralph,A,A,C,A,A,CAROLA
+784,Bruce,Still Loving You,CATARINA,Zachery,Pat,Ralph,B,A,C,A,A,Kaden
+785,LAQUITA,A Life Of Illusion,KARMA,Billy,Pat,Ralph,B,A,B,A,A,ETHYL
+786,JOSELYN,The Ballad Of Curtis Loew,KARMA,Billy,Pat,Ralph,C,A,B,A,A,TAMMI
+787,Barrett,Sgt. Pepper Inner Groove,KARMA,Levi,Pat,Ralph,A,A,B,A,A,MYRIAM
+788,EUGENIA,Goodbye Blue Sky,KARMA,Eli,Pat,Ralph,C,A,A,A,A,Jarred
+789,STEPHAINE,It Don't Come Easy,KARMA,Eli,Pat,Ralph,B,A,A,A,A,EFFIE
+790,Jonathan,It's Been Awhile,KARMA,Jeremiah,Pat,Ralph,A,A,A,A,A,Jean
+791,LUCILE,Sweetest Thing,KARMA,Tobias,Pat,Ralph,A,A,C,A,A,Keshawn
+792,Ryley,Dumb,KARMA,Tobias,Pat,Ralph,B,A,C,A,A,Billy
+793,JEANNA,In America,KARMA,Simeon,Pat,Ralph,B,A,B,A,A,MALORIE
+794,ZELDA,Signs,KARMA,Randy,Pat,Ralph,C,A,A,A,A,Carlton
+795,ANGEL,#9 Dream,KARMA,Randy,Pat,Ralph,C,A,A,A,A,Gerard
+796,DESIREE,Boulevard Of Broken Dreams,KARMA,Randy,Pat,Ralph,C,A,A,A,A,Connor
+797,Deshaun,House Of Pain,KARMA,Randy,Pat,Ralph,C,A,A,A,A,Cody
+798,Willie,Roam,KARMA,Randy,Pat,Ralph,C,A,A,A,A,Grady
+799,Kody,Friends Of Mine,KARMA,Kellen,Pat,Ralph,B,A,A,A,A,LAKENDRA
+800,Carlton,Rock This Town,KARMA,Heriberto,Pat,Ralph,A,A,A,A,A,CARI
+801,Dangelo,1984/jump,KARMA,Heriberto,Pat,Ralph,B,A,A,A,A,LOUIE
+802,HILMA,Sad But True,KARMA,Marques,Pat,Ralph,A,A,B,A,A,Sincere
+803,August,Radioactive,KARMA,Rogelio,Pat,Ralph,A,A,B,A,A,Jarrett
+804,DANICA,Too Many People,KARMA,Kane,Pat,Ralph,C,A,A,A,A,Darren
+805,DIEDRA,That's All,KARMA,Muhammad,Pat,Ralph,A,A,B,A,A,RISA
+806,Terry,Gloria,KARMA,Muhammad,Pat,Ralph,C,A,B,A,A,Javonte
+807,KATY,Rocket Man,KARMA,Alfonso,Pat,Ralph,B,A,B,A,A,TEREASA
+808,Ricky,Hey Nineteen,KARMA,Alfonso,Pat,Ralph,C,A,B,A,A,ESTELA
+809,Mohammed,Right Now,KARMA,Jaylin,Pat,Ralph,C,A,B,A,A,GERALDINE
+810,Kelton,Revolution,KARMA,Jaylin,Pat,Ralph,B,A,B,A,A,Jaden
+811,LOVIE,With Arms Wide Open,KARMA,Glenn,Pat,Ralph,B,A,C,A,A,Leon
+812,CAROLINA,The River,KARMA,Zechariah,Pat,Ralph,A,A,A,A,A,Alessandro
+813,Syed,I've Got a Rock 'N' Roll Heart,HWA,Billy,Barb,Ralph,C,B,B,B,B,IDELL
+814,Brandon,Spirit In The Night,HWA,Billy,Barb,Ralph,B,B,B,B,B,Kolton
+815,Sonny,Bullfrog Blues,HWA,Braydon,Barb,Ralph,C,B,A,B,B,Blaine
+816,ODETTE,Medusa,HWA,Reid,Barb,Ralph,C,B,C,B,B,Edgar
+817,LAVADA,Come Together,HWA,Marques,Barb,Ralph,A,B,B,B,B,Angelo
+818,Joshua,Learn To Fly,HWA,Muhammad,Barb,Ralph,B,B,B,B,B,Derick
+819,Erik,Wonderwall,HWA,Matthew,Barb,Ralph,C,B,A,B,B,Charles
+820,Tylor,La Grange,HWA,Alfonso,Barb,Ralph,C,B,B,B,B,AMI
+821,Harry,"My My, Hey Hey",HWA,Jaylin,Barb,Ralph,B,B,B,B,B,Jairo
+822,LAURI,The Sounds Of Silence,HWA,Landon,Barb,Ralph,B,B,A,B,B,Mason
+823,Fred,Dust In The Wind,HWA,Zechariah,Barb,Ralph,A,B,A,B,B,SEPTEMBER
+824,Hector,Eight Miles High,HWA,Miguel,Barb,Ralph,C,B,B,B,B,EVELINE
+825,HALLIE,Oh Sherrie,HWA,Gaige,Barb,Ralph,C,B,C,B,B,MYRA
+826,VALARIE,Snortin Whiskey,HWA,Tommy,Barb,Ralph,C,B,B,B,B,Joel
+827,Marcus,You're Going To Lose That Girl,GWENN,Billy,Pat,Ralph,A,B,B,B,B,Tyree
+828,Nigel,Changes,GWENN,Eli,Pat,Ralph,A,B,A,B,B,TYLER
+829,LEANA,All Star,GWENN,Braydon,Pat,Ralph,C,B,A,B,B,Adrian
+830,CAROLA,Threshold/Jet Airliner,GWENN,Jeremiah,Pat,Ralph,C,B,A,B,B,TAMMI
+831,Augustus,Something To Believe In,GWENN,Reid,Pat,Ralph,C,B,C,B,B,SHAUNDA
+832,JACQUILINE,You Can't Always Get What You Want,GWENN,Heriberto,Pat,Ralph,C,B,A,B,B,ELSE
+833,Demarco,Fooled around and Fell in Love,GWENN,Heriberto,Pat,Ralph,A,B,A,B,B,Nicolas
+834,ZENOBIA,Top of the World,GWENN,Marques,Pat,Ralph,C,B,B,B,B,JACQUE
+835,RAGUEL,Highway Star,GWENN,Warren,Pat,Ralph,B,B,A,B,B,Drake
+836,Marvin,Never,GWENN,Vincenzo,Pat,Ralph,C,B,A,B,B,NATASHA
+837,DEEDEE,Fool for Your Loving,GWENN,Douglas,Pat,Ralph,C,B,B,B,B,Forrest
+838,Wesley,Lay Down Sally,GWENN,Draven,Pat,Ralph,A,B,A,B,B,Davon
+839,BRITTA,Layla,GWENN,Deonte,Pat,Ralph,C,B,A,B,B,Mike
+840,Xander,Fooled around and Fell in Love,GWENN,Deonte,Pat,Ralph,C,B,A,B,B,CAROLINA
+841,KENIA,Sweet Home Alabama,GWENN,Jaylin,Pat,Ralph,C,B,B,B,B,KERSTIN
+842,JULIA,Best Of Both Worlds,GWENN,Tristin,Pat,Ralph,C,B,B,B,B,TAINA
+843,JONELL,Knockin' On Heaven's Door,GWENN,Gaige,Pat,Ralph,A,B,C,B,B,FANNY
+844,Dan,She's a Rainbow,GWENN,Gaige,Pat,Ralph,A,B,C,B,B,DEEDEE
+845,Rogelio,Pulling Mussels,GWENN,Gaige,Pat,Ralph,C,B,C,B,B,Gavin
+846,Efrain,Dancing In the Dark,GWENN,Gaige,Pat,Ralph,A,B,C,B,B,Arturo
+847,Bryson,Tired of Waiting,GWENN,Karson,Pat,Ralph,A,B,A,B,B,JOSELYN
+848,Jakob,Hocus Pocus,GWENN,Karson,Pat,Ralph,C,B,A,B,B,CARI
+849,SHEMIKA,We Will Rock You,SONG,Billy,Mary,Ralph,A,B,B,B,B,Anderson
+850,HOA,Night Prowler,SONG,Billy,Mary,Ralph,B,B,B,B,B,LYLA
+851,LOMA,Mr. Tinkertrain,SONG,Billy,Mary,Ralph,B,B,B,B,B,SHARITA
+852,STORMY,Green River,SONG,Billy,Mary,Ralph,B,B,B,B,B,LADAWN
+853,LUIS,It Wasn't Me,SONG,Eli,Mary,Ralph,B,B,A,B,B,Emanuel
+854,REGENA,Wild Wild Life,SONG,Eli,Mary,Ralph,B,B,A,B,B,Tevin
+855,Pierre,Owner of a Lonely Heart,SONG,Marques,Mary,Ralph,B,B,B,B,B,Kelvin
+856,August,Rosewood Bitters,SONG,Howard,Mary,Ralph,A,B,B,B,B,Carlos
+857,Emanuel,Right Down the Line,SONG,Warren,Mary,Ralph,B,B,A,B,B,Deven
+858,Ismael,To Hell With the Devil,SONG,Warren,Mary,Ralph,C,B,A,B,B,Gino
+859,ESTELLA,Blackbird,SONG,Vincenzo,Mary,Ralph,A,B,A,B,B,REGENA
+860,LAVERNE,Hold The Line,SONG,Dashawn,Mary,Ralph,B,B,A,B,B,Miles
+861,ELMA,Hotel Illness,SONG,Dashawn,Mary,Ralph,C,B,A,B,B,LYLA
+862,Emilio,The Break Up Song,SONG,Dashawn,Mary,Ralph,C,B,A,B,B,Kylan
+863,Willie,South California Purples,SONG,Muhammad,Mary,Ralph,C,B,B,B,B,Hayden
+864,ESSIE,THE CONTINUING STORY OF BUNG,SONG,Draven,Mary,Ralph,B,B,A,B,B,TANESHA
+865,ROSEMARIE,I'm A Man,SONG,Nigel,Mary,Ralph,C,B,B,B,B,Milton
+866,LAVINA,I Can't Quit You Baby,SONG,Ralph,Mary,Ralph,B,B,C,B,B,LEONORA
+867,SHANE,I Feel Fine,SONG,Miguel,Mary,Ralph,A,B,B,B,B,DALIA
+868,Brad,Helter Skelter,SONG,Miguel,Mary,Ralph,B,B,B,B,B,Walker
+869,Dominik,Lodi,SONG,Allan,Mary,Ralph,A,B,C,B,B,Xavier
+870,Judah,Uncle Albert/Admiral Halsey,SONG,Karson,Mary,Ralph,C,B,A,B,B,TIMOTHY
+871,MAGDALEN,Crocodile Rock,STEPHANIE,Billy,Mary,Ralph,C,A,B,A,A,Cornelius
+872,Braiden,Feelin' Alright,STEPHANIE,Billy,Mary,Ralph,B,A,B,A,A,DEMETRA
+873,Ricky,Rock This Town,STEPHANIE,Levi,Mary,Ralph,C,A,B,A,A,Grayson
+874,Clifton,Cult Of Personality,STEPHANIE,Lincoln,Mary,Ralph,C,A,A,A,A,Ronnie
+875,Kirk,New World Man,STEPHANIE,Kameron,Mary,Ralph,A,A,A,A,A,MAYOLA
+876,MARIBETH,Walks Like A Woman,STEPHANIE,Heriberto,Mary,Ralph,C,A,A,A,A,KEESHA
+877,VICKI,Voodoo Child (Slight Return),STEPHANIE,Warren,Mary,Ralph,C,A,A,A,A,Johnathon
+878,Aric,Heading Out To The Highway,STEPHANIE,Douglas,Mary,Ralph,C,A,B,A,A,GAYNELL
+879,Micah,Hot Legs,STEPHANIE,Kane,Mary,Ralph,C,A,A,A,A,YER
+880,Xavier,Bringin' On The Heartbreak,STEPHANIE,Draven,Mary,Ralph,B,A,A,A,A,Harrison
+881,JADA,Little By Little,STEPHANIE,Samir,Mary,Ralph,A,A,A,A,A,ALVA
+882,JUNKO,We Belong,STEPHANIE,Tristin,Mary,Ralph,B,A,B,A,A,Brady
+883,DALIA,Open Arms,STEPHANIE,Landon,Mary,Ralph,A,A,A,A,A,Grady
+884,Dillon,Invincible,STEPHANIE,Landon,Mary,Ralph,B,A,A,A,A,Omar
+885,Myron,Any Way You Want It,STEPHANIE,Zechariah,Mary,Ralph,A,A,A,A,A,Jacoby
+886,Walker,Boogie With Stu,STEPHANIE,Javon,Mary,Ralph,B,A,A,A,A,VICKI
+887,Rocky,Goodbye Stranger,STEPHANIE,Javon,Mary,Ralph,A,A,A,A,A,Omar
+888,LAVINIA,STILL THE ONE,STEPHANIE,Karson,Mary,Ralph,B,A,A,A,A,JENNIFER
+889,AKILAH,Jet Airliner,JOSIE,Billy,Liz,Ralph,A,B,B,B,B,AIDE
+890,MICHELE,Working for the Weekend,JOSIE,Billy,Liz,Ralph,A,B,B,B,B,HARRIETTE
+891,Domenic,Sister Golden Hair,JOSIE,Bernard,Liz,Ralph,B,B,A,B,B,Keyshawn
+892,Johan,Until It Sleeps,JOSIE,Bernard,Liz,Ralph,A,B,A,B,B,KYRA
+893,Dexter,Dixie Chicken,JOSIE,Braydon,Liz,Ralph,A,B,A,B,B,DYAN
+894,Domenic,Fly,JOSIE,Jeremiah,Liz,Ralph,B,B,A,B,B,MIRIAN
+895,KAZUKO,Simply Irresistible,JOSIE,Ethan,Liz,Ralph,A,B,B,B,B,CARMELINA
+896,Howard,I Can't Drive 55,JOSIE,Lincoln,Liz,Ralph,A,B,A,B,B,LEANORA
+897,Damion,Same Ol' Situation,JOSIE,Kameron,Liz,Ralph,C,B,A,B,B,Steven
+898,Sincere,Juke Box Hero,JOSIE,Kamron,Liz,Ralph,B,B,A,B,B,ANISSA
+899,EDWINA,How Long,JOSIE,Warren,Liz,Ralph,B,B,A,B,B,JENISE
+900,Zakary,Interstate Love Song,JOSIE,Vincenzo,Liz,Ralph,C,B,A,B,B,Mitchel
+901,TIARA,It's All I Can Do,JOSIE,Roy,Liz,Ralph,C,B,A,B,B,DYAN
+902,Duncan,What If I Came Knocking,JOSIE,Roy,Liz,Ralph,A,B,A,B,B,TOSHA
+903,ARACELIS,45,JOSIE,Rogelio,Liz,Ralph,C,B,B,B,B,Deonte
+904,Darius,Do You Feel Like We Do,JOSIE,Douglas,Liz,Ralph,C,B,B,B,B,SHARICE
+905,Douglas,Frankenstein,JOSIE,Kane,Liz,Ralph,B,B,A,B,B,Domenic
+906,Chandler,Someone Saved My Life Tonight,JOSIE,Kane,Liz,Ralph,A,B,A,B,B,CELENA
+907,LINN,Dust In The Wind,JOSIE,Draven,Liz,Ralph,B,B,A,B,B,Toby
+908,KANDI,Rice Pudding,JOSIE,Garrison,Liz,Ralph,B,B,B,B,B,Erick
+909,MCKENZIE,Tweeter and the Monkey Man,JOSIE,Glenn,Liz,Ralph,C,B,C,B,B,EFFIE
+910,CHRISSY,Dr. Feelgood,JOSIE,Glenn,Liz,Ralph,A,B,C,B,B,Conor
+911,Dillion,Killer Queen,JOSIE,Glenn,Liz,Ralph,C,B,C,B,B,ALISSA
+912,Bryce,Misty Mountain Hop,JOSIE,Zechariah,Liz,Ralph,A,B,A,B,B,Guy
+913,ELEANORE,Hocus Pocus,JOSIE,Ralph,Liz,Ralph,A,B,C,B,B,Nikhil
+914,EVIA,Yellow Ledbetter,JOSIE,Ralph,Liz,Ralph,C,B,C,B,B,Allan
+915,KEMBERLY,Mutha (Don't Wanna Go To School Today),JOSIE,Vincent,Liz,Ralph,C,B,B,B,B,ROSALYN
+916,LIZ,Modern Love,JOSIE,Zachery,Liz,Ralph,C,B,C,B,B,ARIEL
+917,Weston,Lust for Life,SALLIE,Levi,Pat,Ralph,B,A,B,A,A,KATHLEEN
+918,Roy,Forever Man,SALLIE,Bernard,Pat,Ralph,C,A,A,A,A,Demarco
+919,Billy,Lightning Bolt,SALLIE,Kameron,Pat,Ralph,B,A,A,A,A,NEOMI
+920,Benny,Ohio,SALLIE,Randy,Pat,Ralph,B,A,A,A,A,DIEDRA
+921,CHRISTENA,Roam,SALLIE,Marques,Pat,Ralph,B,A,B,A,A,RONALD
+922,Javonte,Goodbye To Romance,SALLIE,Warren,Pat,Ralph,C,A,A,A,A,Darrell
+923,Connor,Tube Snake Boogie,SALLIE,Warren,Pat,Ralph,B,A,A,A,A,ZORA
+924,ESTELA,Mony Mony,SALLIE,Roy,Pat,Ralph,C,A,A,A,A,Sammy
+925,Sawyer,Take Me In Your Arms,SALLIE,Roy,Pat,Ralph,C,A,A,A,A,Cole
+926,Mario,No One to Run With,SALLIE,Douglas,Pat,Ralph,B,A,B,A,A,SHIRL
+927,KATHLEEN,Roadrunner,SALLIE,Kane,Pat,Ralph,C,A,A,A,A,Cristopher
+928,ANGEL,Fantasy,SALLIE,Muhammad,Pat,Ralph,C,A,B,A,A,Jarrett
+929,Dallin,BLUE MONEY,SALLIE,Muhammad,Pat,Ralph,B,A,B,A,A,Landen
+930,SHIRL,Photograph,SALLIE,Draven,Pat,Ralph,C,A,A,A,A,GENNIE
+931,CRISTIE,Killer Queen,SALLIE,Samir,Pat,Ralph,C,A,A,A,A,KATY
+932,Landen,Radioactive,SALLIE,Alfonso,Pat,Ralph,B,A,B,A,A,Marvin
+933,LONNIE,Send Her My Love,SALLIE,Allan,Pat,Ralph,B,A,C,A,A,JACQUILINE
+934,JOY,Don't Stop,SALLIE,Allan,Pat,Ralph,C,A,C,A,A,SHELLY
+935,Grady,Love Her Madly,SALLIE,Steven,Pat,Ralph,C,A,A,A,A,EDDA
+936,HOLLEY,Run Like Hell,DELIA,Levi,Mary,Ralph,B,C,B,C,C,ENEIDA
+937,Kaleb,My Demons,DELIA,Levi,Mary,Ralph,A,C,B,C,C,Demetrius
+938,SHARITA,Freeze-frame,DELIA,Ethan,Mary,Ralph,B,C,B,C,C,Irvin
+939,Jalon,Allentown,DELIA,Ethan,Mary,Ralph,A,C,B,C,C,NU
+940,EUSEBIA,Dream Police,DELIA,Anderson,Mary,Ralph,C,C,C,C,C,Gabriel
+941,Jaxon,Telephone Line,DELIA,Lincoln,Mary,Ralph,C,C,A,C,C,ELADIA
+942,GAYNELL,Even the Losers,DELIA,Simeon,Mary,Ralph,A,C,B,C,C,Misael
+943,Bronson,Superman,DELIA,Kamron,Mary,Ralph,B,C,A,C,C,DORTHY
+944,Carlos,Getting In Tune,DELIA,Randy,Mary,Ralph,B,C,A,C,C,Gaige
+945,Demarcus,Right Place Wrong Time,DELIA,Howard,Mary,Ralph,B,C,B,C,C,Jaxon
+946,Brayden,What Do All The People Know,DELIA,Douglas,Mary,Ralph,A,C,B,C,C,Jalon
+947,Kieran,My Kinda Lover,DELIA,Muhammad,Mary,Ralph,C,C,B,C,C,Khalid
+948,Alden,Taxman,DELIA,Muhammad,Mary,Ralph,C,C,B,C,C,Omar
+949,LADAWN,On a Plain,DELIA,Matthew,Mary,Ralph,B,C,A,C,C,Jamie
+950,Angelo,Green Grass & High Tides,DELIA,Draven,Mary,Ralph,C,C,A,C,C,Irvin
+951,Zachary,After Midnight,DELIA,Alfonso,Mary,Ralph,A,C,B,C,C,SANORA
+952,Johnathon,Take Me To The River,DELIA,Jaylin,Mary,Ralph,C,C,B,C,C,ELADIA
+953,Spencer,Signs,DELIA,Glenn,Mary,Ralph,C,C,C,C,C,Aric
+954,Hayden,Round and Round,DELIA,Landon,Mary,Ralph,B,C,A,C,C,Rogelio
+955,YOLANDO,Eye of the Tiger,DELIA,Miguel,Mary,Ralph,B,C,B,C,C,ALVA
+956,ILA,Livin' Thing,DELIA,Allan,Mary,Ralph,B,C,C,C,C,GEORGIANNE
+957,NORAH,Free Me,DELIA,Allan,Mary,Ralph,B,C,C,C,C,ANASTACIA
+958,Dallas,Urgent,DELIA,Allan,Mary,Ralph,A,C,C,C,C,Brayden
+959,SHAWNA,Everlong,DELIA,Zachery,Mary,Ralph,A,C,C,C,C,Hayden
+960,Duane,Way Cool Jr.,DELIA,Tommy,Mary,Ralph,B,C,B,C,C,Aric
+961,KITTY,Redneck Friend,JONELL,Bernard,Mary,Ralph,B,B,A,B,B,SHANE
+962,RENATE,Just Dropped In,JONELL,Bernard,Mary,Ralph,C,B,A,B,B,Cruz
+963,INGER,Loser,JONELL,Braydon,Mary,Ralph,C,B,A,B,B,Vaughn
+964,Vincent,Riders On The Storm,JONELL,Jeremiah,Mary,Ralph,C,B,A,B,B,Kamron
+965,Sabastian,Long Distance Runaround,JONELL,Anderson,Mary,Ralph,A,B,C,B,B,JEREMY
+966,Nickolas,Misty Mountain Hop,JONELL,Lincoln,Mary,Ralph,A,B,A,B,B,Irvin
+967,SEASON,Don't Stand So Close To Me,JONELL,Kellen,Mary,Ralph,C,B,A,B,B,YOLANDO
+968,LORENZA,Sgt. Pepper's Lonely Hearts Club Band (Reprise),JONELL,Heriberto,Mary,Ralph,B,B,A,B,B,Brady
+969,Jarred,Thorn In My Pride,JONELL,Marques,Mary,Ralph,B,B,B,B,B,Kory
+970,ALI,Jailbreak,JONELL,Draven,Mary,Ralph,A,B,A,B,B,MARIKO
+971,Tristian,Party,JONELL,Sawyer,Mary,Ralph,C,B,C,B,B,ALVA
+972,Gaige,Runaround,JONELL,Sawyer,Mary,Ralph,A,B,C,B,B,LAVERNE
+973,Jason,New Kid In Town,JONELL,Zechariah,Mary,Ralph,C,B,A,B,B,Brad
+974,Korbin,Drift Away,JONELL,Ralph,Mary,Ralph,C,B,C,B,B,Rogelio
+975,Vincenzo,A Life Of Illusion,JONELL,Javon,Mary,Ralph,C,B,A,B,B,YOLANDO
+976,TANJA,Run Through the Jungle,JONELL,Miguel,Mary,Ralph,A,B,B,B,B,Ronnie
+977,Dewayne,Stranglehold,JONELL,Gaige,Mary,Ralph,C,B,C,B,B,Peter
+978,SIRENA,JOHNNY B. GOODE,JONELL,Karson,Mary,Ralph,C,B,A,B,B,Koby
+979,IESHA,Forever Man,MALORIE,Bernard,Barb,Ralph,B,A,A,A,A,JULIANNA
+980,Kolton,Born Too Late,MALORIE,Bernard,Barb,Ralph,C,A,A,A,A,Kolton
+981,ISELA,"Lovin', Touchin' Squeezin'",MALORIE,Anderson,Barb,Ralph,B,A,C,A,A,ROSSIE
+982,Giovanni,The Word,MALORIE,Kameron,Barb,Ralph,C,A,A,A,A,Kenneth
+983,Charles,Rumors In The Air,MALORIE,Simeon,Barb,Ralph,B,A,B,A,A,LIN
+984,Braeden,Travelin' Man,MALORIE,Howard,Barb,Ralph,C,A,B,A,A,KRISTAN
+985,TERRESA,The Crystal Ship,MALORIE,Douglas,Barb,Ralph,C,A,B,A,A,CANDACE
+986,JULIANNA,Stop Draggin' My Heart Around,MALORIE,Dashawn,Barb,Ralph,B,A,A,A,A,Kristopher
+987,Nicholas,Good Times Roll,MALORIE,Dashawn,Barb,Ralph,A,A,A,A,A,Fidel
+988,SHIRELY,Down Under,MALORIE,Kane,Barb,Ralph,A,A,A,A,A,JUNITA
+989,Daquan,My Love,MALORIE,Kane,Barb,Ralph,A,A,A,A,A,BRITTANI
+990,Jake,Sometimes A Fantasy,MALORIE,Draven,Barb,Ralph,A,A,A,A,A,Joaquin
+991,CHRISTEN,Looking For A Love,MALORIE,Deonte,Barb,Ralph,C,A,A,A,A,META
+992,KARISA,Top Jimmy,MALORIE,Sawyer,Barb,Ralph,B,A,C,A,A,Skylar
+993,LATASHA,Get Off Of My Cloud,MALORIE,Ralph,Barb,Ralph,B,A,C,A,A,Rey
+994,Riley,No Excuses,MALORIE,Javon,Barb,Ralph,A,A,A,A,A,MARRY
+995,KEENA,What a Fool Believes,MALORIE,Vincent,Barb,Ralph,C,A,B,A,A,Jonathan
+996,Alfred,The Ripper,MALORIE,Karson,Barb,Ralph,B,A,A,A,A,Donnell
+997,KASSANDRA,Song 2,JOHANA,Bernard,Pat,Ralph,B,C,A,C,C,Enrique
+998,KELLE,Oye Como Va,JOHANA,Eli,Pat,Ralph,A,C,A,C,C,DELANA
+999,MORA,Hello Goodbye,JOHANA,Reid,Pat,Ralph,A,C,C,C,C,THORA
+1000,JAYNA,I'm Leaving,JOHANA,Simeon,Pat,Ralph,C,C,B,C,C,Herbert
+1001,Cole,Lucy In The Sky With Diamonds,JOHANA,Howard,Pat,Ralph,C,C,B,C,C,Cristopher
+1002,Kenyon,Coming Home,JOHANA,Warren,Pat,Ralph,B,C,A,C,C,LYNN
+1003,Darren,The Battle Of Evermore,JOHANA,Matthew,Pat,Ralph,B,C,A,C,C,CASSIE
+1004,SUSANNA,Soul Kitchen,JOHANA,Draven,Pat,Ralph,A,C,A,C,C,Sawyer
+1005,Ibrahim,Take the Money and Run,JOHANA,Deonte,Pat,Ralph,A,C,A,C,C,MARIETTE
+1006,Shane,Heavy Metal,JOHANA,Sawyer,Pat,Ralph,C,C,C,C,C,EFFIE
+1007,ZORA,The Passenger,JOHANA,Glenn,Pat,Ralph,B,C,C,C,C,Adrian
+1008,Israel,Finish What Ya Started,JOHANA,Glenn,Pat,Ralph,B,C,C,C,C,RONALD
+1009,VALERY,WAITIN' FOR THE BUS/JESUS JUST LEFT CHICAGO,JOHANA,Ralph,Pat,Ralph,B,C,C,C,C,LAMONICA
+1010,GIA,Run With The Pack,JOHANA,Ralph,Pat,Ralph,A,C,C,C,C,Augustus
+1011,MARIETTE,How Can I Refuse,JOHANA,Javon,Pat,Ralph,B,C,A,C,C,Nickolas
+1012,TAMIE,THE LAST TIME,JOHANA,Steven,Pat,Ralph,A,C,A,C,C,MERRI
+1013,Amari,Youth Gone Wild,JOHANA,Zachery,Pat,Ralph,B,C,C,C,C,Gilberto
+1014,Paul,Industrial Disease,JOHANA,Tommy,Pat,Ralph,A,C,B,C,C,Henry
+1015,ROSALYN,It Can Happen,HELLEN,Bernard,Liz,Ralph,B,C,A,C,C,EARLIE
+1016,Irvin,I'm On Fire,HELLEN,Eli,Liz,Ralph,A,C,A,C,C,JOYCE
+1017,Lamont,Rain On The Scarecrow,HELLEN,Braydon,Liz,Ralph,A,C,A,C,C,ASHLEA
+1018,Johnnie,South City Midnight Lady,HELLEN,Ethan,Liz,Ralph,A,C,B,C,C,Mekhi
+1019,Jeremiah,And She Was,HELLEN,Lincoln,Liz,Ralph,A,C,A,C,C,Dayne
+1020,SHONA,Turn Me Loose,HELLEN,Tobias,Liz,Ralph,C,C,C,C,C,Larry
+1021,Javonte,In A Gadda Da Vida,HELLEN,Reid,Liz,Ralph,A,C,C,C,C,Jarred
+1022,Zander,Twentieth Century Fox,HELLEN,Simeon,Liz,Ralph,B,C,B,C,C,LIZ
+1023,Dayne,Cross-eyed Mary,HELLEN,Warren,Liz,Ralph,C,C,A,C,C,Logan
+1024,Efren,Civil War,HELLEN,Vincenzo,Liz,Ralph,C,C,A,C,C,Mariano
+1025,Jamari,Locomotive Breath,HELLEN,Muhammad,Liz,Ralph,A,C,B,C,C,Jarod
+1026,FONDA,Bicycle Race/fat Bottomed Girls,HELLEN,Sawyer,Liz,Ralph,B,C,C,C,C,Khalid
+1027,ALISSA,Synchronicity II,HELLEN,Sawyer,Liz,Ralph,B,C,C,C,C,Vincenzo
+1028,Darion,I'm So Glad,HELLEN,Tristin,Liz,Ralph,C,C,B,C,C,ANTONIO
+1029,ARLETTE,Trippin' on a Hole in a Paper Heart,HELLEN,Garrison,Liz,Ralph,A,C,B,C,C,CORDELIA
+1030,Jermaine,Come to Poppa,HELLEN,Glenn,Liz,Ralph,A,C,C,C,C,Camren
+1031,CATHEY,Friday on My Mind,HELLEN,Landon,Liz,Ralph,A,C,A,C,C,MAUDIE
+1032,DELIA,It's Still Rock And Roll To Me,HELLEN,Javon,Liz,Ralph,B,C,A,C,C,LEANORA
+1033,Vincenzo,With a Little Luck,HELLEN,Javon,Liz,Ralph,C,C,A,C,C,ALVA
+1034,Jared,This Beat Goes on/Switching to Glide,HELLEN,Gaige,Liz,Ralph,A,C,C,C,C,Myles
+1035,Sincere,Peg,AKILAH,Eli,Mary,Ralph,B,B,A,B,B,YER
+1036,Grady,Dream Weaver,AKILAH,Ethan,Mary,Ralph,B,B,B,B,B,ANNETTE
+1037,Kelvin,And It Stoned Me,AKILAH,Ethan,Mary,Ralph,C,B,B,B,B,MAYOLA
+1038,ENEIDA,Rock The Casbah,AKILAH,Vincenzo,Mary,Ralph,C,B,A,B,B,Ronnie
+1039,LINNIE,Are You Gonna Go My Way,AKILAH,Vincenzo,Mary,Ralph,A,B,A,B,B,JANETTE
+1040,Terrence,What Do You Do For Money Honey,AKILAH,Vincenzo,Mary,Ralph,B,B,A,B,B,ELMA
+1041,SANORA,Breakdown,AKILAH,Rogelio,Mary,Ralph,C,B,B,B,B,MICKEY
+1042,HOLLI,Gypsy,AKILAH,Douglas,Mary,Ralph,B,B,B,B,B,Gaige
+1043,TANESHA,Elected,AKILAH,Matthew,Mary,Ralph,B,B,A,B,B,ALVA
+1044,SHANTI,Jungleland,AKILAH,Jaylin,Mary,Ralph,B,B,B,B,B,Alden
+1045,Moshe,Top of the World,AKILAH,Nigel,Mary,Ralph,A,B,B,B,B,SEASON
+1046,DORTHY,Down On the Corner,AKILAH,Glenn,Mary,Ralph,B,B,C,B,B,SHARITA
+1047,Misael,Knockin' On Heaven's Door,AKILAH,Ralph,Mary,Ralph,C,B,C,B,B,MARIBETH
+1048,Kamron,Couldn't Stand the Weather,AKILAH,Javon,Mary,Ralph,C,B,A,B,B,REGENA
+1049,ADELE,The Rain Song,AKILAH,Vincent,Mary,Ralph,C,B,B,B,B,BARBERA
