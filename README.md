@@ -4,7 +4,7 @@ Chicken Farm Data Exercise
 Providing improved packaging with lineage information for each individual bird.
 
 The Python code and notes are documented within the Python Jupyter Notebook. A HTML version of the notebook
-is included to allow access to users without needed to run Jupyter Notebooks. The collapsable Details section below
+is included to allow access to users without Python Jupyter Notebooks. The collapsable Details section below
 includes some of the same details wihin the Notebook.
 
 ### Data Schema
